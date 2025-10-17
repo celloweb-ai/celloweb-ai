@@ -106,7 +106,7 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 
 ### DIO
 - [Fundamentos de IA Generativa]
-.(https://www.dio.me/certificateF5EOFUY1A)
+.(https://www.dio.me/certificate/F5EOFUY1A)
 
 ---
 
