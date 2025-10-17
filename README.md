@@ -105,7 +105,7 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 - [Huawei Certified ICT Associate (HCIA) - AI](https://kltstaticcontent.shixizhi.huawei.com/1365189427395223554/certificate/20250919/b1f966041aef4243819259fa4ac63eda_ICT2025091900181311d52dd17e8e42cc9464fbfbe56195ee.png)
 
 ### DIO
-- [Fundamentos de IA Generativa](https://www.dio.me/certificate/5EOFUY1A/share)
+- [Fundamentos de IA Generativa](https://openbadgepassport.com/file/0/a/a/d/0aadff51f3a0f6e94658275fec186d238f494b7fc944724636af70092b9cdc0c.png)
 
 ---
 
