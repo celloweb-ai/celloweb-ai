@@ -53,6 +53,9 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 - [Machine Learning Master Certification](https://openbadgefactory.com/v1/assertion/a9859e05680320937c314d732feb494ec330e15b.html)
 - [Machine Learning Professional Certification](https://openbadgefactory.com/v1/assertion/fbe96028b03893efeb2f7cdd7a2e2cd40c4fde5f.html)
 
+### Alura
+- [Aprendizagem: personalizando sua rotina de estudos com ChatGPT](https://openbadgepassport.com/file/5/b/d/2/5bd24524fce9b7308c1d240f7ecd2c98f086aa5f0febbf31cd3614b02e38199e.png)
+
 ### AWS / TIDWIT
 - [AWS GenAI Practitioner](https://aws-brgenai.ontidwit.com/#/badge/c716b58b-0f06-4bef-b2a7-f8ec3105c3c6)
 
