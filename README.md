@@ -74,6 +74,9 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 - [Inteligência Artificial e Computacional](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=6f4eccc2703b66fb7862c9ef191b430a&action=view)
 - [Inteligência Artificial Responsável](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=1f9a87feae4a56eeefa505cd457242d5&action=view)
 
+### Google
+- [Google AI Essentials](https://coursera.org/share/d9cf7ae309978389865522230efb9e1c)
+
 ### Huawei
 - [Huawei Certified ICT Associate (HCIA) - AI](https://kltstaticcontent.shixizhi.huawei.com/1365189427395223554/certificate/20250919/b1f966041aef4243819259fa4ac63eda_ICT2025091900181311d52dd17e8e42cc9464fbfbe56195ee.png)
 
