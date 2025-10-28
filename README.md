@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Niterói,_Rio_de_Janeiro-Brazil-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDJDOC4xMyAyIDUgNS4xMyA1IDljMCA1LjI1IDcgMTMgNyAxM3M3LTcuNzUgNy0xM2MwLTMuODctMy4xMy03LTctN3ptMCA5LjVjLTEuMzggMC0yLjUtMS4xMi0yLjUtMi41czEuMTItMi41IDIuNS0yLjUgMi41IDEuMTIgMi41IDIuNS0xLjEyIDIuNS0yLjUgMi41eiIvPjwvcGF0aD48L3N2Zz4=" alt="Location"/>
+    <img src="https://img.shields.io/badge/Location-Brazil-2BA600?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAwIDcwMCI+PGcgZmlsbD0iIzJCRTgyMCI+PHBhdGggZD0iTTAgMGg5OTkuOTk5djcwMEgweiIvPjwvZz48ZyBmaWxsPSIjRkZFNTAwIj48cGF0aCBkPSJNOTk5Ljk5OSA3MDAgMCwwIDAgNzAwem0tNSA2OTBIMTBMMzUwIDM1MCA1IDY5MHpNNDk5Ljk5OSA1MCA5ODkuOTk5IDM1MCA0OTkuOTk5IDY1MCAxMCAzNTB6Ii8+PC9nPjxnIGZpbGw9IiMyQjU3ODIiPjxwYXRoIGQ9Ik00OTkuOTk5IDUwYy0xNjUuNjggMC0zMDAgMTM0LjMyLTMwMCAzMDBzMTM0LjMyIDMwMCAzMDAgMzAwIDMwMC0xMzQuMzIgMzAwLTMwMFMxNjUuNjggNTAgMzAwIDUwem0tMjIxLjA3NyAyNjkuODk4YTIuMzYgMi4zNiAwIDAgMCAxLjQyNSAxLjQyNWMyMS4yMiA3LjA3MyA0Mi40MzkgMTQuMTQ3IDYzLjY1OCAyMS4yMmE0LjcyIDQuNzIgMCAwIDAgNS41MS0xLjQyNWMxMy40MTctMTIuNjg5IDI2LjgzMy0yNS4zNzcgNDAuMjUtMzguMDY2YTUuMDc0IDUuMDc0IDAgMCAwLTEuMjM1LTcuNTAyYy0yMC4xNDMtOS4xMDgtNDAuMjg2LTE4LjIxNi02MC40My0yNy4zMjNhMi4zNiAyLjM2IDAgMCAwLTIuODY5IDEuMDQgMTYuODMyIDE2LjgzMiAwIDAgMS0zLjU2MiA0LjU5MyAyLjM2IDIuMzYgMCAwIDAtLjM4MSAzLjc1NCAxNi41MzcgMTYuNTM3IDAgMCAxLTIuNjU3IDMuNTQzYy0uMTkuMzgtLjU3MS43NjItLjc2MiAxLjE0MmEyLjM2IDIuMzYgMCAwIDAtLjE5IDMuMTUybDIuNDgzIDIuMjk1Yy4zOC4zOC43NjIuNzYyIDEuMTQzIDEuMTQzIDEuMzM1IDEuMTQzIDIuNjcgMi4yODYgNC4wMDUgMy40M2ExNi41MzggMTYuNTM4IDAgMCAxIDMgMy4yNDhjLjE5LjM4LjM4MS43NjIuMzgxIDEuMTQyem0tNDAuODIxLTY4LjM3OGMtNy44MTYgMy41MjUtMTUuNjMyIDcuMDUxLTIzLjQ0OCA5LjU4NGExMi4zMyAxMi4zMyAwIDAgMS01LjMzIDMuMjQ4IDIuMzYgMi4zNiAwIDAgMC0uOTUyIDIuODY5Yy4zOCAxLjkyNS43NjIgMy44NSAxLjE0MyA1Ljc3NGEyLjM2IDIuMzYgMCAwIDAgMi40NzggMS45MDVjNi42NzItLjM4IDguNTc3LS4xOSA4LjU3Ny0uMTlsMi42Ny0uMTljNC4xOTMtLjM4IDguMzODYtLjc2MiAxMi41OC0xLjE0MmEzLjY4NSAzLjY4NSAwIDAgMCAzLjU0Mi0zLjgxMiA0MC40MTEgNDAuNDExIDAgMCAxLTEuNzE1LTYuODU2IDIuMzYgMi4zNiAwIDAgMC0uNzYyLTEuNzE1Yy0xLjMyNi0uOTQ4LTIuNjU3LTEuODk3LTMuOTg3LTIuODUxYTcuOTQgNy45NCAwIDAgMS0zLjQyOS00LjU5MyAyLjM2IDIuMzYgMCAwIDAtMy4wNS0xLjcxNCAxMC42NzUgMTAuNjc1IDAgMCAxLTYuNDggMS43MTR6bTIzLjI1Ny0yMC4yNWExNy40MTYgMTcuNDE2IDAgMCAwIDMuMDQ5LTYuMjkzIDIuMzYgMi4zNiAwIDAgMC0uOTUyLTEuNzE1Yy0xLjcxNS0uOTQ4LTMuNDI5LTEuODk3LTUuMTQ0LTIuODUxYTUuNDU3IDUuNDU3IDAgMCAwLTUuNTI3IDAgMi4zNiAyLjM2IDAgMCAwLTEuMTQyIDIuMWRjLTEuMTQzIDQuNTczLTIuMjg2IDkuMTQ2LTMuNDI5IDEzLjcyMmEyLjM2IDIuMzYgMCAwIDAgMS4zMzUgMi44NTNjNC4xOTMgMS41MjUgOC4zODYgMy4wNSA5LjU4NCAzLjQzYTIuMzYgMi4zNiAwIDAgMCAxLjk4Mi0uNzYyIDEwLjMyMiAxMC4zMjIgMCAwIDAgMy4zMTMtNi45MzF6bTIwLjYyNS05LjQwM2MtMi4wOTctMy44MTItNC4xOTMtNy42MjUtNi4yOS0xMS40MzdhMi4zNiAyLjM2IDAgMCAwLTIuNDc4LTEuMzM1IDE0Ljk0NyAxNC45NDcgMCAwIDEgNC4xOTMgMTEuNjI3IDIuMzYgMi4zNiAwIDAgMCAyLjQ3OCAxLjMzbDQuMTkzLjM4MWEyLjM2IDIuMzYgMCAwIDAgMi4wOTctMS45MDVjLjE5LTIuNDc4LjM4LTQuOTU1LjU3MS03LjQzMy0uMTktLjE5LS4zOC0uMzgtLjU3MS0uNTcxYTQuMDI3IDQuMDI3IDAgMCAxLTEuMTQzLjU3MiAyLjM2IDIuMzYgMCAwIDEtMi40NzctLjM4Yy0yLjA5Ny0uOTQ4LTQuMTk0LTEuODk3LTYuMjkyLTIuODUxaC4wMDJ6bTI0LjIyNi0xNS42MmExNi44NjQgMTYuODY0IDAgMCAwIDMuMjQtNi4xIDUuODcgNS44NyAwIDAgMC0uOTUyLTIuMDk2IDIuMzYgMi4zNiAwIDAgMC0xLjUxNS0uOTQ4Yy0yLjA5Ny0uNzYyLTQuMTk0LTEuNTI1LTYuMjktMi4yODdhMS45MTggMS45MTggMCAwIDAtMi4wOTcgMS4xNDMgMTYuNTE3IDE2LjUxNyAwIDAgMCAwIDExLjQzNyAyLjM2IDIuMzYgMCAwIDAgMy44MTEgMS43MTUgNC41MTIgNC41MTIgMCAwIDEgMi4yODYtMS4zMzQgMy42MTggMy42MTggMCAwIDAgMS42LS41NzJ6bTE4Ljg2OC0xMC4yOTRjLTIuNjctMi4yODYtNS4zNDItNC41NzMtOC4wMTItNi44NmEzLjY4NSAzLjY4NSAwIDAgMC0zLjgxMi0uNTcxIDE5LjUzIDE5LjUzIDAgMCAwLTMuMDQ5IDEwLjEwMiAyLjM2IDIuMzYgMCAwIDAgMS4xNDIgMi40NzggMTAuNTYgMTAuNTYgMCAwIDEgMi4wOTcgMS4xNDNoLjAwMWEyLjM2IDIuMzYgMCAwIDAgMi44NTgtMS43MTQgMjEuNzY0IDIxLjc2NCAwIDAgMCAxLjM1My01Ljk4MiA0Ljg1MSA0Ljg1MSAwIDAgMSA1Ljc2OC0uMzhjMS41MjUuNTcxIDMuMDQ5IDEuMTQzIDQuNTczIDEuNzE1IDIuNDc4LjM4IDIuMDk3IDEuMzMzIDEuNTI0IDEuNzE0IDEuMTQzLjM4IDEuOTAzLjM4IDIuODU4LjM4IDIuODU4IDAgNC41NzQtMi4wOTYgMy44MTEtNC45NTUtLjU3Mi0yLjQ3OC0xLjE0My00Ljk1Ni0xLjcxNS03LjQzNGExLjM3OCAxLjM3OCAwIDAgMC0uMzgtLjM4IDEzLjgxNyAxMy4xODEgMCAwIDAtMy40MyAwem0yMS40MDItMTQuNzcyYTIuMzYgMi4zNiAwIDAgMC0xLjMyNi0uNzYyYy0xLjcyMi0uMTktMy40NDMtLjM4LTUuMTY2LS41NzEtMy4yNDgtLjE5LTYuNDk1LTMuMDQ5LTYuMTA0LTYuMjlhNC44NDYgNC44NDYgMCAwIDEgMi4yODYtMy4wNDkgMi4zNiAyLjM2IDAgMCAwIDEuMzMyLTEuOTAyYy4xOS0xLjcyMS4zOC0zLjQ0My41NzItNS4xNjZhMi4zNiAyLjM2IDAgMCAwLTIuNDc4LTEuOTA1Yy0xLjUyNS4xOS0zLjA1LjM4LTYuMTA0LjU3MS0uMzguMzgtLjU3Mi43NjItLjc2MiAxLjE0MmEyLjM2IDIuMzYgMCAwIDAgLjM4MSAzLjU2MiA3Ljc0MiA3Ljc0MiAwIDAgMSAyLjg1OCAyLjQ3OGMyLjA5NyAxLjkwNSA0LjE5MyAzLjgxMSA2LjI5IDUuNzI2IDIuMDk3IDEuOTA1IDQuMTk0IDMuODEgNS4zNDMgMy4wNDl6bTI0LjQxNi01LjU1OGMuOTQ4LTIuODU4IDEuODk3LTUuNzE2IDIuODUxLTguNTc1YTIuMzYgMi4zNiAwIDAgMC0yLjQ3OC0xLjkwNWMtMy4wNS4xOS02LjEwNC4zOC05LjE1Ni41NzFhMi4zNiAyLjM2IDAgMCAwLTEuNTI0IDEuOTAyYy0uMTkgMS41MjUtLjM4IDMuMDUyLS41NzEgNC41NzhhMS4xMiAxLjEyIDAgMCAwIDAgMS4zMzUgMy4xNTIgMy4xNTIgMCAwIDEgMi42NyAxLjcxNCAyLjM2IDIuMzYgMCAwIDAgMy4yNDgtMS4xNDNjLjU3MS0xLjE0MyAxLjE0Mi0yLjI4NiAxLjcxNC0zLjQzLjE5LS43NjIuMzgyLTEuNTI1Ljc2Mi0yLjY3Yy4xOS4zOC4zOC43NjIuMzggMS4xNDJhMy4wODcgMy4wODcgMCAwIDEgMCAxLjk4MiAyLjM2IDIuMzYgMCAwIDAgMS45MDQgMi42N2MuMTkuMTkuMzguMzguMzguNTcxIDMuMjQ5LjM4IDMuNDQ0IDAgMy42MzQtLjE4OXptMjUuMTc4LTQuNWMtLjE5LTEuMTQzLS4zOC0yLjA5Ny0uMzgtMy4yNDdhNi4zNiA2LjM2IDAgMCAxLS4xOS0yLjM2IDIuMzYgMi4zNiAwIDAgMC0xLjcxNS0yLjA5N2MtMS41MjQtLjE5LTMuMDUtLjM4LTQuNTc0LS41NzFhNS4wNzMgNS4wNzMgMCAwIDAtNC45NTUgMy40MmwtMi44NTggMTEuMDVjMCAuMzgtLjE5LjU3MS0uMzguNTcxLS45NDggMC0xLjg5Ny4xOS0yLjg1MS4xOS0uNzYyIDAtMS41MjQtLjE5LTIuMjg1LS4zOFoiLz48L2c+PC9nPjwvc3ZnPg==" alt="Location"/>
   </a>
 </p>
 
@@ -23,10 +23,10 @@ My expertise lies in industrial automation, instrumentation, control systems, an
 ---
 
 ## 📊 GitHub Stats
-
+**Note:** Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username in the links below.
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=celloweb-ai&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celloweb-ai&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -87,7 +87,7 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 - **Technical Contract Manager** @ Intertechne (2018)
 - **Owner Engineering** @ Enaval (2016-2018)
 - **Senior Consultant** @ PETROBRAS (2006-2015)
-- **Integration Project Manager** @ Dell (2001-2006)
+- **Integration ProjectManager** @ Dell (2001-2006)
 - **Industrial Automation Project Manager** @ Altus Sistemas de Automação (1988-2001)
 
 ---
@@ -109,10 +109,10 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 - [Applications & Use Cases Master Certification](https://openbadgefactory.com/v1/assertion/66edcebfb750300e54b919df02146b5a0b1f9f52.html)
 - [Applications & Use Cases Professional Certification](https://openbadgefactory.com/v1/assertion/de2b803175863a07b7b2871ccf6eb9b3cf591eaf.html)
 - [Machine Learning Master Certification](https://openbadgefactory.com/v1/assertion/a9859e05680320937c314d732feb494ec330e15b.html)
-- [Machine Learning Professional Certification](https://openbadgefactory.com/v1/assertion/fbe96028b03893efeb2f7cdd7a2e2cd40c4fde5f.html)
+- [Machine Learning Professional Certification](httpss://openbadgefactory.com/v1/assertion/fbe96028b03893efeb2f7cdd7a2e2cd40c4fde5f.html)
 
 ### Alura
-- [Aprendizagem: personalizando sua rotina de estudos com ChatGPT](https://openbadgepassport.com/file/5/b/d/2/5bd24524fce9b7308c1d240f7ecd2c98f086aa5f0febbf31cd3614b02e38199e.png)
+- [Aprendizagem: personalizando sua rotina de estudos com ChatGPT](httpss://openbadgepassport.com/file/5/b/d/2/5bd24524fce9b7308c1d240f7ecd2c98f086aa5f0febbf31cd3614b02e38199e.png)
 
 ### AWS / TIDWIT
 - [AWS GenAI Practitioner](https://aws-brgenai.ontidwit.com/#/badge/c716b58b-0f06-4bef-b2a7-f8ec3105c3c6)
@@ -121,26 +121,26 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 - [Introduction to Modern AI](https://www.credly.com/badges/15b479ee-93b7-4946-b86e-8ab22f4d6629/linked_in_profile)
 
 ### Databricks
-- [Academy Accreditation - AI Security Fundamentals](https://credentials.databricks.com/2a9f1b53-89ca-4783-9fdb-628749501d3d#acc.Afg0JHUd)
-- [Academy Accreditation - Generative AI Fundamentals](https://credentials.databricks.com/1d5150cd-2255-4640-bc4c-1dd43b96a199)
+- [Academy Accreditation - AI Security Fundamentals](httpss://credentials.databricks.com/2a9f1b53-89ca-4783-9fdb-628749501d3d#acc.Afg0JHUd)
+- [Academy Accreditation - Generative AI Fundamentals](httpss://credentials.databricks.com/1d5150cd-2255-4640-bc4c-1dd43b96a199)
 
 ### Digital Innovation One
-- [Fundamentos de IA Generativa](https://openbadgepassport.com/file/0/a/a/d/0aadff51f3a0f6e94658275fec186d238f494b7fc944724636af70092b9cdc0c.png)
+- [Fundamentos de IA Generativa](httpss://openbadgepassport.com/file/0/a/a/d/0aadff51f3a0f6e94658275fec186d238f494b7fc944724636af70092b9cdc0c.png)
 
 ### FIAP
-- [Chatbots](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=96b5ba62fb2e00022d10ca512797dc3c&action=view)
-- [Inteligência Artificial e Computacional](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=6f4eccc2703b66fb7862c9ef191b430a&action=view)
-- [Inteligência Artificial Responsável](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=1f9a87feae4a56eeefa505cd457242d5&action=view)
+- [Chatbots](httpss://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=96b5ba62fb2e00022d10ca512797dc3c&action=view)
+- [Inteligência Artificial e Computacional](httpss://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=6f4eccc2703b66fb7862c9ef191b430a&action=view)
+- [Inteligência Artificial Responsável](httpsSs://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=1f9a87feae4a56eeefa505cd457242d5&action=view)
 
 ### Google
-- [Google AI Essentials](https://coursera.org/share/d9cf7ae309978389865522230efb9e1c)
+- [Google AI Essentials](httpss://coursera.org/share/d9cf7ae309978389865522230efb9e1c)
 
 ### Huawei
-- [Huawei Certified ICT Associate (HCIA) - AI](https://kltstaticcontent.shixizhi.huawei.com/1365189427395223554/certificate/20250919/b1f966041aef4243819259fa4ac63eda_ICT2025091900181311d52dd17e8e42cc9464fbfbe56195ee.png)
+- [Huawei Certified ICT Associate (HCIA) - AI](httpss://kltstaticcontent.shixizhi.huawei.com/1365189427395223554/certificate/20250919/b1f966041aef4243819259fa4ac63eda_ICT2025091900181311d52dd17e8e42cc9464fbfbe56195ee.png)
 
 ### IBM
-- [AI Literacy](https://www.credly.com/badges/c776e8db-f4c7-488b-8b7e-2e68792e2ce1/linked_in_profile)
-- [Artificial Intelligence Fundamentals](https://www.credly.com/badges/4a3aaa82-6cac-4e33-aa73-99406f648d1c/linked_in_profile)
+- [AI Literacy](httpss://www.credly.com/badges/c776e8db-f4c7-488b-8b7e-2e68792e2ce1/linked_in_profile)
+- [Artificial Intelligence Fundamentals](httpss://www.credly.com/badges/4a3aaa82-6cac-4e33-aa73-99406f648d1c/linked_in_profile)
 
 ### KI-Campus
 - [Foundations of Artificial Intelligence I](https://badgr.com/public/assertions/zdvzJzEhTeSjZH2tTx3fuQ?identity__email=marcus%40vasconcellos.net.br)
@@ -148,22 +148,22 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 - [Foundations of Artificial Intelligence III](https://badgr.com/public/assertions/c5oIwRigTeum52DsyF4JlQ?identity__email=marcus%40vasconcellos.net.br)
 - [Foundations of Artificial Intelligence IV](https://badgr.com/public/assertions/YQjjRb1iTz-YL6zD8ypAgg?identity__email=marcus%40vasconcellos.net.br)
 - [Foundations of Artificial Intelligence V](httpsDhttps://moodle.ki-campus.org/mod/customcert/verify_certificate.php?code=OsGD2IrPFa)
-- [Foundations of Artificial Intelligence VI](https://moodle.ki-campus.org/mod/customcert/verify_certificate.php?code=HoxmjZ98DF)
-- [Launchpad to AI - An Introduction to Applications, Risks, and Opportunities](https://badgr.com/public/assertions/-WDZ3ISFTMSvJNGvOTCB_g?identity__email=marcus%40vasconcellos.net.br)
+- [Foundations of Artificial Intelligence VI](httpss://moodle.ki-campus.org/mod/customcert/verify_certificate.php?code=HoxmjZ98DF)
+- [Launchpad to AI - An Introduction to Applications, Risks, and Opportunities](httpss://badgr.com/public/assertions/-WDZ3ISFTMSvJNGvOTCB_g?identity__email=marcus%40vasconcellos.net.br)
 
 ### NVIDIA
 - [AI for All: From Basics to GenAI Practice](httpsDhttps://openbadgepassport.com/file/5/2/0/9/52092221f6c0a037406473b5b3297e3da173813031a720cb97eb11121051e747.png)
 
 ### PMI
 - [Generative AI Overview for Project Managers](https://www.credly.com/badges/f4791a0a-deed-4022-a7d4-dd2886a16b6f/linked_in_profile)
-- [Practical Application of Gen AI for Project Managers](https://www.credly.com/badges/5f319d2e-a159-4526-95da-b53e37616250/linked_in_profile)
+- [Practical Application of Gen AI for Project Managers](httpss://www.credly.com/badges/5f319d2e-a159-4526-95da-b53e37616250/linked_in_profile)
 - [Talking to AI: Prompt Engineering for Project Managers](https://www.credly.com/badges/a5f3b699-0c4d-4b35-b1b3-89554cc95a44/linked_in_profile)
 
 ### University of Helsinki
-- [Elements of AI](https://certificates.mooc.fi/validate/9pva6qfaubp)
+- [Elements of AI](httpss://certificates.mooc.fi/validate/9pva6qfaubp)
 
 ### University of Maryland
-- [AI and Career Empowerment](https://openbadgepassport.com/file/e/4/d/4/e4d4ada6ad1822ac4a9e26bc1b5b0bad5255aab75a8967291dce465adf72437d.png)
+- [AI and Career Empowerment](httpss://openbadgepassport.com/file/e/4/d/4/e4d4ada6ad1822ac4a9e26bc1b5b0bad5255aab75a8967291dce465adf72437d.png)
 
 </details>
 
