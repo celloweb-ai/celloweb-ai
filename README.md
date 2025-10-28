@@ -23,10 +23,10 @@ My expertise lies in industrial automation, instrumentation, control systems, an
 ---
 
 ## 📊 GitHub Stats
-**Note:** Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username in the links below.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=celloweb-ai&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celloweb-ai&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
