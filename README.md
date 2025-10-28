@@ -1,29 +1,76 @@
 # Marcus Vasconcellos
+**Senior Automation Engineer | Electronics & Computer Engineer | MBA in Project Management**
 
-**Senior Automation Engineer** | Electronics & Computer Engineer | MBA in Project Management
-
-📍 Niterói, Rio de Janeiro, Brazil  
-📧 marcus@vasconcellos.net.br  
-🔗 [LinkedIn](https://www.linkedin.com/in/marcusvasconcellos)
+<p align="left">
+  <a href="https://www.linkedin.com/in/marcusvasconcellos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:marcus@vasconcellos.net.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://img.shields.io/badge/Niterói,_RJ-Brazil-2BA600?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAwIDcwMCI+PGcgZmlsbD0iIzJCRTgyMCI+PHBhdGggZD0iTTAgMGg5OTkuOTk5djcwMEgweiIvPjwvZz48ZyBmaWxsPSIjRkZFNTAwIj48cGF0aCBkPSJNOTk5Ljk5OSA3MDAgMCwwIDAgNzAwem0tNSA2OTBIMTBMMzUwIDM1MCA1IDY5MHpNNDk5Ljk5OSA1MCA5ODkuOTk5IDM1MCA0OTkuOTk5IDY1MCAxMCAzNTB6Ii8+PC9nPjxnIGZpbGw9IiMyQjU3ODIiPjxwYXRoIGQ9Ik00OTkuOTk5IDUwYy0xNjUuNjggMC0zMDAgMTM0LjMyLTMwMCAzMDBzMTM0LjMyIDMwMCAzMDAgMzAwIDMwMC0xMzQuMzIgMzAwLTMwMFMxNjUuNjggNTAgMzAwIDUwem0tMjIxLjA3NyAyNjkuODk4YTIuMzYgMi4zNiAwIDAgMCAxLjQyNSAxLjQyNWMyMS4yMiA3LjA3MyA0Mi40MzkgMTQuMTQ3IDYzLjY1OCAyMS4yMmE0LjcyIDQuNzIgMCAwIDAgNS41MS0xLjQyNWMxMy40MTctMTIuNjg5IDI2LjgzMy0yNS4zNzcgNDAuMjUtMzguMDY2YTUuMDc0IDUuMDc0IDAgMCAwLTEuMjM1LTcuNTAyYy0yMC4xNDMtOS4xMDgtNDAuMjg2LTE4LjIxNi02MC40My0yNy4zMjNhMi4zNiAyLjM2IDAgMCAwLTIuODY5IDEuMDQgMTYuODMyIDE2LjgzMiAwIDAgMS0zLjU2MiA0LjU5MyAyLjM2IDIuMzYgMCAwIDAtLjM4MSAzLjc1NCAxNi41MzcgMTYuNTM3IDAgMCAxLTIuNjU3IDMuNTQzYy0uMTkuMzgtLjU3MS43NjItLjc2MiAxLjE0MmEyLjM2IDIuMzYgMCAwIDAtLjE5IDMuMTUybDIuNDgzIDIuMjk1Yy4zOC4zOC43NjIuNzYyIDEuMTQzIDEuMTQzIDEuMzM1IDEuMTQzIDIuNjcgMi4yODYgNC4wMDUgMy40M2ExNi41MzggMTYuNTM4IDAgMCAxIDMgMy4yNDhjLjE5LjM4LjM4MS43NjIuMzgxIDEuMTQyem0tNDAuODIxLTY4LjM3OGMtNy44MTYgMy41MjUtMTUuNjMyIDcuMDUxLTIzLjQ0OCA5LjU4NGExMi4zMyAxMi4zMyAwIDAgMS01LjMzIDMuMjQ4IDIuMzYgMi4zNiAwIDAgMC0uOTUyIDIuODY5Yy4zOCAxLjkyNS43NjIgMy44NSAxLjE0MyA1Ljc3NGEyLjM2IDIuMzYgMCAwIDAgMi40NzggMS45MDVjNi42NzItLjM4IDguNTc3LS4xOSA4LjU3Ny0uMTlsMi42Ny0uMTljNC4xOTMtLjM4IDguMzODYtLjc2MiAxMi41OC0xLjE0MmEzLjY4NSAzLjY4NSAwIDAgMCAzLjU0Mi0zLjgxMiA0MC40MTEgNDAuNDExIDAgMCAxLTEuNzE1LTYuODU2IDIuMzYgMi4zNiAwIDAgMC0uNzYyLTEuNzE1Yy0xLjMyNi0uOTQ4LTIuNjU3LTEuODk3LTMuOTg3LTIuODUxYTcuOTQgNy45NCAwIDAgMS0zLjQyOS00LjU5MyAyLjM2IDIuMzYgMCAwIDAtMy4wNS0xLjcxNCAxMC42NzUgMTAuNjc1IDAgMCAxLTYuNDggMS43MTR6bTIzLjI1Ny0yMC4yNWExNy40MTYgMTcuNDE2IDAgMCAwIDMuMDQ5LTYuMjkzIDIuMzYgMi4zNiAwIDAgMC0uOTUyLTEuNzE1Yy0xLjcxNS0uOTQ4LTMuNDI5LTEuODk3LTUuMTQ0LTIuODUxYTUuNDU3IDUuNDU3IDAgMCAwLTUuNTI3IDAgMi4zNiAyLjM2IDAgMCAwLTEuMTQyIDIuMWRjLTEuMTQzIDQuNTczLTIuMjg2IDkuMTQ2LTMuNDI5IDEzLjcyMmEyLjM2IDIuMzYgMCAwIDAgMS4zMzUgMi44NTNjNC4xOTMgMS41MjUgOC4zODYgMy4wNSA5LjU4NCAzLjQzYTIuMzYgMi4zNiAwIDAgMCAxLjk4Mi0uNzYyIDEwLjMyMiAxMC4zMjIgMCAwIDAgMy4zMTMtNi45MzF6bTIwLjYyNS05LjQwM2MtMi4wOTctMy44MTItNC4xOTMtNy42MjUtNi4yOS0xMS40MzdhMi4zNiAyLjM2IDAgMCAwLTIuNDc4LTEuMzM1IDE0Ljk0NyAxNC45NDcgMCAwIDEgNC4xOTMgMTEuNjI3IDIuMzYgMi4zNiAwIDAgMCAyLjQ3OCAxLjMzbDQuMTkzLjM4MWEyLjM2IDIuMzYgMCAwIDAgMi4wOTctMS45MDVjLjE5LTIuNDc4LjM4LTQuOTU1LjU3MS03LjQzMy0uMTktLjE5LS4zOC0uMzgtLjU3MS0uNTcxYTQuMDI3IDQuMDI3IDAgMCAxLTEuMTQzLjU3MiAyLjM2IDIuMzYgMCAwIDEtMi40NzctLjM4Yy0yLjA5Ny0uOTQ4LTQuMTk0LTEuODk3LTYuMjkyLTIuODUxaC4wMDJ6bTI0LjIyNi0xNS42MmExNi44NjQgMTYuODY0IDAgMCAwIDMuMjQtNi4xIDUuODcgNS44NyAwIDAgMC0uOTUyLTIuMDk2IDIuMzYgMi4zNiAwIDAgMC0xLjUxNS0uOTQ4Yy0yLjA5Ny0uNzYyLTQuMTk0LTEuNTI1LTYuMjktMi4yODdhMS45MTggMS45MTggMCAwIDAtMi4wOTcgMS4xNDMgMTYuNTE3IDE2LjUxNyAwIDAgMCAwIDExLjQzNyAyLjM2IDIuMzYgMCAwIDAgMy44MTEgMS43MTUgNC41MTIgNC41MTIgMCAwIDEgMi4yODYtMS4zMzQgMy42MTggMy42MTggMCAwIDAgMS42LS41NzJ6bTE4Ljg2OC0xMC4yOTRjLTIuNjctMi4yODYtNS4zNDItNC41NzMtOC4wMTItNi44NmEzLjY4NSAzLjY4NSAwIDAgMC0zLjgxMi0uNTcxIDE5LjUzIDE5LjUzIDAgMCAwLTMuMDQ5IDEwLjEwMiAyLjM2IDIuMzYgMCAwIDAgMS4xNDIgMi40NzggMTAuNTYgMTAuNTYgMCAwIDEgMi4wOTcgMS4xNDNoLjAwMWEyLjM2IDIuMzYgMCAwIDAgMi44NTgtMS43MTQgMjEuNzY0IDIxLjc2NCAwIDAgMCAxLjM1My01Ljk4MiA0Ljg1MSA0Ljg1MSAwIDAgMSA1Ljc2OC0uMzhjMS41MjUuNTcxIDMuMDQ5IDEuMTQzIDQuNTczIDEuNzE1IDIuNDc4LjM4IDIuMDk3IDEuMzMzIDEuNTI0IDEuNzE0IDEuMTQzLjM4IDEuOTAzLjM4IDIuODU4LjM4IDIuODU4IDAgNC41NzQtMi4wOTYgMy44MTEtNC45NTUtLjU3Mi0yLjQ3OC0xLjE0My00Ljk1Ni0xLjcxNS03LjQzNGExLjM3OCAxLjM3OCAwIDAgMC0uMzgtLjM4IDEzLjgxNyAxMy4xODEgMCAwIDAtMy40MyAwem0yMS40MDItMTQuNzcyYTIuMzYgMi4zNiAwIDAgMC0xLjMyNi0uNzYyYy0xLjcyMi0uMTktMy40NDMtLjM4LTUuMTY2LS41NzEtMy4yNDgtLjE5LTYuNDk1LTMuMDQ5LTYuMTA0LTYuMjlhNC44NDYgNC44NDYgMCAwIDEgMi4yODYtMy4wNDkgMi4zNiAyLjM2IDAgMCAwIDEuMzMyLTEuOTAyYy4xOS0xLjcyMS4zOC0zLjQ0My41NzItNS4xNjZhMi4zNiAyLjM2IDAgMCAwLTIuNDc4LTEuOTA1Yy0xLjUyNS4xOS0zLjA1LjM4LTYuMTA0LjU3MS0uMzguMzgtLjU3Mi43NjItLjc2MiAxLjE0MmEyLjM2IDIuMzYgMCAwIDAgLjM4MSAzLjU2MiA3Ljc0MiA3Ljc0MiAwIDAgMSAyLjg1OCAyLjQ3OGMyLjA5NyAxLjkwNSA0LjE5MyAzLjgxMSA2LjI5IDUuNzI2IDIuMDk3IDEuOTA1IDQuMTk0IDMuODEgNS4zNDMgMy4wNDl6bTI0LjQxNi01LjU1OGMuOTQ4LTIuODU4IDEuODk3LTUuNzE2IDIuODUxLTguNTc1YTIuMzYgMi4zNiAwIDAgMC0yLjQ3OC0xLjkwNWMtMy4wNS4xOS02LjEwNC4zOC05LjE1Ni41NzFhMi4zNiAyLjM2IDAgMCAwLTEuNTI0IDEuOTAyYy0uMTkgMS41MjUtLjM4IDMuMDUyLS41NzEgNC41NzhhMS4xMiAxLjEyIDAgMCAwIDAgMS4zMzUgMy4xNTIgMy4xNTIgMCAwIDEgMi42NyAxLjcxNCAyLjM2IDIuMzYgMCAwIDAgMy4yNDgtMS4xNDNjLjU3MS0xLjE0MyAxLjE0Mi0yLjI4NiAxLjcxNC0zLjQzLjE5LS43NjIuMzgyLTEuNTI1Ljc2Mi0yLjY3Yy4xOS4zOC4zOC43NjIuMzggMS4xNDJhMy4wODcgMy4wODcgMCAwIDEgMCAxLjk4MiAyLjM2IDIuMzYgMCAwIDAgMS45MDQgMi42N2MuMTkuMTkuMzguMzguMzguNTcxIDMuMjQ5LjM4IDMuNDQ0IDAgMy42MzQtLjE4OXptMjUuMTc4LTQuNWMtLjE5LTEuMTQzLS4zOC0yLjA5Ny0uMzgtMy4yNDdhNi4zNiA2LjM2IDAgMCAxLS4xOS0yLjM2IDIuMzYgMi4zNiAwIDAgMC0xLjcxNS0yLjA5N2MtMS41MjQtLjE5LTMuMDUtLjM4LTQuNTc0LS41NzFhNS4wNzMgNS4wNzMgMCAwIDAtNC45NTUgMy40MmwtMi44NTggMTEuMDVjMCAuMzgtLjE5LjU3MS0uMzguNTcxLS45NDggMC0xLjg5Ny4xOS0yLjg1MS4xOS0uNzYyIDAtMS41MjQtLjE5LTIuMjg1LS4zOFoiLz48L2c+PC9nPjwvc3ZnPg==" alt="Location"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me
-Electronics and Computer Engineer with an MBA in Project Management and over 20 years of experience in offshore and onshore engineering environments. Specialized in industrial automation, instrumentation, control systems and cybersecurity. Solid track record in managing and executing large-scale automation projects across the oil and gas sector. Proven leadership in guiding cross-functional teams and delivering high-performance systems, both in project management and technical consulting roles.
+## 👋 Hi, I'm Marcus
+I'm an Electronics and Computer Engineer with an **MBA in Project Management** and over **20 years of experience** in offshore and onshore engineering environments. 
+
+My expertise lies in industrial automation, instrumentation, control systems, and OT/ICS cybersecurity. I have a solid track record in managing and executing large-scale automation projects across the oil and gas sector, with proven leadership in guiding cross-functional teams and delivering high-performance systems.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcusvasconcellos&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Marcus's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvasconcellos&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🛠️ Technical Skills
+
+### Automation & Control Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Industrial%20Automation-007ACC?style=flat-square" alt="Industrial Automation"/>
+  <img src="https://img.shields.io/badge/System%20Integration-007ACC?style=flat-square" alt="System Integration"/>
+  <img src="https://img.shields.io/badge/Instrumentation-007ACC?style=flat-square" alt="Instrumentation"/>
+  <img src="https://img.shields.io/badge/Fire%20&%20Gas%20Systems-007ACC?style=flat-square" alt="Fire & Gas Systems"/>
+  <img src="https://img.shields.io/badge/ESD%20Systems-007ACC?style=flat-square" alt="Emergency Shutdown (ESD) Systems"/>
+</p>
+
+### Technical Expertise
+<p align="left">
+  <img src="https://img.shields.io/badge/OT/ICS%20Cybersecurity-333333?style=flat-square" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Project%20Management-333333?style=flat-square" alt="Project Management"/>
+  <img src="https://img.shields.io/badge/Technical%20Documentation-333333?style=flat-square" alt="Technical Documentation"/>
+  <img src="https://img.shields.io/badge/Compliance%20&%20Safety-333333?style=flat-square" alt="Compliance & Safety Standards"/>
+  <img src="https://img.shields.io/badge/Risk%20Management-333333?style=flat-square" alt="Risk Management"/>
+</p>
+
+### Soft Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Leadership-4CAF50?style=flat-square" alt="Leadership"/>
+  <img src="https://img.shields.io/badge/Stakeholder%20Engagement-4CAF50?style=flat-square" alt="Stakeholder Engagement"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-4CAF50?style=flat-square" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Fast%20Learner-4CAF50?style=flat-square" alt="Fast Learner"/>
+  <img src="https://img.shields.io/badge/Adaptability-4CAF50?style=flat-square" alt="Adaptability"/>
+  <img src="https://img.shields.io/badge/Works%20Under%20Pressure-4CAF50?style=flat-square" alt="Ability to Work Under Pressure"/>
+</p>
 
 ---
 
 ## 💼 Professional Experience
 ### Principal Automation Engineer @ Equinor
-**April 2023 - Present | Rio de Janeiro, RJ**  
+**April 2023 - Present | Rio de Janeiro, RJ**  
 Automation fire and gas and maintenance focal point for Peregrino FPSO and three wellheads, focusing on delivering automation application solutions and integrating systems with internal platforms and external partners.
 
 ### Senior Instrumentation & Automation Engineer @ DBR Energies
-**July 2022 - April 2023 | Rio de Janeiro, RJ**  
+**July 2022 - April 2023 | Rio de Janeiro, RJ**  
 Conducted instrumentation and automation engineering projects for multiple oil and gas initiatives, including Petrobras ATAPU 2, SÉPIA 2, and GASLUB projects.
 
 ### Commissioning Lead System Engineer @ Equinor (via DBR Energies)
-**December 2019 - Present | Peregrino Field, Campos Basin**  
+**December 2019 - Present | Peregrino Field, Campos Basin**  
 Led safe commissioning preparation and execution for F&G and ESD Systems, building and managing commissioning teams aligned with Equinor's safety protocols.
 
 #### Additional Experience
@@ -45,8 +92,11 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 
 ---
 
-## 🤖 AI & Machine Learning Certifications (Grouped by Issuer)
+## 🤖 AI & Machine Learning Certifications
 
+<details>
+<summary>Click to expand all 30+ certifications</summary>
+  
 ### Altair RapidMiner
 - [Applications & Use Cases Master Certification](https://openbadgefactory.com/v1/assertion/66edcebfb750300e54b919df02146b5a0b1f9f52.html)
 - [Applications & Use Cases Professional Certification](https://openbadgefactory.com/v1/assertion/de2b803175863a07b7b2871ccf6eb9b3cf591eaf.html)
@@ -107,45 +157,29 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 ### University of Maryland
 - [AI and Career Empowerment](https://openbadgepassport.com/file/e/4/d/4/e4d4ada6ad1822ac4a9e26bc1b5b0bad5255aab75a8967291dce465adf72437d.png)
 
----
-
-## 🛠️ Technical Skills
-**Automation & Control Systems**
-- Industrial Automation
-- System Integration
-- Instrumentation
-- Fire & Gas Systems
-- Emergency Shutdown (ESD) Systems
-
-**Technical Expertise**
-- Cybersecurity
-- Project Management
-- Technical Documentation
-- Compliance & Safety Standards
-- Risk Management
-
-**Soft Skills**
-- Leadership
-- Stakeholder Engagement
-- Problem Solving
-- Teamwork
-- Fast Learner
-- Ability to Work Under Pressure
-- Adaptability
+</details>
 
 ---
 
 ## 🌍 Languages
-- **Portuguese** - Native
-- **English** - Advanced
-- **Spanish** - Intermediate
+<p align="left">
+  <img src="https://img.shields.io/badge/Portuguese-Native-green?style=flat-square" alt="Portuguese"/>
+  <img src="https://img.shields.io/badge/English-Advanced-blue?style=flat-square" alt="English"/>
+  <img src="https://img.shields.io/badge/Spanish-Intermediate-orange?style=flat-square" alt="Spanish"/>
+</p>
 
 ---
 
 ## 📫 Get in Touch
 Feel free to reach out for collaborations, consulting opportunities, or just to connect!
-- 💼 Professional inquiries: marcus@vasconcellos.net.br
-- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/marcusvasconcellos)
+<p align="left">
+  <a href="https://www.linkedin.com/in/marcusvasconcellos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:marcus@vasconcellos.net.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 *Last updated: October 2025*
