@@ -106,8 +106,7 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 <summary>Click to expand all 30+ certifications</summary>
   
 ### Altair RapidMiner
-- [Applications & Use Cases Master Certificate](https://ti-user-certificates.s3.amazonaws.com/5733896a-1d71-46e5-b0a3-1ffcf845fe21/08b5924c-e3a8-4508-974e-357949407112-marcus-vasconcellos-b4805178-07da-475b-9c42-0686cd9fc1ab-certificate.pdf)
-- [Applications & Use Cases Master Badge](https://openbadgefactory.com/v1/assertion/66edcebfb750300e54b919df02146b5a0b1f9f52.html)
+- [Applications & Use Cases Master Certificate](https://ti-user-certificates.s3.amazonaws.com/5733896a-1d71-46e5-b0a3-1ffcf845fe21/08b5924c-e3a8-4508-974e-357949407112-marcus-vasconcellos-b4805178-07da-475b-9c42-0686cd9fc1ab-certificate.pdf) [Badge](https://openbadgefactory.com/v1/assertion/66edcebfb750300e54b919df02146b5a0b1f9f52.html)
 - [Applications & Use Cases Professional Certificate](https://ti-user-certificates.s3.amazonaws.com/5733896a-1d71-46e5-b0a3-1ffcf845fe21/08b5924c-e3a8-4508-974e-357949407112-marcus-augusto-89268705-fff6-4181-9fde-2e437690cb7e-certificate.pdf)
 - [Applications & Use Cases Professional Badge](https://openbadgefactory.com/v1/assertion/de2b803175863a07b7b2871ccf6eb9b3cf591eaf.html)
 - [Machine Learning Master Badge](https://openbadgefactory.com/v1/assertion/a9859e05680320937c314d732feb494ec330e15b.html)
