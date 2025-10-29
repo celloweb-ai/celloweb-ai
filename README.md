@@ -142,8 +142,8 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 - [Huawei Certified ICT Associate (HCIA) - AI](https://kltstaticcontent.shixizhi.huawei.com/1365189427395223554/certificate/20250919/b1f966041aef4243819259fa4ac63eda_ICT2025091900181311d52dd17e8e42cc9464fbfbe56195ee.png)
 
 ### IBM
-- [AI Literacy](https://www.credly.com/badges/c776e8db-f4c7-488b-8b7e-2e68792e2ce1/linked_in_profile)
-- [Artificial Intelligence Fundamentals](https://www.credly.com/badges/4a3aaa82-6cac-4e33-aa73-99406f648d1c/linked_in_profile)
+- [AI Literacy Badge](https://www.credly.com/badges/c776e8db-f4c7-488b-8b7e-2e68792e2ce1/linked_in_profile)
+- [Artificial Intelligence Fundamentals Certificate](https://openbadgepassport.com/file/4/c/7/3/4c734adda5bc79d12be898256d54aa8473f2dbe7e204320153142b0c43dd42fe.png)   [Badge](https://www.credly.com/badges/4a3aaa82-6cac-4e33-aa73-99406f648d1c/linked_in_profile)
 
 ### KI-Campus
 - [Foundations of Artificial Intelligence I](https://badgr.com/public/assertions/zdvzJzEhTeSjZH2tTx3fuQ?identity__email=marcus%40vasconcellos.net.br)
