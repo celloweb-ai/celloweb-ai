@@ -147,11 +147,7 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 
 ### KI-Campus
 - [Foundations of Artificial Intelligence I Certificate](https://openbadgepassport.com/file/d/c/5/0/dc50371ea752777ab591db44172f21e17d71a5f22b2009d98bb232c6791451a8.png)    [Badge](https://badgr.com/public/assertions/external?identity__email=marcus@vasconcellos.net.br&url=https:%2F%2Fmoodle.ki-campus.org%2Fbadges%2Fassertion.php%3Fb%3D1127b2645f858484bb39ec803fc0617087ba3331%26obversion%3D2)
-- [Foundations of Artificial Intelligence II](https://badgr.com/public/assertions/dXNvYMToSmul8piQs11mDg?identity__email=marcus%40vasconcellos.net.br)
-- [Foundations of Artificial Intelligence III](https://badgr.com/public/assertions/c5oIwRigTeum52DsyF4JlQ?identity__email=marcus%40vasconcellos.net.br)
-- [Foundations of Artificial Intelligence IV](https://badgr.com/public/assertions/YQjjRb1iTz-YL6zD8ypAgg?identity__email=marcus%40vasconcellos.net.br)
-- [Foundations of Artificial Intelligence V](https://moodle.ki-campus.org/mod/customcert/verify_certificate.php?code=OsGD2IrPFa)
-- [Foundations of Artificial Intelligence VI](https://moodle.ki-campus.org/mod/customcert/verify_certificate.php?code=HoxmjZ98DF)
+- [Foundations of Artificial Intelligence II Certificate](https://openbadgepassport.com/file/4/2/1/8/4218107ca15d9a52442b39daf5c937f69dbafc5386b116c9331207fc4fdf6f14.png)    [Badge](https://badgr.com/public/assertions/dXNvYMToSmul8piQs11mDg)
 - [Launchpad to AI - An Introduction to Applications, Risks, and Opportunities](https://badgr.com/public/assertions/-WDZ3ISFTMSvJNGvOTCB_g?identity__email=marcus%40vasconcellos.net.br)
 
 ### NVIDIA
