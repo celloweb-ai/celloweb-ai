@@ -115,10 +115,10 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 - [Aprendizagem: personalizando sua rotina de estudos com ChatGPT](https://openbadgepassport.com/file/5/b/d/2/5bd24524fce9b7308c1d240f7ecd2c98f086aa5f0febbf31cd3614b02e38199e.png)
 
 ### AWS / TIDWIT
-- [AWS GenAI Practitioner](https://aws-brgenai.ontidwit.com/#/badge/c716b58b-0f06-4bef-b2a7-f8ec3105c3c6)
+- [AWS GenAI Practitioner Badge](https://aws-brgenai.ontidwit.com/#/badge/c716b58b-0f06-4bef-b2a7-f8ec3105c3c6)
 
 ### Cisco
-- [Introduction to Modern AI](https://www.credly.com/badges/15b479ee-93b7-4946-b86e-8ab22f4d6629/linked_in_profile)
+- [Introduction to Modern AI Certificate](https://openbadgepassport.com/file/9/d/8/e/9d8e6fa30b2f337a91c44fd438b695d7758647e2c268ee77562977d8f78bea45.png)   [Badge](https://www.credly.com/badges/15b479ee-93b7-4946-b86e-8ab22f4d6629/linked_in_profile)
 
 ### Databricks
 - [Academy Accreditation - AI Security Fundamentals](https://credentials.databricks.com/2a9f1b53-89ca-4783-9fdb-628749501d3d#acc.Afg0JHUd)
