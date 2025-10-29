@@ -146,8 +146,10 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 - [Artificial Intelligence Fundamentals Certificate](https://openbadgepassport.com/file/4/c/7/3/4c734adda5bc79d12be898256d54aa8473f2dbe7e204320153142b0c43dd42fe.png)   [Badge](https://www.credly.com/badges/4a3aaa82-6cac-4e33-aa73-99406f648d1c/linked_in_profile)
 
 ### KI-Campus
-- [Foundations of Artificial Intelligence I Certificate](https://openbadgepassport.com/file/d/c/5/0/dc50371ea752777ab591db44172f21e17d71a5f22b2009d98bb232c6791451a8.png)    [Badge](https://badgr.com/public/assertions/zdvzJzEhTeSjZH2tTx3fuQ)
-- [Foundations of Artificial Intelligence II Certificate](https://openbadgepassport.com/file/4/2/1/8/4218107ca15d9a52442b39daf5c937f69dbafc5386b116c9331207fc4fdf6f14.png)    [Badge](https://badgr.com/backpack/badges/689a6093f371e135f056bb9b)
+- [Foundations of Artificial Intelligence I Certificate](https://openbadgepassport.com/file/d/c/5/0/dc50371ea752777ab591db44172f21e17d71a5f22b2009d98bb232c6791451a8.png)    [Badge](https://badgr.com/public/assertions/zdvzJzEhTeSjZH2tTx3fuQ?identity__email=marcus%40vasconcellos.net.br)
+- [Foundations of Artificial Intelligence II Certificate](https://openbadgepassport.com/file/4/2/1/8/4218107ca15d9a52442b39daf5c937f69dbafc5386b116c9331207fc4fdf6f14.png)    [Badge](https://badgr.com/public/assertions/dXNvYMToSmul8piQs11mDg?identity__email=marcus%40vasconcellos.net.br)
+- [Foundations of Artificial Intelligence III Certificate](https://openbadgepassport.com/file/9/0/5/5/9055c8e1046fa138167fe670f4241cdb9ac76752f258644c6de31662675b1c97.png)    [Badge](https://badgr.com/public/assertions/c5oIwRigTeum52DsyF4JlQ?identity__email=marcus@vasconcellos.net.br)
+- [Foundations of Artificial Intelligence IV Certificate](https://openbadgepassport.com/file/9/0/5/5/9055c8e1046fa138167fe670f4241cdb9ac76752f258644c6de31662675b1c97.png)    [Badge](https://badgr.com/public/assertions/c5oIwRigTeum52DsyF4JlQ?identity__email=marcus@vasconcellos.net.br)
 - [Launchpad to AI - An Introduction to Applications, Risks, and Opportunities](https://badgr.com/public/assertions/-WDZ3ISFTMSvJNGvOTCB_g?identity__email=marcus%40vasconcellos.net.br)
 
 ### NVIDIA
