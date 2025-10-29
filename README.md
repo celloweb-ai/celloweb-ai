@@ -135,7 +135,7 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 ### FIAP
 - <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=96b5ba62fb2e00022d10ca512797dc3c&action=view" target="_blank" rel="noopener noreferrer">Chatbots</a>
 - <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=6f4eccc2703b66fb7862c9ef191b430a&action=view" target="_blank" rel="noopener noreferrer">Inteligência Artificial e Computacional</a>
-- <a href="httpsa://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=1f9a87feae4a56eeefa505cd457242d5&action=view" target="_blank" rel="noopener noreferrer">Inteligência Artificial Responsável</a>
+- <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=1f9a87feae4a56eeefa505cd457242d5&action=view" target="_blank" rel="noopener noreferrer">Inteligência Artificial Responsável</a>
 
 ### Google
 - <a href="https://coursera.org/share/d9cf7ae309978389865522230efb9e1c" target="_blank" rel="noopener noreferrer">Google AI Essentials</a>
