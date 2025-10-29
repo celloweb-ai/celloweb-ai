@@ -114,6 +114,9 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 ### Alura
 - [Aprendizagem: personalizando sua rotina de estudos com ChatGPT](https://openbadgepassport.com/file/5/b/d/2/5bd24524fce9b7308c1d240f7ecd2c98f086aa5f0febbf31cd3614b02e38199e.png)
 
+### appliedAI Institute for Europe
+- [AI Essentials: A Comprehensive Introduction](https://openbadgepassport.com/file/f/7/8/8/f7885582dbfcc71d113f338a4a2852ab25dadb6621e5829931e2a23b71403e08.png)
+
 ### AWS / TIDWIT
 - [AWS GenAI Practitioner Badge](https://aws-brgenai.ontidwit.com/#/badge/c716b58b-0f06-4bef-b2a7-f8ec3105c3c6)
 
