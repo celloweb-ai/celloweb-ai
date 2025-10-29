@@ -146,7 +146,7 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 - [Artificial Intelligence Fundamentals Certificate](https://openbadgepassport.com/file/4/c/7/3/4c734adda5bc79d12be898256d54aa8473f2dbe7e204320153142b0c43dd42fe.png)   [Badge](https://www.credly.com/badges/4a3aaa82-6cac-4e33-aa73-99406f648d1c/linked_in_profile)
 
 ### KI-Campus
-- [Foundations of Artificial Intelligence I Certificate](https://openbadgepassport.com/file/d/c/5/0/dc50371ea752777ab591db44172f21e17d71a5f22b2009d98bb232c6791451a8.png)    [Badge](https://badgr.com/public/assertions/zdvzJzEhTeSjZH2tTx3fuQ?identity__email=marcus@vasconcellos.net.br)
+- [Foundations of Artificial Intelligence I Certificate](https://openbadgepassport.com/file/d/c/5/0/dc50371ea752777ab591db44172f21e17d71a5f22b2009d98bb232c6791451a8.png)    [Badge](https://badgr.com/public/assertions/external?identity__email=marcus@vasconcellos.net.br&url=https:%2F%2Fmoodle.ki-campus.org%2Fbadges%2Fassertion.php%3Fb%3D1127b2645f858484bb39ec803fc0617087ba3331%26obversion%3D2)
 - [Foundations of Artificial Intelligence II](https://badgr.com/public/assertions/dXNvYMToSmul8piQs11mDg?identity__email=marcus%40vasconcellos.net.br)
 - [Foundations of Artificial Intelligence III](https://badgr.com/public/assertions/c5oIwRigTeum52DsyF4JlQ?identity__email=marcus%40vasconcellos.net.br)
 - [Foundations of Artificial Intelligence IV](https://badgr.com/public/assertions/YQjjRb1iTz-YL6zD8ypAgg?identity__email=marcus%40vasconcellos.net.br)
