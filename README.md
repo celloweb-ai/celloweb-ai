@@ -145,7 +145,10 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 
 ### IBM
 - <a href="https://www.credly.com/badges/c776e8db-f4c7-488b-8b7e-2e68792e2ce1/linked_in_profile" target="_blank" rel="noopener noreferrer">AI Literacy Badge</a>
-- <a href="https://openbadgepassport.com/file/4/c/7/3/4c734adda5bc79d12be898256d54aa8473f2dbe7e204320153142b0c43dd42fe.png" target="_blank" rel="noopener noreferrer">Artificial Intelligence Fundamentals Certificate</a> &nbsp;&nbsp; <a href="https://www.credly.com/badges/4a3aaa82-6cac-4e33-aa73-99406f648d1c/linked_in_profile" target="_blank" rel="noopener noreferrer">[Badge]</a>
+- <a href="https://openbadgepassport.com/file/4/c/7/3/4c734adda5bc79d12be898256d54aa8473f2dbe7e204320153142b0c43dd42fe.png" target="_blank" rel="noopener noreferrer">Artificial Intelligence Fundamentals Certificate</a> &nbsp;&nbsp; <a href="https://ai-for-all.in/#/badge?id=U2FsdGVkX1962tygFO7nXPWO1oivL1ksFjHXGbn6Zd8K2FlbSOWpjUxv9Q9PEZ2m" target="_blank" rel="noopener noreferrer">[Badge]</a>
+
+### Intel
+- <a href="https://openbadgepassport.com/file/6/c/8/1/6c819aba9da28c125d77916213086fad38c325cfb2e3d2c4646da42a558d9c76.png" target="_blank" rel="noopener noreferrer">AI Aware Certificate</a> &nbsp;&nbsp; <a href="https://ai-for-all.in/#/badge?id=U2FsdGVkX1962tygFO7nXPWO1oivL1ksFjHXGbn6Zd8K2FlbSOWpjUxv9Q9PEZ2m" target="_blank" rel="noopener noreferrer">[Badge]</a>
 
 ### KI-Campus
 - <a href="https://openbadgepassport.com/file/d/c/5/0/dc50371ea752777ab591db44172f21e17d71a5f22b2009d98bb232c6791451a8.png" target="_blank" rel="noopener noreferrer">Foundations of Artificial Intelligence I Certificate</a> &nbsp;&nbsp; <a href="https://badgr.com/public/assertions/zdvzJzEhTeSjZH2tTx3fuQ?identity__email=marcus%40vasconcellos.net.br" target="_blank" rel="noopener noreferrer">[Badge]</a>
