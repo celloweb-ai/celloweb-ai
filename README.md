@@ -89,7 +89,7 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 - **Technical Contract Manager** @ Intertechne (2018)
 - **Owner Engineering** @ Enaval (2016-2018)
 - **Senior Consultant** @ PETROBRAS (2006-2015)
-- **Integration ProjectManager** @ Dell (2001-2006)
+- **Integration Project Manager** @ Dell (2001-2006)
 - **Industrial Automation Project Manager** @ Altus Sistemas de Automação (1988-2001)
 
 ---
