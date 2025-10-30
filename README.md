@@ -140,6 +140,9 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 ### Google
 - <a href="https://coursera.org/share/d9cf7ae309978389865522230efb9e1c" target="_blank" rel="noopener noreferrer">Google AI Essentials</a>
 
+### Hewlett-Packard
+- <a href="https://www.life-global.org/certificate/ced56931-6c4a-4a3e-91d0-63cf0dd0ad6d" target="_blank" rel="noopener noreferrer">AI for Beginners</a>
+
 ### Huawei
 - <a href="https://kltstaticcontent.shixizhi.huawei.com/1365189427395223554/certificate/20250919/b1f966041aef4243819259fa4ac63eda_ICT2025091900181311d52dd17e8e42cc9464fbfbe56195ee.png" target="_blank" rel="noopener noreferrer">Huawei Certified ICT Associate (HCIA) - AI</a>
 
