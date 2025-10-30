@@ -149,6 +149,7 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 
 ### Intel
 - <a href="https://openbadgepassport.com/file/6/c/8/1/6c819aba9da28c125d77916213086fad38c325cfb2e3d2c4646da42a558d9c76.png" target="_blank" rel="noopener noreferrer">AI Aware Certificate</a> &nbsp;&nbsp; <a href="https://ai-for-all.in/#/badge?id=U2FsdGVkX1962tygFO7nXPWO1oivL1ksFjHXGbn6Zd8K2FlbSOWpjUxv9Q9PEZ2m" target="_blank" rel="noopener noreferrer">[Badge]</a>
+- <a href="https://openbadgepassport.com/file/6/1/2/4/61246532589ecf0b96066fa4dc5ff0b00b669b81acc7f6f0abe4eeddd66f15bd.png" target="_blank" rel="noopener noreferrer">AI Appreciate Certificate</a> &nbsp;&nbsp; <a href="https://ai-for-all.in/#/badge?id=U2FsdGVkX1s1L2a3S4hEzpo2cPOO443xNsSCHcbgYtzs8CFleBfFXtn0aktcWOPQXjFFxjh8" target="_blank" rel="noopener noreferrer">[Badge]</a>
 
 ### KI-Campus
 - <a href="https://openbadgepassport.com/file/d/c/5/0/dc50371ea752777ab591db44172f21e17d71a5f22b2009d98bb232c6791451a8.png" target="_blank" rel="noopener noreferrer">Foundations of Artificial Intelligence I Certificate</a> &nbsp;&nbsp; <a href="https://badgr.com/public/assertions/zdvzJzEhTeSjZH2tTx3fuQ?identity__email=marcus%40vasconcellos.net.br" target="_blank" rel="noopener noreferrer">[Badge]</a>
