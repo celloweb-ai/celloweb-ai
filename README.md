@@ -114,7 +114,7 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 - <a href="https://openbadgefactory.com/v1/assertion/fbe96028b03893efeb2f7cdd7a2e2cd40c4fde5f.html" target="_blank" rel="noopener noreferrer">Machine Learning Professional Certificate</a> &nbsp;&nbsp; <a href="https://ti-user-certificates.s3.amazonaws.com/5733896a-1d71-46e5-b0a3-1ffcf845fe21/08b5924c-e3a8-4508-974e-357949407112-marcus-vasconcellos-2371e561-3417-4cca-afc4-05b0aac04e58-certificate.pdf" target="_blank" rel="noopener noreferrer">[Badge]</a>
   
 ### Alura
-- <a href="https://openbadgepassport.com/file/5/b/d/2/5bd24524fce9b7308c1d240f7ecd2c98f086aa5f0febbf31cd3614b02e38199e.png" target="_blank" rel="noopener noreferrer">Aprendizagem: personalizando sua rotina de estudos com ChatGPT</a>
+- <a href="https://openbadgepassport.com/file/5/b/d/2/5bd24524fce9b7308c1d240f7ecd2c98f086aa5f0febbf31cd3614b02e38199e.png" target="_blank" rel="noopener noreferrer">Aprendizagem: personalizando sua rotina de estudos com ChatGPT</a>- <a href="https://openbadgepassport.com/file/b/1/6/7/b16797cc0bf9cd1c574d844caceee8ae3808aed6c3187daa288a9f816f3cbb6c.png" target="_blank" rel="noopener noreferrer">Engenharia de Prompt: criando prompts eficazes para IA Generativa</a>
 
 ### appliedAI Institute for Europe
 - <a href="https://openbadgepassport.com/file/f/7/8/8/f7885582dbfcc71d113f338a4a2852ab25dadb6621e5829931e2a23b71403e08.png" target="_blank" rel="noopener noreferrer">AI Essentials: A Comprehensive Introduction</a>
