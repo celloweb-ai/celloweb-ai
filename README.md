@@ -115,7 +115,7 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
   
 ### Alura
 - <a href="https://openbadgepassport.com/file/5/b/d/2/5bd24524fce9b7308c1d240f7ecd2c98f086aa5f0febbf31cd3614b02e38199e.png" target="_blank" rel="noopener noreferrer">Aprendizagem: personalizando sua rotina de estudos com ChatGPT</a>
-- <a href="https://openbadgepassport.com/file/b/1/6/7/b16797cc0bf9cd1c574d844caceee8ae3808aed6c3187daa288a9f816f3cbb6c.png" target="_blank" rel="noopener noreferrer">Engenharia de Prompt: criando prompts eficazes para IA Generativa</a>
+- <a href="https://openbadgepassport.com/file/0/4/5/7/04570c9a0ca0941d141de01eab5c0a6bba7b8294657a032e6a4039b557b1152f.png" target="_blank" rel="noopener noreferrer">Prompt Engineering: creating effective prompts for Generative AI</a>
 
 ### appliedAI Institute for Europe
 - <a href="https://openbadgepassport.com/file/f/7/8/8/f7885582dbfcc71d113f338a4a2852ab25dadb6621e5829931e2a23b71403e08.png" target="_blank" rel="noopener noreferrer">AI Essentials: A Comprehensive Introduction</a>
