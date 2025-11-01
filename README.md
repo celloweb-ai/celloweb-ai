@@ -141,7 +141,8 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 
 ### Google
 - <a href="https://coursera.org/share/60a819a0e475a4957927f9bb37c7135b" target="_blank" rel="noopener noreferrer">Google AI Essentials Specialization </a>
-- <a href="https://coursera.org/share/d9cf7ae309978389865522230efb9e1c" target="_blank" rel="noopener noreferrer">Google AI Essentials</a>
+- <a href="https://coursera.org/share/d9cf7ae309978389865522230efb9e1c" target="_blank" rel="noopener noreferrer">Google AI Essentials</a> &nbsp;&nbsp; <a href="https://www.credly.com/badges/ab96ced9-3075-4fe5-983d-0b265dd04f33/public_url" target="_blank" rel="noopener noreferrer">[Badge]</a>
+
 - <a href="https://coursera.org/share/9f10d5f445da83235de56e6f518df3a5" target="_blank" rel="noopener noreferrer">Maximize Productivity With AI Tools</a>
 - <a href="https://coursera.org/share/c3ce9ddb9f7689d8d48e7ef2c7af5bf6" target="_blank" rel="noopener noreferrer">Discover the Art of Prompting</a>
 - <a href="https://coursera.org/share/55e98b6971cc2d1a2d5b78a101529a96" target="_blank" rel="noopener noreferrer">Use AI Responsibly</a>
