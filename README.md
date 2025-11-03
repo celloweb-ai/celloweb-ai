@@ -147,6 +147,7 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 - <a href="https://coursera.org/share/55e98b6971cc2d1a2d5b78a101529a96" target="_blank" rel="noopener noreferrer">Use AI Responsibly</a>
 - <a href="https://coursera.org/share/9f10d5f445da83235de56e6f518df3a5" target="_blank" rel="noopener noreferrer">Maximize Productivity With AI Tools</a>
 - <a href="https://coursera.org/share/ea9f5f41bfb82113f74611a9d27a34d5" target="_blank" rel="noopener noreferrer">Stay Ahead of the AI Curve</a>
+- <a href="https://coursera.org/share/4781079f12c4f0c9a11f52bc3d3f46ca" target="_blank" rel="noopener noreferrer">Start Writing Prompts like a Pro</a>
 
 ### Hewlett-Packard
 - <a href="https://www.life-global.org/certificate/ced56931-6c4a-4a3e-91d0-63cf0dd0ad6d" target="_blank" rel="noopener noreferrer">AI for Beginners</a>
