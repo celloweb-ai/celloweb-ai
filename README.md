@@ -1,4 +1,3 @@
-
 <!-- Background hero block (with overlay + dark/light aware) -->
 <div
   style="
