@@ -16,8 +16,9 @@
 </p>
 
 ---
+![Header](https://github.com/celloweb-ai/celloweb-ai/blob/main/images/github-header-banner.png)
 
-## 👋 Hi, I'm Marcus
+## 👋 A little about Me
 I'm an Electronics and Computer Engineer with an **MBA in Project Management** and over **20 years of experience** in offshore and onshore engineering environments.
 
 My expertise lies in industrial automation, instrumentation, control systems, and OT/ICS cybersecurity. I have a solid track record in managing and executing large-scale automation projects across the oil and gas sector, with proven leadership in guiding cross-functional teams and delivering high-performance systems.
