@@ -1,3 +1,69 @@
+
+<!-- Background hero block (with overlay + dark/light aware) -->
+<div
+  style="
+    position: relative;
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: 0 8px 28px rgba(0,0,0,.28);
+  "
+>
+  <!-- Background image -->
+  <div
+    style="
+      background-image: url('https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=2000&auto=format&fit=crop');
+      background-size: cover;
+      background-position: center;
+      filter: saturate(105%) contrast(105%);
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      inset: 0;
+      z-index: 0;
+    "
+  ></div>
+
+  <!-- Overlay to ensure text contrast -->
+  <div
+    style="
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        180deg,
+        rgba(0,0,0,.55) 0%,
+        rgba(0,0,0,.45) 40%,
+        rgba(0,0,0,.60) 100%
+      );
+      z-index: 1;
+    "
+  ></div>
+
+  <!-- Content -->
+  <div
+    style="
+      position: relative;
+      z-index: 2;
+      padding: 42px 30px;
+      color: #ffffff;
+    "
+  >
+    <h2 style="margin: 0 0 6px 0;">Marcus Vasconcellos</h2>
+    <p style="margin: 0 0 14px 0; font-size: 1.05rem;">
+      Senior Automation Engineer · Electronics & Computer Engineer · MBA in Project Management
+    </p>
+
+    <p style="margin: 0 0 10px 0;">
+      <a href="https://www.linkedin.com/in/marcusvasconcellos" style="color:#fff;text-decoration:none;">LinkedIn</a> ·
+      <a href="mailto:marcus@vasconcellos.net.br" style="color:#fff;text-decoration:none;">Email</a>
+    </p>
+
+    <p style="margin: 10px 0 0 0; font-size: .95rem; opacity: .95;">
+      Automation • Instrumentation • Fire & Gas • ESD • Project Management • Risk
+    </p>
+  </div>
+</div>
+
+
 <p align="center">
   <h1>Marcus Vasconcellos</h1>
   <strong>Senior Automation Engineer | Electronics & Computer Engineer | MBA in Project Management</strong>
@@ -217,4 +283,4 @@ Feel free to reach out for collaborations, consulting opportunities, or just to 
 </p>
 
 ---
-*Last updated: October 2025*
+*Last updated: November 2025*
