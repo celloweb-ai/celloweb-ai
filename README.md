@@ -141,16 +141,16 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 - <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=1f9a87feae4a56eeefa505cd457242d5&action=view" target="_blank" rel="noopener noreferrer">Inteligência Artificial Responsável</a>
 
 ### Google
-- <a href="https://coursera.org/share/60a819a0e475a4957927f9bb37c7135b" target="_blank" rel="noopener noreferrer">Google AI Essentials Specialization </a>
-- <a href="https://coursera.org/share/d9cf7ae309978389865522230efb9e1c" target="_blank" rel="noopener noreferrer">Google AI Essentials</a> &nbsp;&nbsp; <a href="https://www.credly.com/badges/ab96ced9-3075-4fe5-983d-0b265dd04f33/public_url" target="_blank" rel="noopener noreferrer">[Badge]</a>
-- <a href="https://coursera.org/share/9f10d5f445da83235de56e6f518df3a5" target="_blank" rel="noopener noreferrer">Maximize Productivity With AI Tools</a>
-- <a href="https://coursera.org/share/c3ce9ddb9f7689d8d48e7ef2c7af5bf6" target="_blank" rel="noopener noreferrer">Discover the Art of Prompting</a>
-- <a href="https://coursera.org/share/55e98b6971cc2d1a2d5b78a101529a96" target="_blank" rel="noopener noreferrer">Use AI Responsibly</a>
-- <a href="https://coursera.org/share/9f10d5f445da83235de56e6f518df3a5" target="_blank" rel="noopener noreferrer">Maximize Productivity With AI Tools</a>
-- <a href="https://coursera.org/share/ea9f5f41bfb82113f74611a9d27a34d5" target="_blank" rel="noopener noreferrer">Stay Ahead of the AI Curve</a>
-- <a href="https://coursera.org/share/4781079f12c4f0c9a11f52bc3d3f46ca" target="_blank" rel="noopener noreferrer">Start Writing Prompts like a Pro</a>
-- <a href="https://coursera.org/share/ef53d9c0d6ae3fee6c4bb5f003547ea1" target="_blank" rel="noopener noreferrer">Design Prompts for Everyday Work Tasks</a>
-- <a href="https://coursera.org/share/f02cd5c094e1228e41d6ed56967f9c6e" target="_blank" rel="noopener noreferrer">Speed Up Data Analysis and Presentation Building</a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/T6PWMFQII2Z6" target="_blank" rel="noopener noreferrer">Google AI Essentials Specialization </a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/DB33DNMEB0F2" target="_blank" rel="noopener noreferrer">Google AI Essentials</a> &nbsp;&nbsp; <a href="https://www.credly.com/badges/ab96ced9-3075-4fe5-983d-0b265dd04f33/public_url" target="_blank" rel="noopener noreferrer">[Badge]</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/XP1QNU3S0SX2" target="_blank" rel="noopener noreferrer">Maximize Productivity With AI Tools</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/QUS500HJEU9C" target="_blank" rel="noopener noreferrer">Discover the Art of Prompting</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/99Z2EC3X3D33" target="_blank" rel="noopener noreferrer">Use AI Responsibly</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/XP1QNU3S0SX2" target="_blank" rel="noopener noreferrer">Maximize Productivity With AI Tools</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/EXM2P6LYO9BR" target="_blank" rel="noopener noreferrer">Stay Ahead of the AI Curve</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/269ORAVPDOVH" target="_blank" rel="noopener noreferrer">Start Writing Prompts like a Pro</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/3GFTY5CMJ4P5" target="_blank" rel="noopener noreferrer">Design Prompts for Everyday Work Tasks</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/3GC1BOVHPKFM" target="_blank" rel="noopener noreferrer">Speed Up Data Analysis and Presentation Building</a>
 
 
 ### Hewlett-Packard
