@@ -133,7 +133,8 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 - <a href="https://credentials.databricks.com/1d5150cd-2255-4640-bc4c-1dd43b96a199" target="_blank" rel="noopener noreferrer">Academy Accreditation - Generative AI Fundamentals</a>
 
 ### Digital Innovation One
-- <a href="https://openbadgepassport.com/file/0/a/a/d/0aadff51f3a0f6e94658275fec186d238f494b7fc944724636af70092b9cdc0c.png" target="_blank" rel="noopener noreferrer">Fundamentos de IA Generativa</a>
+- <a href="https://hermes.dio.me/certificates/cover/8Q8UJGV2.jpg" target="_blank" rel="noopener noreferrer">Fundamentos de IA Generativa</a>
+- <a href="https://hermes.dio.me/certificates/cover/ZK2BXIQI.jpg" target="_blank" rel="noopener noreferrer">Inteligência Artificial na Prática</a>
 
 ### FIAP
 - <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=96b5ba62fb2e00022d10ca512797dc3c&action=view" target="_blank" rel="noopener noreferrer">Chatbots</a>
