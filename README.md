@@ -154,6 +154,7 @@ Essentials Specialization </a>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/269ORAVPDOVH" target="_blank" rel="noopener noreferrer">Start Writing Prompts like a Pro</a>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/3GFTY5CMJ4P5" target="_blank" rel="noopener noreferrer">Design Prompts for Everyday Work Tasks</a>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/3GC1BOVHPKFM" target="_blank" rel="noopener noreferrer">Speed Up Data Analysis and Presentation Building</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/YL2JEUBW9S6S" target="_blank" rel="noopener noreferrer">Use AI as a Creative or Expert Partner</a>
 
 
 ### Hewlett-Packard
