@@ -16,7 +16,7 @@
 </p>
 
 ---
-![Header](https://github.com/celloweb-ai/celloweb-ai/blob/main/images/github-header-banner.png)
+![Header](https://github.com/celloweb-ai/AI_Personal_Finance_Assistant/blob/main/images/banner.jpg)
 
 ## 👋 A little about Me
 I'm an Electronics and Computer Engineer with an **MBA in Project Management** and over **20 years of experience** in offshore and onshore engineering environments.
