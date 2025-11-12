@@ -72,8 +72,11 @@ My expertise lies in industrial automation, instrumentation, control systems, an
 ---
 
 ## 💼 Professional Experience
+### Automation Engineer Specialist @ PRIO
+**November 2025 - Present | Rio de Janeiro, RJ**  
+
 ### Principal Automation Engineer @ Equinor
-**April 2023 - Present | Rio de Janeiro, RJ**  
+**April 2023 - November 2025 | Rio de Janeiro, RJ**  
 Automation fire and gas and maintenance focal point for Peregrino FPSO and three wellheads, focusing on delivering automation application solutions and integrating systems with internal platforms and external partners.
 
 ### Senior Instrumentation & Automation Engineer @ DBR Energies
