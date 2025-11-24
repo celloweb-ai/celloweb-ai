@@ -192,6 +192,9 @@ Essentials Specialization </a> &nbsp;&nbsp; <a href="https://www.credly.com/badg
 - <a href="https://www.credly.com/badges/5f319d2e-a159-4526-95da-b53e37616250/linked_in_profile" target="_blank" rel="noopener noreferrer">Practical Application of Gen AI for Project Managers</a>
 - <a href="https://www.credly.com/badges/a5f3b699-0c4d-4b35-b1b3-89554cc95a44/linked_in_profile" target="_blank" rel="noopener noreferrer">Talking to AI: Prompt Engineering for Project Managers</a>
 
+### Politecnico di Milano
+- <a href="https://www.coursera.org/account/accomplishments/certificate/LWCAIKGV5TET" target="_blank" rel="noopener noreferrer">Machine Learning: an overview</a>
+
 ### StartSe University
 - <a href="https://lms.startse.com/certificado/v2/646e1585bfaa5a7358dfa411?studentId=686fe4421245ce6fb0defc80" target="_blank" rel="noopener noreferrer">AI Skills</a>
 - <a href="https://lms.startse.com/certificado/v2/66d8620a181083001247fa9c?studentId=686fe4421245ce6fb0defc80" target="_blank" rel="noopener noreferrer">IA para Todos</a>
