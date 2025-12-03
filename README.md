@@ -160,7 +160,6 @@ Essentials Specialization </a> &nbsp;&nbsp; <a href="https://www.credly.com/badg
 - <a href="https://www.coursera.org/account/accomplishments/certificate/3GC1BOVHPKFM" target="_blank" rel="noopener noreferrer">Speed Up Data Analysis and Presentation Building</a>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/YL2JEUBW9S6S" target="_blank" rel="noopener noreferrer">Use AI as a Creative or Expert Partner</a>
 
-
 ### Hewlett-Packard
 - <a href="https://www.life-global.org/certificate/ced56931-6c4a-4a3e-91d0-63cf0dd0ad6d" target="_blank" rel="noopener noreferrer">AI for Beginners</a>
 
@@ -194,6 +193,7 @@ Essentials Specialization </a> &nbsp;&nbsp; <a href="https://www.credly.com/badg
 
 ### Politecnico di Milano
 - <a href="https://www.coursera.org/account/accomplishments/certificate/LWCAIKGV5TET" target="_blank" rel="noopener noreferrer">Machine Learning: an overview</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/0PXOA89OJFRJ" target="_blank" rel="noopener noreferrer">Artificial Intelligence: an overview</a>
 
 ### StartSe University
 - <a href="https://lms.startse.com/certificado/v2/646e1585bfaa5a7358dfa411?studentId=686fe4421245ce6fb0defc80" target="_blank" rel="noopener noreferrer">AI Skills</a>
