@@ -194,6 +194,8 @@ Essentials Specialization </a> &nbsp;&nbsp; <a href="https://www.credly.com/badg
 ### Politecnico di Milano
 - <a href="https://www.coursera.org/account/accomplishments/certificate/LWCAIKGV5TET" target="_blank" rel="noopener noreferrer">Machine Learning: an overview</a>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/0PXOA89OJFRJ" target="_blank" rel="noopener noreferrer">Artificial Intelligence: an overview</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/H8CON9WLX750" target="_blank" rel="noopener noreferrer">Ethics of Artificial Intelligence
+</a>
 
 ### StartSe University
 - <a href="https://lms.startse.com/certificado/v2/646e1585bfaa5a7358dfa411?studentId=686fe4421245ce6fb0defc80" target="_blank" rel="noopener noreferrer">AI Skills</a>
