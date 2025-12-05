@@ -192,6 +192,8 @@ Essentials Specialization </a> &nbsp;&nbsp; <a href="https://www.credly.com/badg
 - <a href="https://www.credly.com/badges/a5f3b699-0c4d-4b35-b1b3-89554cc95a44/linked_in_profile" target="_blank" rel="noopener noreferrer">Talking to AI: Prompt Engineering for Project Managers</a>
 
 ### Politecnico di Milano
+- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/K8JL6UIWTDWN" target="_blank" rel="noopener noreferrer">Artificial Intelligence: an
+Overview Specialization</a>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/LWCAIKGV5TET" target="_blank" rel="noopener noreferrer">Machine Learning: an overview</a>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/0PXOA89OJFRJ" target="_blank" rel="noopener noreferrer">Artificial Intelligence: an overview</a>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/H8CON9WLX750" target="_blank" rel="noopener noreferrer">Ethics of Artificial Intelligence </a>
