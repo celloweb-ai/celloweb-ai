@@ -109,7 +109,7 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 ## 🏅 AI & Machine Learning Certifications
 
 <details>
-<summary>Click to expand all 30+ certifications</summary>
+<summary>Click to expand all 50+ certifications</summary>
   
 ### Altair RapidMiner
 - <a href="https://ti-user-certificates.s3.amazonaws.com/5733896a-1d71-46e5-b0a3-1ffcf845fe21/08b5924c-e3a8-4508-974e-357949407112-marcus-vasconcellos-b4805178-07da-475b-9c42-0686cd9fc1ab-certificate.pdf" target="_blank" rel="noopener noreferrer">Applications & Use Cases Master Certificate</a> &nbsp;&nbsp; <a href="https://openbadgefactory.com/v1/assertion/66edcebfb750300e54b919df02146b5a0b1f9f52.html" target="_blank" rel="noopener noreferrer">[Badge]</a>
@@ -196,6 +196,9 @@ Essentials Specialization </a> &nbsp;&nbsp; <a href="https://www.credly.com/badg
 - <a href="https://www.coursera.org/account/accomplishments/certificate/0PXOA89OJFRJ" target="_blank" rel="noopener noreferrer">Artificial Intelligence: an overview</a>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/H8CON9WLX750" target="_blank" rel="noopener noreferrer">Ethics of Artificial Intelligence </a>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/KVBJ6T6MX4CV" target="_blank" rel="noopener noreferrer">Artificial Intelligence and legal issues</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/FZCHB98O5OFO" target="_blank" rel="noopener noreferrer">Technologies and platforms for Artificial
+Intelligence
+</a>
 
 ### StartSe University
 - <a href="https://lms.startse.com/certificado/v2/646e1585bfaa5a7358dfa411?studentId=686fe4421245ce6fb0defc80" target="_blank" rel="noopener noreferrer">AI Skills</a>
