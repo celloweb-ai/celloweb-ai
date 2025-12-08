@@ -30,12 +30,11 @@ My current focus is leveraging my extensive background in industrial automation,
 
 ---
 
-## 📈 GitHub Stats
+📈 GitHub Stats
+<p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=celloweb-ai&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celloweb-ai&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=celloweb-ai&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celloweb-ai&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
+🌍 Languages
+<p align="left">   <img src="https://img.shields.io/badge/Portuguese-Native-2BA600?style=for-the-badge" alt="Portuguese"/>   <img src="https://img.shields.io/badge/English-Advanced-007ACC?style=for-the-badge" alt="English"/>   <img src="https://img.shields.io/badge/Spanish-Intermediate-D14836?style=for-the-badge" alt="Spanish"/> </p>
 
 ---
 
