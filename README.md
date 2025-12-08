@@ -233,4 +233,4 @@ Feel free to reach out for collaborations, consulting opportunities, or just to 
 </p>
 
 ---
-*Last updated: November 2025*
+*Last updated: December 2025*
