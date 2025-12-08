@@ -1,18 +1,18 @@
 <p align="center">
-  <h1>Marcus Vasconcellos</h1>
-  <strong>Senior Automation Engineer | Electronics & Computer Engineer | MBA in Project Management</strong>
+  <h1>Marcus Vasconcellos</h1>
+  <strong>Senior Automation Engineer | Electronics & Computer Engineer | MBA in Project Management</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcusvasconcellos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:marcus@vasconcellos.net.br">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Niterói,_Rio_de_Janeiro-Brazil-2BA600?style=for-the-badge" alt="Niterói, Rio de Janeiro - Brazil"/>
-  </a>
+  <a href="https://www.linkedin.com/in/marcusvasconcellos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:marcus@vasconcellos.net.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Niterói,_Rio_de_Janeiro-Brazil-2BA600?style=for-the-badge" alt="Niterói, Rio de Janeiro - Brazil"/>
+  </a>
 </p>
 
 ---
@@ -30,67 +30,57 @@ My current focus is leveraging my extensive background in industrial automation,
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=celloweb-ai&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celloweb-ai&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🚀 Technical Skills
 
 ### Automation & Control Systems
 <p align="left">
-  <img src="https://img.shields.io/badge/Industrial%20Automation-007ACC?style=for-the-badge" alt="Industrial Automation"/>
-  <img src="https://img.shields.io/badge/Instrumentation-007ACC?style=for-the-badge" alt="Instrumentation"/>
-  <img src="https://img.shields.io/badge/System%20Integration-007ACC?style=for-the-badge" alt="System Integration"/>
-  <img src="https://img.shields.io/badge/ESD%20Systems-007ACC?style=for-the-badge" alt="Emergency Shutdown (ESD) Systems"/>
-  <img src="https://img.shields.io/badge/Fire%20&%20Gas%20Systems-007ACC?style=for-the-badge" alt="Fire & Gas Systems"/>
+  <img src="https://img.shields.io/badge/Industrial%20Automation-007ACC?style=for-the-badge" alt="Industrial Automation"/>
+  <img src="https://img.shields.io/badge/System%20Integration-007ACC?style=for-the-badge" alt="System Integration"/>
+  <img src="https://img.shields.io/badge/Instrumentation-007ACC?style=for-the-badge" alt="Instrumentation"/>
+  <img src="https://img.shields.io/badge/Fire%20&%20Gas%20Systems-007ACC?style=for-the-badge" alt="Fire & Gas Systems"/>
+  <img src="https://img.shields.io/badge/ESD%20Systems-007ACC?style=for-the-badge" alt="Emergency Shutdown (ESD) Systems"/>
 </p>
 
-### AI, Data & Cybersecurity
+### Technical Expertise
 <p align="left">
-  <img src="https://img.shields.io/badge/Generative%20AI-0052CC?style=for-the-badge&logo=openai" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/OT/ICS%20Cybersecurity-333333?style=for-the-badge&logo=lock&logoColor=white" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-333333?style=for-the-badge" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-333333?style=for-the-badge" alt="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/Risk%20Management-333333?style=for-the-badge" alt="Risk Management"/>
+  <img src="https://img.shields.io/badge/OT/ICS%20Cybersecurity-333333?style=for-the-badge&logo=lock&logoColor=white" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Project%20Management-333333?style=for-the-badge" alt="Project Management"/>
+  <img src="https://img.shields.io/badge/Technical%20Documentation-333333?style=for-the-badge" alt="Technical Documentation"/>
+  <img src="https://img.shields.io/badge/Compliance%20&%20Safety-333333?style=for-the-badge" alt="Compliance & Safety Standards"/>
+  <img src="https://img.shields.io/badge/Risk%20Management-333333?style=for-the-badge" alt="Risk Management"/>
 </p>
 
 ### Programming & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/RapidMiner-FF6A00?style=for-the-badge&logoColor=white" alt="RapidMiner"/>
-  <img src="https://img.shields.io/badge/Project%20Management-9933CC?style=for-the-badge" alt="Project Management"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 ### Soft Skills
 <p align="left">
-  <img src="https://img.shields.io/badge/Leadership-4CAF50?style=for-the-badge" alt="Leadership"/>
-  <img src="https://img.shields.io/badge/Stakeholder%20Engagement-4CAF50?style=for-the-badge" alt="Stakeholder Engagement"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge" alt="Problem Solving"/>
-  <img src="https://img.shields.io/badge/Adaptability-4CAF50?style=for-the-badge" alt="Adaptability"/>
-  <img src="https://img.shields.io/badge/Works%20Under%20Pressure-4CAF50?style=for-the-badge" alt="Ability to Work Under Pressure"/>
+  <img src="https://img.shields.io/badge/Leadership-4CAF50?style=for-the-badge" alt="Leadership"/>
+  <img src="https://img.shields.io/badge/Stakeholder%20Engagement-4CAF50?style=for-the-badge" alt="Stakeholder Engagement"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Fast%20Learner-4CAF50?style=for-the-badge" alt="Fast Learner"/>
+  <img src="https://img.shields.io/badge/Adaptability-4CAF50?style=for-the-badge" alt="Adaptability"/>
+  <img src="https://img.shields.io/badge/Works%20Under%20Pressure-4CAF50?style=for-the-badge" alt="Ability to Work Under Pressure"/>
 </p>
 
 ---
 
 ## 💼 Professional Experience
 ### Automation Engineer Specialist @ PRIO
-**November 2025 - Present | Rio de Janeiro, RJ**  
+**November 2025 - Present | Rio de Janeiro, RJ**  
 
 ### Principal Automation Engineer @ Equinor
-**April 2023 - November 2025 | Rio de Janeiro, RJ**  
+**April 2023 - November 2025 | Rio de Janeiro, RJ**  
 Automation fire and gas and maintenance focal point for Peregrino FPSO and three wellheads, focusing on delivering automation application solutions and integrating systems with internal platforms and external partners.
 
 ### Senior Instrumentation & Automation Engineer @ DBR Energies
-**July 2022 - April 2023 | Rio de Janeiro, RJ**  
+**July 2022 - April 2023 | Rio de Janeiro, RJ**  
 Conducted instrumentation and automation engineering projects for multiple oil and gas initiatives, including Petrobras ATAPU 2, SÉPIA 2, and GASLUB projects.
 
 ### Commissioning Lead System Engineer @ Equinor (via DBR Energies)
-**December 2019 - Present | Peregrino Field, Campos Basin**  
+**December 2019 - Present | Peregrino Field, Campos Basin**  
 Led safe commissioning preparation and execution for F&G and ESD Systems, building and managing commissioning teams aligned with Equinor's safety protocols.
 
 #### Additional Experience
@@ -116,13 +106,13 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 
 <details>
 <summary>Click to expand all 50+ certifications</summary>
-  
+  
 ### Altair RapidMiner
 - <a href="https://ti-user-certificates.s3.amazonaws.com/5733896a-1d71-46e5-b0a3-1ffcf845fe21/08b5924c-e3a8-4508-974e-357949407112-marcus-vasconcellos-b4805178-07da-475b-9c42-0686cd9fc1ab-certificate.pdf" target="_blank" rel="noopener noreferrer">Applications & Use Cases Master Certificate</a> &nbsp;&nbsp; <a href="https://openbadgefactory.com/v1/assertion/66edcebfb750300e54b919df02146b5a0b1f9f52.html" target="_blank" rel="noopener noreferrer">[Badge]</a>
 - <a href="https://ti-user-certificates.s3.amazonaws.com/5733896a-1d71-46e5-b0a3-1ffcf845fe21/08b5924c-e3a8-4508-974e-357949407112-marcus-augusto-89268705-fff6-4181-9fde-2e437690cb7e-certificate.pdf" target="_blank" rel="noopener noreferrer">Applications & Use Cases Professional Certificate</a> &nbsp;&nbsp; <a href="https://ti-user-certificates.s3.amazonaws.com/5733896a-1d71-46e5-b0a3-1ffcf845fe21/08b5924c-e3a8-4508-974e-357949407112-marcus-vasconcellos-2371e561-3417-4cca-afc4-05b0aac04e58-certificate.pdf" target="_blank" rel="noopener noreferrer">[Badge]</a>
 - <a href="https://openbadgefactory.com/v1/assertion/a9859e05680320937c314d732feb494ec330e15b.html" target="_blank" rel="noopener noreferrer">Machine Learning Master Certificate</a> &nbsp;&nbsp; <a href="https://ti-user-certificates.s3.amazonaws.com/5733896a-1d71-46e5-b0a3-1ffcf845fe21/08b5924c-e3a8-4508-974e-357949407112-marcus-augusto-89268705-fff6-4181-9fde-2e437690cb7e-certificate.pdf" target="_blank" rel="noopener noreferrer">[Badge]</a>
 - <a href="https://openbadgefactory.com/v1/assertion/fbe96028b03893efeb2f7cdd7a2e2cd40c4fde5f.html" target="_blank" rel="noopener noreferrer">Machine Learning Professional Certificate</a> &nbsp;&nbsp; <a href="https://ti-user-certificates.s3.amazonaws.com/5733896a-1d71-46e5-b0a3-1ffcf845fe21/08b5924c-e3a8-4508-974e-357949407112-marcus-vasconcellos-2371e561-3417-4cca-afc4-05b0aac04e58-certificate.pdf" target="_blank" rel="noopener noreferrer">[Badge]</a>
-  
+  
 ### Allura
 - <a href="https://openbadgepassport.com/file/0/4/5/7/04570c9a0ca0941d141de01eab5c0a6bba7b8294657a032e6a4039b557b1152f.png" target="_blank" rel="noopener noreferrer">Learning: customizing your study routine with ChatGPT</a>
 - <a href="https://openbadgepassport.com/file/0/4/5/7/04570c9a0ca0941d141de01eab5c0a6bba7b8294657a032e6a4039b557b1152f.png" target="_blank" rel="noopener noreferrer">Prompt Engineering: creating effective prompts for Generative AI</a>
@@ -224,9 +214,9 @@ Intelligence
 
 ## 🌍 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Portuguese-Native-2BA600?style=for-the-badge" alt="Portuguese"/>
-  <img src="https://img.shields.io/badge/English-Advanced-007ACC?style=for-the-badge" alt="English"/>
-  <img src="https://img.shields.io/badge/Spanish-Intermediate-D14836?style=for-the-badge" alt="Spanish"/>
+  <img src="https://img.shields.io/badge/Portuguese-Native-green?style=for-the-badge" alt="Portuguese"/>
+  <img src="https://img.shields.io/badge/English-Advanced-blue?style=for-the-badge" alt="English"/>
+  <img src="https://img.shields.io/badge/Spanish-Intermediate-orange?style=for-the-badge" alt="Spanish"/>
 </p>
 
 ---
@@ -234,13 +224,13 @@ Intelligence
 ## 📫 Get in Touch
 Feel free to reach out for collaborations, consulting opportunities, or just to connect!
 <p align="left">
-  <a href="https://www.linkedin.com/in/marcusvasconcellos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:marcus@vasconcellos.net.br">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://www.linkedin.com/in/marcusvasconcellos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:marcus@vasconcellos.net.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
-*Last updated: December 2025*
+*Last updated: November 2025*
