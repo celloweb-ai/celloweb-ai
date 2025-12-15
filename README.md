@@ -143,7 +143,7 @@ na Prática</a>
 ### FIAP
 - <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=96b5ba62fb2e00022d10ca512797dc3c&action=view" target="_blank" rel="noopener noreferrer">Chatbots</a>
 - <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=6f4eccc2703b66fb7862c9ef191b430a&action=view" target="_blank" rel="noopener noreferrer">Inteligência Artificial e Computacional</a>
-- <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=1f9a87feae4a56eeefa505cd457242d5&action=view" target="_blank" rel="noopener noreferrer">Fundamentos de IA Generativa com Bedrock</a>
+- <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=1f9a87feae4a56eeefa505cd457242d5&action=view" target="_blank" rel="noopener noreferrer">Inteligência Artificial Responsável</a>
 
 ### Google
 - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/T6PWMFQII2Z6" target="_blank" rel="noopener noreferrer">Google AI Essentials Specialization </a>
