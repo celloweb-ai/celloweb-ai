@@ -137,6 +137,8 @@ Led safe commissioning preparation and execution for F&G and ESD Systems, buildi
 - <a href="https://hermes.dio.me/certificates/cover/DAWA7T82.jpg" target="_blank" rel="noopener noreferrer">Fundamentos de IA Generativa com Bedrock</a>
 - <a href="https://hermes.dio.me/certificates/HNCAV8GL.pdf" target="_blank" rel="noopener noreferrer">Formação Fundamentos de
 Inteligência Artificial</a>
+- <a href="https://hermes.dio.me/certificates/LDQIRRVJ.pdf" target="_blank" rel="noopener noreferrer">Machine Learning e GenAl
+na Prática</a>
 
 ### FIAP
 - <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=96b5ba62fb2e00022d10ca512797dc3c&action=view" target="_blank" rel="noopener noreferrer">Chatbots</a>
