@@ -65,7 +65,7 @@ My current focus is leveraging my extensive background in industrial automation,
   <img src="https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge" alt="Problem Solving"/>
   <img src="https://img.shields.io/badge/Fast%20Learner-4CAF50?style=for-the-badge" alt="Fast Learner"/>
   <img src="https://img.shields.io/badge/Adaptability-4CAF50?style=for-the-badge" alt="Adaptability"/>
-  <img src="https://img.shields.io-badge/Works%20Under%20Pressure-4CAF50?style=for-the-badge" alt="Ability to Work Under Pressure"/>
+  <img src="https://img.shields.io/badge/Works%20Under%20Pressure-4CAF50?style=for-the-badge" alt="Ability to Work Under Pressure"/>
 </p>
 
 ---
