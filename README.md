@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Niterói,%20Rio%20de%20Janeiro-Brazil-2BA600?style=for-the-badge" alt="Niterói, Rio de Janeiro - Brazil"/>
+    <img src="https://img.shields.io/badge/Niterói,_Rio_de_Janeiro-Brazil-2BA600?style=for-the-badge" alt="Niterói, Rio de Janeiro - Brazil"/>
   </a>
 </p>
 
