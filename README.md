@@ -32,12 +32,16 @@ Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e ma
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celloweb-ai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celloweb-ai&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celloweb-ai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celloweb-ai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celloweb-ai&theme=dracula&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=celloweb-ai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celloweb-ai&theme=tokyonight" alt="GitHub Activity Graph"/>
 </div>
 
 ---
@@ -305,14 +309,6 @@ Organizador completo para Declaração de Imposto de Renda com validações auto
 🇧🇷 **Português:** Nativo  
 🇺🇸 **Inglês:** Avançado  
 🇪🇸 **Espanhol:** Intermediário
-
----
-
-## 📈 Contribuições GitHub
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=celloweb-ai&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</div>
 
 ---
 
