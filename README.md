@@ -1,243 +1,340 @@
 <p align="center">
-  <h1>Marcus Vasconcellos</h1>
-  <strong>Senior Automation Engineer | Electronics & Computer Engineer | MBA in Project Management</strong>
+  <h1>👋 Marcus Vasconcellos</h1>
+  <strong>Senior Automation Engineer | AI/ML Enthusiast | Industrial Cybersecurity Specialist</strong>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/marcusvasconcellos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:marcus@vasconcellos.net.br">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Niterói,_Rio_de_Janeiro-Brazil-2BA600?style=for-the-badge" alt="Niterói, Rio de Janeiro - Brazil"/>
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusvasconcellos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcus@vasconcellos.net.br)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celloweb-ai)
+[![Location](https://img.shields.io/badge/Rio_de_Janeiro-Brazil-2BA600?style=for-the-badge&logo=google-maps&logoColor=white)](https://goo.gl/maps/riodejaneiro)
+
+![Profile Views](https://komarev.com/ghpvc/?username=celloweb-ai&color=blue&style=for-the-badge)
+
+</div>
 
 ---
 
-![Header](https://github.com/celloweb-ai/celloweb-ai/blob/main/images/github-header-banner.png)
+## 🚀 Sobre Mim
 
-## 👋 A Little About Me
+Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e mais de **35 anos de experiência** em automação industrial, sistemas de controle e cibersegurança OT/ICS no setor de Oil & Gas.
 
-I'm an Electronics and Computer Engineer with an **MBA in Project Management** and over **35 years of experience** in offshore and onshore engineering environments.
-
-My expertise lies in industrial automation, instrumentation, control systems, and OT/ICS cybersecurity. I have a solid track record in managing and executing large-scale automation projects across the oil and gas sector, with proven leadership in guiding cross-functional teams and delivering high-performance systems.
-
----
-
-## 🧠 AI & Industrial Intelligence
-
-My current focus is leveraging my extensive background in industrial automation, control systems, and project management to explore and apply **Artificial Intelligence (AI)** and **Machine Learning (ML)** in the Oil & Gas sector. With over **50 AI/ML certifications** from leading providers (Google, IBM, NVIDIA, Databricks), I am actively working on bridging the gap between legacy OT/ICS infrastructure and modern intelligent systems, focusing on areas like **predictive maintenance, operational efficiency, and enhanced cybersecurity.**
+🔭 Atualmente: **Automation Engineer Specialist @ PRIO**  
+🌱 Estudando: **IA Generativa, Machine Learning e Data Science**  
+🎓 Bootcamps Concluídos: **DIO + Bradesco, Caixa, Santander**  
+🏅 Certificações: **50+ em AI/ML** (Google, IBM, NVIDIA, Databricks, AWS)  
+📍 Localização: **Rio de Janeiro, Brasil**  
+💼 Experiência: **Automação Industrial, Fire & Gas, ESD Systems, Cybersecurity**
 
 ---
 
-## 🚀 Technical Skills
+## 📊 GitHub Stats
 
-### Automation & Control Systems
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celloweb-ai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celloweb-ai&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celloweb-ai&theme=dracula&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 Projetos em Destaque
+
+### 💰 [Assistente Financeiro Inteligente](https://github.com/celloweb-ai/Assistente_Financeiro)
+Assistente financeiro completo com IA generativa para análise de dados, chatbot e calculadoras financeiras.
+- **Tech Stack:** Python, OpenAI API, Streamlit, Pandas
+- **Features:** Chatbot inteligente, FAQs automáticas, análise de gastos
+- **Bootcamp:** DIO + Bradesco - GenAI & Dados
+
+### 🤖 [ChatGPT Voice Conversation](https://github.com/celloweb-ai/Chatgpt_Voice_Conversation)
+Sistema de conversação por voz integrando Whisper (OpenAI) para transcrição e gTTS para síntese de voz.
+- **Tech Stack:** Python, OpenAI Whisper, gTTS, SpeechRecognition
+- **Features:** Transcrição de áudio, síntese de voz, conversa natural
+- **Bootcamp:** DIO + Bradesco - GenAI & Dados
+
+### 📊 [Dashboard Xbox Game Pass](https://github.com/celloweb-ai/Dashboard_Vendas_Xbox_Game_Pass)
+Dashboard interativo para análise de vendas e performance do Xbox Game Pass.
+- **Tech Stack:** Excel, Power Query, VBA, Pivot Tables
+- **Features:** KPIs dinâmicos, visualizações interativas, análise de tendências
+- **Bootcamp:** DIO + Santander
+
+### 📈 [Simulador de Investimentos FIIs](https://github.com/celloweb-ai/Simulador_Investimentos_FIIs)
+Ferramenta completa para controle e simulação de investimentos em Fundos Imobiliários.
+- **Tech Stack:** Excel, VBA, Fórmulas Avançadas
+- **Features:** Controle de carteira, cálculo de dividendos, análise de rentabilidade
+- **Bootcamp:** DIO + Santander
+
+### 📚 [NotebookLM - Educação Financeira](https://github.com/celloweb-ai/NotebookLM_Educacao_Financeira)
+Caderno temático sobre educação financeira usando NotebookLM com curadoria de fontes e prompts estratégicos.
+- **Tech Stack:** NotebookLM, Prompt Engineering
+- **Features:** Guia de estudos estruturado, FAQs temáticas, conteúdo curado
+- **Bootcamp:** DIO + Bradesco - GenAI & Dados
+
+### 🔮 [Previsão de Estoque AWS](https://github.com/celloweb-ai/Lab_AWS_Sagemaker_Canvas_Estoque)
+Modelo de Machine Learning para previsão inteligente de estoque usando AWS SageMaker Canvas.
+- **Tech Stack:** AWS SageMaker Canvas, Machine Learning
+- **Features:** Previsão automatizada, análise preditiva, visualização de dados
+- **Bootcamp:** DIO + AWS
+
+### 🧾 [Organizador de Declaração de IR](https://github.com/celloweb-ai/Organizador_Declaracao_Imposto_Renda)
+Organizador completo para Declaração de Imposto de Renda com validações automáticas.
+- **Tech Stack:** Python, Excel, Automação
+- **Features:** Validações automáticas, menus de navegação, organização de dados
+- **Bootcamp:** DIO + Santander
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Automação Industrial
 <p align="left">
-  <img src="https://img.shields.io/badge/Industrial%20Automation-007ACC?style=for-the-badge" alt="Industrial Automation"/>
-  <img src="https://img.shields.io/badge/System%20Integration-007ACC?style=for-the-badge" alt="System Integration"/>
-  <img src="https://img.shields.io/badge/Instrumentation-007ACC?style=for-the-badge" alt="Instrumentation"/>
-  <img src="https://img.shields.io/badge/Fire%20&%20Gas%20Systems-007ACC?style=for-the-badge" alt="Fire & Gas Systems"/>
-  <img src="https://img.shields.io/badge/ESD%20Systems-007ACC?style=for-the-badge" alt="Emergency Shutdown (ESD) Systems"/>
+  <img src="https://img.shields.io/badge/ABB_800xA-FF0000?style=for-the-badge&logo=abb&logoColor=white" alt="ABB 800xA"/>
+  <img src="https://img.shields.io/badge/PLC_Programming-0066CC?style=for-the-badge" alt="PLC"/>
+  <img src="https://img.shields.io/badge/SCADA-00AA00?style=for-the-badge" alt="SCADA"/>
+  <img src="https://img.shields.io/badge/Fire_%26_Gas-CC0000?style=for-the-badge" alt="Fire & Gas"/>
+  <img src="https://img.shields.io/badge/ESD_Systems-FF6600?style=for-the-badge" alt="ESD Systems"/>
 </p>
 
-### Technical Expertise
-<p align="left">
-  <img src="https://img.shields.io/badge/OT/ICS%20Cybersecurity-333333?style=for-the-badge&logo=lock&logoColor=white" alt="OT/ICS Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Project%20Management-333333?style=for-the-badge" alt="Project Management"/>
-  <img src="https://img.shields.io/badge/Technical%20Documentation-333333?style=for-the-badge" alt="Technical Documentation"/>
-  <img src="https://img.shields.io/badge/Compliance%20&%20Safety-333333?style=for-the-badge" alt="Compliance & Safety"/>
-  <img src="https://img.shields.io/badge/Risk%20Management-333333?style=for-the-badge" alt="Risk Management"/>
-</p>
-
-### Programming & Tools
+### Desenvolvimento & IA
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel VBA"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 
-### Soft Skills
+### Data Science & ML
 <p align="left">
-  <img src="https://img.shields.io/badge/Leadership-4CAF50?style=for-the-badge" alt="Leadership"/>
-  <img src="https://img.shields.io/badge/Stakeholder%20Engagement-4CAF50?style=for-the-badge" alt="Stakeholder Engagement"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge" alt="Problem Solving"/>
-  <img src="https://img.shields.io/badge/Fast%20Learner-4CAF50?style=for-the-badge" alt="Fast Learner"/>
-  <img src="https://img.shields.io/badge/Adaptability-4CAF50?style=for-the-badge" alt="Adaptability"/>
-  <img src="https://img.shields.io/badge/Works%20Under%20Pressure-4CAF50?style=for-the-badge" alt="Ability to Work Under Pressure"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+### Ferramentas & Plataformas
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </p>
 
 ---
 
-## 💼 Professional Experience
+## 🎓 Bootcamps & Formações DIO
 
-### Automation Engineer Specialist @ PRIO
-**November 2025 - Present | Rio de Janeiro, RJ**  
-Leading automation engineering initiatives for offshore production assets, focusing on system optimization, integrity management, and operational excellence in oil and gas production facilities.
+### ✅ Bootcamps Concluídos
 
-### Principal Automation Engineer @ Equinor
-**April 2023 - November 2025 | Rio de Janeiro, RJ**  
-Automation fire and gas and maintenance focal point for Peregrino FPSO and three wellhead platforms, delivering automation application solutions and integrating systems with internal platforms and external partners.
+#### 🏦 **Bradesco - GenAI & Dados**
+- Assistente Financeiro com IA Generativa
+- ChatGPT Voice Conversation
+- NotebookLM para Educação Financeira
+- Fundamentos de IA Generativa
 
-### Senior Instrumentation & Automation Engineer @ DBR Energies
-**July 2022 - April 2023 | Rio de Janeiro, RJ**  
-Conducted instrumentation and automation engineering projects for multiple oil and gas initiatives, including Petrobras ATAPU 2, SÉPIA 2, and GASLUB projects.
+#### 🏦 **Caixa - Inteligência Artificial na Prática**
+- Machine Learning e GenAI
+- Fundamentos de IA
+- Aplicações Práticas de IA
 
-### Commissioning Lead System Engineer @ Equinor (via DBR Energies)
-**December 2019 - July 2022 | Peregrino Field, Campos Basin**  
-Led safe commissioning preparation and execution for F&G and ESD systems, building and managing commissioning teams aligned with Equinor's safety and operational excellence protocols.
+#### 🏦 **Santander - Fundamentos de IA**
+- Dashboard de Vendas Xbox
+- Simulador de Investimentos
+- Organizador de IR
+- Excel Avançado com IA
 
-#### Additional Experience
-- **Senior Instrumentation Control Engineer** @ KERUI PETROLEUM BRASIL (2019)  
-- **Instrumentation & Automation Job Leader** @ DORIS Engenharia (2018-2019)  
-- **Technical Contract Manager** @ Intertechne (2018)  
-- **Owner Engineering** @ Enaval (2016-2018)  
-- **Senior Consultant** @ PETROBRAS (2006-2015)  
-- **Integration Project Manager** @ Dell (2001-2006)  
-- **Industrial Automation Project Manager** @ Altus Sistemas de Automação (1988-2001)  
-
----
-
-## 🎓 Education
-
-- **MBA in Project Management - Oil & Gas** | FGV, Rio de Janeiro (2008)  
-- **Specialization in Computer Engineering** | UFRGS, Porto Alegre (2001)  
-- **Post-Graduation in Industrial Automation** | UFRGS, Porto Alegre (1998)  
-- **BSc in Electronics Engineering** | PUCRS, Porto Alegre (1992)  
+#### ☁️ **AWS Academy**
+- Previsão de Estoque com SageMaker Canvas
+- Fundamentos de Machine Learning
+- AWS GenAI Practitioner
 
 ---
 
-## 🏅 AI & Machine Learning Certifications
+## 🏅 Certificações AI/ML (50+)
 
 <details>
-<summary>Click to expand all 50+ certifications</summary>
+<summary>🔽 Clique para ver todas as certificações</summary>
 
-### Altair RapidMiner
-- <a href="https://ti-user-certificates.s3.amazonaws.com/5733896a-1d71-46e5-b0a3-1ffcf845fe21/08b5924c-e3a8-4508-974e-357949407112-marcus-vasconcellos-b4805178-07da-475b-9c42-0686cd9fc1ab-certificate.pdf" target="_blank" rel="noopener noreferrer">Applications & Use Cases Master Certificate</a> &nbsp;&nbsp; <a href="https://openbadgefactory.com/v1/assertion/66edcebfb750300e54b919df02146b5a0b1f9f52.html" target="_blank" rel="noopener noreferrer">[Badge]</a>  
-- <a href="https://ti-user-certificates.s3.amazonaws.com/5733896a-1d71-46e5-b0a3-1ffcf845fe21/08b5924c-e3a8-4508-974e-357949407112-marcus-augusto-89268705-fff6-4181-9fde-2e437690cb7e-certificate.pdf" target="_blank" rel="noopener noreferrer">Applications & Use Cases Professional Certificate</a> &nbsp;&nbsp; <a href="https://ti-user-certificates.s3.amazonaws.com/5733896a-1d71-46e5-b0a3-1ffcf845fe21/08b5924c-e3a8-4508-974e-357949407112-marcus-vasconcellos-2371e561-3417-4cca-afc4-05b0aac04e58-certificate.pdf" target="_blank" rel="noopener noreferrer">[Badge]</a>  
-- <a href="https://openbadgefactory.com/v1/assertion/a9859e05680320937c314d732feb494ec330e15b.html" target="_blank" rel="noopener noreferrer">Machine Learning Master Certificate</a> &nbsp;&nbsp; <a href="https://ti-user-certificates.s3.amazonaws.com/5733896a-1d71-46e5-b0a3-1ffcf845fe21/08b5924c-e3a8-4508-974e-357949407112-marcus-augusto-89268705-fff6-4181-9fde-2e437690cb7e-certificate.pdf" target="_blank" rel="noopener noreferrer">[Badge]</a>  
-- <a href="https://openbadgefactory.com/v1/assertion/fbe96028b03893efeb2f7cdd7a2e2cd40c4fde5f.html" target="_blank" rel="noopener noreferrer">Machine Learning Professional Certificate</a> &nbsp;&nbsp; <a href="https://ti-user-certificates.s3.amazonaws.com/5733896a-1d71-46e5-b0a3-1ffcf845fe21/08b5924c-e3a8-4508-974e-357949407112-marcus-vasconcellos-2371e561-3417-4cca-afc4-05b0aac04e58-certificate.pdf" target="_blank" rel="noopener noreferrer">[Badge]</a>  
-
-### Alura
-- <a href="https://openbadgepassport.com/file/0/4/5/7/04570c9a0ca0941d141de01eab5c0a6bba7b8294657a032e6a4039b557b1152f.png" target="_blank" rel="noopener noreferrer">Learning: customizing your study routine with ChatGPT</a>  
-- <a href="https://openbadgepassport.com/file/0/4/5/7/04570c9a0ca0941d141de01eab5c0a6bba7b8294657a032e6a4039b557b1152f.png" target="_blank" rel="noopener noreferrer">Prompt Engineering: creating effective prompts for Generative AI</a>  
-- <a href="https://openbadgepassport.com/file/f/b/0/8/fb08a91d22bf1a11446a86d499d8d88c9114384f5ae4d7091c02cadec7237352.png" target="_blank" rel="noopener noreferrer">AI: exploring the potential of generative artificial intelligence</a>  
-
-### appliedAI Institute for Europe
-- <a href="https://openbadgepassport.com/file/f/7/8/8/f7885582dbfcc71d113f338a4a2852ab25dadb6621e5829931e2a23b71403e08.png" target="_blank" rel="noopener noreferrer">AI Essentials: A Comprehensive Introduction</a>  
-
-### AWS / TIDWIT
-- <a href="https://aws-brgenai.ontidwit.com/#/badge/c716b58b-0f06-4bef-b2a7-f8ec3105c3c6" target="_blank" rel="noopener noreferrer">AWS GenAI Practitioner Badge</a>  
-
-### Cisco
-- <a href="https://openbadgepassport.com/file/9/d/8/e/9d8e6fa30b2f337a91c44fd438b695d7758647e2c268ee77562977d8f78bea45.png" target="_blank" rel="noopener noreferrer">Introduction to Modern AI Certificate</a> &nbsp;&nbsp; <a href="https://www.credly.com/badges/15b479ee-93b7-4946-b86e-8ab22f4d6629/linked_in_profile" target="_blank" rel="noopener noreferrer">[Badge]</a>  
-
-### Databricks
-- <a href="https://credentials.databricks.com/2a9f1b53-89ca-4783-9fdb-628749501d3d#acc.Afg0JHUd" target="_blank" rel="noopener noreferrer">Academy Accreditation - AI Security Fundamentals</a>  
-- <a href="https://credentials.databricks.com/1d5150cd-2255-4640-bc4c-1dd43b96a199" target="_blank" rel="noopener noreferrer">Academy Accreditation - Generative AI Fundamentals</a>  
-
-### Digital Innovation One
-- <a href="https://hermes.dio.me/certificates/cover/8Q8UJGV2.jpg" target="_blank" rel="noopener noreferrer">Fundamentos de IA Generativa</a>  
-- <a href="https://hermes.dio.me/certificates/cover/ZK2BXIQI.jpg" target="_blank" rel="noopener noreferrer">Inteligência Artificial na Prática</a>  
-- <a href="https://hermes.dio.me/certificates/cover/DAWA7T82.jpg" target="_blank" rel="noopener noreferrer">Fundamentos de IA Generativa com Bedrock</a>  
-- <a href="https://hermes.dio.me/certificates/HNCAV8GL.pdf" target="_blank" rel="noopener noreferrer">Formação Fundamentos de Inteligência Artificial</a>  
-- <a href="https://hermes.dio.me/certificates/LDQIRRVJ.pdf" target="_blank" rel="noopener noreferrer">Machine Learning e GenAI na Prática</a>  
-
-### FIAP
-- <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=96b5ba62fb2e00022d10ca512797dc3c&action=view" target="_blank" rel="noopener noreferrer">Chatbots</a>  
-- <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=6f4eccc2703b66fb7862c9ef191b430a&action=view" target="_blank" rel="noopener noreferrer">Inteligência Artificial e Computacional</a>  
-- <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=1f9a87feae4a56eeefa505cd457242d5&action=view" target="_blank" rel="noopener noreferrer">Inteligência Artificial Responsável</a>  
-
-### Google
-- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/T6PWMFQII2Z6" target="_blank" rel="noopener noreferrer">Google AI Essentials Specialization</a>  
-- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/S4121H4KVLZH" target="_blank" rel="noopener noreferrer">Google Prompting Essentials Specialization</a> &nbsp;&nbsp; <a href="https://www.credly.com/badges/35f4efb5-649a-42eb-8992-56e37594c224/public_url" target="_blank" rel="noopener noreferrer">[Badge]</a>  
-- <a href="https://www.coursera.org/account/accomplishments/certificate/DB33DNMEB0F2" target="_blank" rel="noopener noreferrer">Google AI Essentials</a> &nbsp;&nbsp; <a href="https://www.credly.com/badges/ab96ced9-3075-4fe5-983d-0b265dd04f33/public_url" target="_blank" rel="noopener noreferrer">[Badge]</a>  
-- <a href="https://www.coursera.org/account/accomplishments/certificate/XP1QNU3S0SX2" target="_blank" rel="noopener noreferrer">Maximize Productivity With AI Tools</a>  
-- <a href="https://www.coursera.org/account/accomplishments/certificate/QUS500HJEU9C" target="_blank" rel="noopener noreferrer">Discover the Art of Prompting</a>  
-- <a href="https://www.coursera.org/account/accomplishments/certificate/99Z2EC3X3D33" target="_blank" rel="noopener noreferrer">Use AI Responsibly</a>  
-- <a href="https://www.coursera.org/account/accomplishments/certificate/EXM2P6LYO9BR" target="_blank" rel="noopener noreferrer">Stay Ahead of the AI Curve</a>  
-- <a href="https://www.coursera.org/account/accomplishments/certificate/269ORAVPDOVH" target="_blank" rel="noopener noreferrer">Start Writing Prompts like a Pro</a>  
-- <a href="https://www.coursera.org/account/accomplishments/certificate/3GFTY5CMJ4P5" target="_blank" rel="noopener noreferrer">Design Prompts for Everyday Work Tasks</a>  
-- <a href="https://www.coursera.org/account/accomplishments/certificate/3GC1BOVHPKFM" target="_blank" rel="noopener noreferrer">Speed Up Data Analysis and Presentation Building</a>  
-- <a href="https://www.coursera.org/account/accomplishments/certificate/YL2JEUBW9S6S" target="_blank" rel="noopener noreferrer">Use AI as a Creative or Expert Partner</a>  
-
-### Hewlett-Packard
-- <a href="https://www.life-global.org/certificate/ced56931-6c4a-4a3e-91d0-63cf0dd0ad6d" target="_blank" rel="noopener noreferrer">AI for Beginners</a>  
-
-### Huawei
-- <a href="https://kltstaticcontent.shixizhi.huawei.com/1365189427395223554/certificate/20250919/b1f966041aef4243819259fa4ac63eda_ICT2025091900181311d52dd17e8e42cc9464fbfbe56195ee.png" target="_blank" rel="noopener noreferrer">Huawei Certified ICT Associate (HCIA) - AI</a>  
+### Google (13 Certificações)
+- ✅ Google AI Essentials Specialization
+- ✅ Google Prompting Essentials Specialization
+- ✅ Google AI Essentials
+- ✅ Maximize Productivity With AI Tools
+- ✅ Discover the Art of Prompting
+- ✅ Use AI Responsibly
+- ✅ Stay Ahead of the AI Curve
+- ✅ Start Writing Prompts like a Pro
+- ✅ Design Prompts for Everyday Work Tasks
+- ✅ Speed Up Data Analysis
+- ✅ Use AI as Creative Partner
 
 ### IBM
-- <a href="https://www.credly.com/badges/c776e8db-f4c7-488b-8b7e-2e68792e2ce1/linked_in_profile" target="_blank" rel="noopener noreferrer">AI Literacy Badge</a>  
-- <a href="https://openbadgepassport.com/file/4/c/7/3/4c734adda5bc79d12be898256d54aa8473f2dbe7e204320153142b0c43dd42fe.png" target="_blank" rel="noopener noreferrer">Artificial Intelligence Fundamentals Certificate</a> &nbsp;&nbsp; <a href="https://ai-for-all.in/#/badge?id=U2FsdGVkX1962tygFO7nXPWO1oivL1ksFjHXGbn6Zd8K2FlbSOWpjUxv9Q9PEZ2m" target="_blank" rel="noopener noreferrer">[Badge]</a>  
-
-### Intel
-- <a href="https://openbadgepassport.com/file/6/c/8/1/6c819aba9da28c125d77916213086fad38c325cfb2e3d2c4646da42a558d9c76.png" target="_blank" rel="noopener noreferrer">AI Aware Certificate</a> &nbsp;&nbsp; <a href="https://ai-for-all.in/#/badge?id=U2FsdGVkX1962tygFO7nXPWO1oivL1ksFjHXGbn6Zd8K2FlbSOWpjUxv9Q9PEZ2m" target="_blank" rel="noopener noreferrer">[Badge]</a>  
-- <a href="https://openbadgepassport.com/file/6/1/2/4/61246532589ecf0b96066fa4dc5ff0b00b669b81acc7f6f0abe4eeddd66f15bd.png" target="_blank" rel="noopener noreferrer">AI Appreciate Certificate</a> &nbsp;&nbsp; <a href="https://ai-for-all.in/#/badge?id=U2FsdGVkX1s1L2a3S4hEzpo2cPOO443xNsSCHcbgYtzs8CFleBfFXtn0aktcWOPQXjFFxjh8" target="_blank" rel="noopener noreferrer">[Badge]</a>  
-
-### KI-Campus
-- <a href="https://openbadgepassport.com/file/d/c/5/0/dc50371ea752777ab591db44172f21e17d71a5f22b2009d98bb232c6791451a8.png" target="_blank" rel="noopener noreferrer">Foundations of Artificial Intelligence I Certificate</a> &nbsp;&nbsp; <a href="https://badgr.com/public/assertions/zdvzJzEhTeSjZH2tTx3fuQ?identity__email=marcus%40vasconcellos.net.br" target="_blank" rel="noopener noreferrer">[Badge]</a>  
-- <a href="https://openbadgepassport.com/file/4/2/1/8/4218107ca15d9a52442b39daf5c937f69dbafc5386b116c9331207fc4fdf6f14.png" target="_blank" rel="noopener noreferrer">Foundations of Artificial Intelligence II Certificate</a> &nbsp;&nbsp; <a href="https://badgr.com/public/assertions/dXNvYMToSmul8piQs11mDg?identity__email=marcus%40vasconcellos.net.br" target="_blank" rel="noopener noreferrer">[Badge]</a>  
-- <a href="https://openbadgepassport.com/file/9/0/5/5/9055c8e1046fa138167fe670f4241cdb9ac76752f258644c6de31662675b1c97.png" target="_blank" rel="noopener noreferrer">Foundations of Artificial Intelligence III Certificate</a> &nbsp;&nbsp; <a href="https://badgr.com/public/assertions/c5oIwRigTeum52DsyF4JlQ?identity__email=marcus@vasconcellos.net.br" target="_blank" rel="noopener noreferrer">[Badge]</a>  
-- <a href="https://openbadgepassport.com/file/5/6/d/4/56d4faf6e0612807c6aa45ab3997e1d959b66a76eb6e872537a0928b7440d73e.png" target="_blank" rel="noopener noreferrer">Foundations of Artificial Intelligence IV Certificate</a> &nbsp;&nbsp; <a href="https://badgr.com/public/assertions/YQjjRb1iTz-YL6zD8ypAgg?identity__email=marcus%40vasconcellos.net.br" target="_blank" rel="noopener noreferrer">[Badge]</a>  
-- <a href="https://openbadgepassport.com/file/a/6/d/1/a6d1093587e895f4a421168e69877931fa824c21fa12fbca34cb45dc3028cf42.png" target="_blank" rel="noopener noreferrer">Foundations of Artificial Intelligence V Certificate</a> &nbsp;&nbsp; <a href="https://badgr.com/public/assertions/f1Rx-ZRNS2qqOnvlCF8gQQ?identity__email=marcus%40vasconcellos.net.br" target="_blank" rel="noopener noreferrer">[Badge]</a>  
-- <a href="https://openbadgepassport.com/file/1/c/4/6/1c46b3a327b1d4a99e7639a6479404917afcc13adfcb0c9b216bc00a2a6620db.png" target="_blank" rel="noopener noreferrer">Foundations of Artificial Intelligence VI Certificate</a> &nbsp;&nbsp; <a href="https://badgr.com/public/assertions/WtipBURcRma6GaHCM6hDSg?identity__email=marcus%40vasconcellos.net.br" target="_blank" rel="noopener noreferrer">[Badge]</a>  
-- <a href="https://openbadgepassport.com/file/e/8/b/5/e8b59d2a093224ee1fed451e2d2f8c045cb4cfbf23f6f4b791049773056e8602.png" target="_blank" rel="noopener noreferrer">Launchpad to AI - An Introduction to Applications, Risks, and Opportunities Certificate</a> &nbsp;&nbsp; <a href="https://badgr.com/public/assertions/-WDZ3ISFTMSvJNGvOTCB_g?identity__email=marcus%40vasconcellos.net.br" target="_blank" rel="noopener noreferrer">[Badge]</a>  
+- ✅ AI Literacy Badge
+- ✅ Artificial Intelligence Fundamentals
 
 ### NVIDIA
-- <a href="https://openbadgepassport.com/file/5/2/0/9/52092221f6c0a037406473b5b3297e3da173813031a720cb97eb11121051e747.png" target="_blank" rel="noopener noreferrer">AI for All: From Basics to GenAI Practice</a>  
+- ✅ AI for All: From Basics to GenAI Practice
 
-### PMI
-- <a href="https://www.credly.com/badges/f4791a0a-deed-4022-a7d4-dd2886a16b6f/linked_in_profile" target="_blank" rel="noopener noreferrer">Generative AI Overview for Project Managers</a>  
-- <a href="https://www.credly.com/badges/5f319d2e-a159-4526-95da-b53e37616250/linked_in_profile" target="_blank" rel="noopener noreferrer">Practical Application of Gen AI for Project Managers</a>  
-- <a href="https://www.credly.com/badges/a5f3b699-0c4d-4b35-b1b3-89554cc95a44/linked_in_profile" target="_blank" rel="noopener noreferrer">Talking to AI: Prompt Engineering for Project Managers</a>  
+### Databricks
+- ✅ Academy Accreditation - AI Security Fundamentals
+- ✅ Academy Accreditation - Generative AI Fundamentals
 
-### Politecnico di Milano
-- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/K8JL6UIWTDWN" target="_blank" rel="noopener noreferrer">Artificial Intelligence: an Overview Specialization</a>  
-- <a href="https://www.coursera.org/account/accomplishments/certificate/LWCAIKGV5TET" target="_blank" rel="noopener noreferrer">Machine Learning: an overview</a>  
-- <a href="https://www.coursera.org/account/accomplishments/certificate/0PXOA89OJFRJ" target="_blank" rel="noopener noreferrer">Artificial Intelligence: an overview</a>  
-- <a href="https://www.coursera.org/account/accomplishments/certificate/H8CON9WLX750" target="_blank" rel="noopener noreferrer">Ethics of Artificial Intelligence</a>  
-- <a href="https://www.coursera.org/account/accomplishments/certificate/KVBJ6T6MX4CV" target="_blank" rel="noopener noreferrer">Artificial Intelligence and legal issues</a>  
-- <a href="https://www.coursera.org/account/accomplishments/certificate/FZCHB98O5OFO" target="_blank" rel="noopener noreferrer">Technologies and platforms for Artificial Intelligence</a>  
+### AWS
+- ✅ AWS GenAI Practitioner Badge
 
-### StartSe University
-- <a href="https://lms.startse.com/certificado/v2/646e1585bfaa5a7358dfa411?studentId=686fe4421245ce6fb0defc80" target="_blank" rel="noopener noreferrer">AI Skills</a>  
-- <a href="https://lms.startse.com/certificado/v2/66d8620a181083001247fa9c?studentId=686fe4421245ce6fb0defc80" target="_blank" rel="noopener noreferrer">IA para Todos</a>  
+### Huawei
+- ✅ HCIA - AI (Huawei Certified ICT Associate)
+
+### Politecnico di Milano (6 Certificações)
+- ✅ AI: an Overview Specialization
+- ✅ Machine Learning: an overview
+- ✅ Ethics of AI
+- ✅ AI and Legal Issues
+- ✅ Technologies and Platforms for AI
 
 ### University of Helsinki
-- <a href="https://certificates.mooc.fi/validate/9pva6qfaubp" target="_blank" rel="noopener noreferrer">Elements of AI</a>  
+- ✅ Elements of AI
 
-### University of Maryland
-- <a href="https://openbadgepassport.com/file/e/4/d/4/e4d4ada6ad1822ac4a9e26bc1b5b0bad5255aab75a8967291dce465adf72437d.png" target="_blank" rel="noopener noreferrer">AI and Career Empowerment</a>  
+### KI-Campus (7 Certificações)
+- ✅ Foundations of AI I, II, III, IV, V, VI
+- ✅ Launchpad to AI
+
+### Altair RapidMiner
+- ✅ Applications & Use Cases Master
+- ✅ Machine Learning Master
+
+### PMI (3 Certificações)
+- ✅ GenAI Overview for Project Managers
+- ✅ Practical Application of GenAI
+- ✅ Prompt Engineering for PMs
+
+### Cisco
+- ✅ Introduction to Modern AI
+
+### Intel
+- ✅ AI Aware Certificate
+- ✅ AI Appreciate Certificate
+
+### FIAP (3 Certificações)
+- ✅ Chatbots
+- ✅ Inteligência Artificial e Computacional
+- ✅ IA Responsável
+
+### Alura (3 Certificações)
+- ✅ Prompt Engineering
+- ✅ Learning with ChatGPT
+- ✅ AI Potential
 
 </details>
 
 ---
 
-## 🌍 Languages
+## 💼 Experiência Profissional
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Portuguese-Native-green?style=for-the-badge" alt="Portuguese"/>
-  <img src="https://img.shields.io/badge/English-Advanced-blue?style=for-the-badge" alt="English"/>
-  <img src="https://img.shields.io/badge/Spanish-Intermediate-orange?style=for-the-badge" alt="Spanish"/>
-</p>
+### 🛢️ **Automation Engineer Specialist @ PRIO**
+📅 Novembro 2025 - Presente | Rio de Janeiro  
+🔧 Liderança em engenharia de automação para ativos offshore de produção de petróleo
+
+### 🛢️ **Principal Automation Engineer @ Equinor**
+📅 Abril 2023 - Novembro 2025 | Rio de Janeiro  
+🔧 Focal point de Fire & Gas e automação para Peregrino FPSO e 3 plataformas wellhead
+
+### 🏗️ **Senior I&A Engineer @ DBR Energies**
+📅 Julho 2022 - Abril 2023 | Rio de Janeiro  
+🔧 Projetos de automação para PETROBRAS (ATAPU 2, SÉPIA 2, GASLUB)
+
+### 🚀 **Commissioning Lead System Engineer @ Equinor**
+📅 Dezembro 2019 - Julho 2022 | Campos Basin  
+🔧 Liderança de comissionamento de sistemas F&G e ESD
+
+#### Experiência Adicional (35+ anos)
+- Senior I&C Engineer @ KERUI PETROLEUM (2019)
+- I&A Job Leader @ DORIS Engenharia (2018-2019)
+- Technical Contract Manager @ Intertechne (2018)
+- Owner Engineering @ Enaval (2016-2018)
+- Senior Consultant @ PETROBRAS (2006-2015)
+- Integration Project Manager @ Dell (2001-2006)
+- Industrial Automation PM @ Altus (1988-2001)
 
 ---
 
-## 📫 Get in Touch
+## 🎯 Áreas de Especialização
 
-Feel free to reach out for collaborations, consulting opportunities, or just to connect!
+### Automação Industrial
+- ✅ ABB 800xA Control Systems
+- ✅ Autronica Autrosafe 4
+- ✅ CERAGON IP-20N Communications
+- ✅ Fire & Gas Detection Systems
+- ✅ Emergency Shutdown (ESD) Systems
+- ✅ Safety Instrumented Systems (SIS)
+- ✅ SCADA & HMI Design
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/marcusvasconcellos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:marcus@vasconcellos.net.br">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+### Cibersegurança OT/ICS
+- ✅ Industrial Control Systems Security
+- ✅ Network Security Architecture
+- ✅ Risk Assessment & Threat Analysis
+- ✅ Compliance & Safety Standards
+
+### IA & Machine Learning
+- ✅ Generative AI Applications
+- ✅ Natural Language Processing (NLP)
+- ✅ Computer Vision
+- ✅ Predictive Maintenance
+- ✅ Data Analysis & Visualization
+- ✅ Prompt Engineering
 
 ---
 
-*Last updated: December 2025*
+## 🎓 Formação Acadêmica
+
+🎓 **MBA em Gestão de Projetos - Oil & Gas** | FGV (2008)  
+🎓 **Especialização em Engenharia de Computação** | UFRGS (2001)  
+🎓 **Pós-Graduação em Automação Industrial** | UFRGS (1998)  
+🎓 **Bacharelado em Engenharia Eletrônica** | PUCRS (1992)
+
+---
+
+## 🌍 Idiomas
+
+🇧🇷 **Português:** Nativo  
+🇺🇸 **Inglês:** Avançado  
+🇪🇸 **Espanhol:** Intermediário
+
+---
+
+## 📈 Contribuições GitHub
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=celloweb-ai&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+## 🤝 Vamos Conectar?
+
+Estou sempre aberto a colaborações, consultorias e networking! Entre em contato:
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusvasconcellos)
+[![Email](https://img.shields.io/badge/Email-marcus@vasconcellos.net.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcus@vasconcellos.net.br)
+[![GitHub](https://img.shields.io/badge/GitHub-Siga--me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celloweb-ai)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+<div align="center">
+  <sub>⭐️ Criado com 💙 por <a href="https://github.com/celloweb-ai">Marcus Vasconcellos</a></sub><br>
+  <sub>🔄 Última atualização: Dezembro 2025</sub>
+</div>
