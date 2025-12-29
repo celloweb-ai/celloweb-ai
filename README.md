@@ -41,51 +41,125 @@ Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e ma
 
 ---
 
-## 🏆 Projetos em Destaque
+## 🌟 Projetos em Destaque
 
-### 💰 [Assistente Financeiro Inteligente](https://github.com/celloweb-ai/Assistente_Financeiro)
-Assistente financeiro completo com IA generativa para análise de dados, chatbot e calculadoras financeiras.
-- **Tech Stack:** Python, OpenAI API, Streamlit, Pandas
-- **Features:** Chatbot inteligente, FAQs automáticas, análise de gastos
-- **Bootcamp:** DIO + Bradesco - GenAI & Dados
+### 🤖 IA Generativa & Automação
 
-### 🤖 [ChatGPT Voice Conversation](https://github.com/celloweb-ai/Chatgpt_Voice_Conversation)
-Sistema de conversação por voz integrando Whisper (OpenAI) para transcrição e gTTS para síntese de voz.
-- **Tech Stack:** Python, OpenAI Whisper, gTTS, SpeechRecognition
-- **Features:** Transcrição de áudio, síntese de voz, conversa natural
-- **Bootcamp:** DIO + Bradesco - GenAI & Dados
+<table>
+<tr>
+<td width="50%">
 
-### 📊 [Dashboard Xbox Game Pass](https://github.com/celloweb-ai/Dashboard_Vendas_Xbox_Game_Pass)
-Dashboard interativo para análise de vendas e performance do Xbox Game Pass.
-- **Tech Stack:** Excel, Power Query, VBA, Pivot Tables
-- **Features:** KPIs dinâmicos, visualizações interativas, análise de tendências
-- **Bootcamp:** DIO + Santander
+#### 🤖 [Assistente Financeiro Inteligente](https://github.com/celloweb-ai/Assistente_Financeiro)
 
-### 📈 [Simulador de Investimentos FIIs](https://github.com/celloweb-ai/Simulador_Investimentos_FIIs)
-Ferramenta completa para controle e simulação de investimentos em Fundos Imobiliários.
-- **Tech Stack:** Excel, VBA, Fórmulas Avançadas
-- **Features:** Controle de carteira, cálculo de dividendos, análise de rentabilidade
-- **Bootcamp:** DIO + Santander
+Chatbot financeiro com IA generativa, FAQs inteligentes e calculadoras.
 
-### 📚 [NotebookLM - Educação Financeira](https://github.com/celloweb-ai/NotebookLM_Educacao_Financeira)
-Caderno temático sobre educação financeira usando NotebookLM com curadoria de fontes e prompts estratégicos.
-- **Tech Stack:** NotebookLM, Prompt Engineering
-- **Features:** Guia de estudos estruturado, FAQs temáticas, conteúdo curado
-- **Bootcamp:** DIO + Bradesco - GenAI & Dados
+**Tech:** Python • OpenAI • Streamlit • LangChain
 
-### 🔮 [Previsão de Estoque AWS](https://github.com/celloweb-ai/Lab_AWS_Sagemaker_Canvas_Estoque)
-Modelo de Machine Learning para previsão inteligente de estoque usando AWS SageMaker Canvas.
-- **Tech Stack:** AWS SageMaker Canvas, Machine Learning
-- **Features:** Previsão automatizada, análise preditiva, visualização de dados
-- **Bootcamp:** DIO + AWS
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-### 🧾 [Organizador de Declaração de IR](https://github.com/celloweb-ai/Organizador_Declaracao_Imposto_Renda)
-Organizador completo para Declaração de Imposto de Renda com validações automáticas.
-- **Tech Stack:** Python, Excel, Automação
-- **Features:** Validações automáticas, menus de navegação, organização de dados
-- **Bootcamp:** DIO + Santander
+</td>
+<td width="50%">
+
+#### 🗣️ [ChatGPT Voice Conversation](https://github.com/celloweb-ai/Chatgpt_Voice_Conversation)
+
+Conversação por voz com ChatGPT usando Whisper (OpenAI) e gTTS.
+
+**Tech:** Python • Whisper • gTTS • OpenAI API
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+### 📊 Excel & VBA Solutions
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🧾e [Organizador Declaração IR 2025](https://github.com/celloweb-ai/Organizador_Declaracao_Imposto_Renda)
+
+Ferramenta Excel completa para organização de declaração de imposto de renda com dashboard, validações e cálculos automáticos.
+
+**Tech:** Excel • VBA • Fórmulas Avançadas
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-512BD4?style=flat&logo=visualstudio&logoColor=white)
+
+</td>
+<td width="50%">
+
+#### 📈 [Dashboard Vendas Xbox Game Pass](https://github.com/celloweb-ai/Dashboard_Vendas_Xbox_Game_Pass)
+
+Dashboard analítico de vendas desenvolvido em Excel com visualizações interativas.
+
+**Tech:** Excel • Power Query • Charts
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🏢 [Simulador Investimentos FIIs](https://github.com/celloweb-ai/Simulador_Investimentos_FIIs)
+
+Ferramenta de controle e simulação de investimentos em Fundos Imobiliários.
+
+**Tech:** Excel • Financial Modeling
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+</td>
+<td width="50%">
+
+#### 📚 [NotebookLM Educação Financeira](https://github.com/celloweb-ai/NotebookLM_Educacao_Financeira)
+
+Caderno temático sobre educação financeira usando NotebookLM com curadoria de fontes.
+
+**Tech:** NotebookLM • Prompt Engineering
+
+![AI](https://img.shields.io/badge/AI-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+### ☁️ Cloud & Machine Learning
+
+<table>
+<tr>
+<td width="50%">
+
+#### 📦 [AWS SageMaker Canvas - Estoque](https://github.com/celloweb-ai/Lab_AWS_Sagemaker_Canvas_Estoque)
+
+Previsão de Estoque Inteligente usando AWS SageMaker Canvas.
+
+**Tech:** AWS • SageMaker • ML
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+</td>
+<td width="50%">
+
+#### 🎯 [Plano de Aula IA Personalizado](https://github.com/celloweb-ai/Plano_Aula_IA_Personalizado)
+
+Plano de aula interativo e personalizado usando ecossistema de IA.
+
+**Tech:** AI Tools • Educational Tech
+
+![AI](https://img.shields.io/badge/GenAI-412991?style=flat&logo=openai&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
+
 
 ## 🛠️ Stack Tecnológico
 
