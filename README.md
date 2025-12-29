@@ -201,31 +201,18 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 
 ---
 
-## 🎓 Bootcamps & Formações DIO
+## 🎓 Certificações & Bootcamps
 
-### ✅ Bootcamps Concluídos
+<div align="center">
 
-#### 🏦 **Bradesco - GenAI & Dados**
-- Assistente Financeiro com IA Generativa
-- ChatGPT Voice Conversation
-- NotebookLM para Educação Financeira
-- Fundamentos de IA Generativa
+| Bootcamp | Instituição | Status |
+|----------|-------------|--------|
+| **GenAI & Dados - Assistente Financeiro** | DIO + Bradesco | ✅ Completo |
+| **Inteligência Artificial na Prática** | DIO + Caixa | ✅ Completo |
+| **Fundamentos de IA Generativa** | DIO + Santander | ✅ Completo |
+| **Engenharia de Eletrônica e Computação** | MBA | ✅ Completo |
 
-#### 🏦 **Caixa - Inteligência Artificial na Prática**
-- Machine Learning e GenAI
-- Fundamentos de IA
-- Aplicações Práticas de IA
-
-#### 🏦 **Santander - Fundamentos de IA**
-- Dashboard de Vendas Xbox
-- Simulador de Investimentos
-- Organizador de IR
-- Excel Avançado com IA
-
-#### ☁️ **AWS Academy**
-- Previsão de Estoque com SageMaker Canvas
-- Fundamentos de Machine Learning
-- AWS GenAI Practitioner
+</div>
 
 ---
 
