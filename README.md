@@ -80,7 +80,7 @@ Conversação por voz com ChatGPT usando Whisper (OpenAI) e gTTS.
 <tr>
 <td width="50%">
 
-#### 🧾e [Organizador Declaração IR 2025](https://github.com/celloweb-ai/Organizador_Declaracao_Imposto_Renda)
+#### 🧾[Organizador Declaração IR 2025](https://github.com/celloweb-ai/Organizador_Declaracao_Imposto_Renda)
 
 Ferramenta Excel completa para organização de declaração de imposto de renda com dashboard, validações e cálculos automáticos.
 
