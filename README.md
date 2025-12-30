@@ -210,7 +210,6 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 | **GenAI & Dados - Assistente Financeiro** | DIO + Bradesco | ✅ Completo |
 | **Inteligência Artificial na Prática** | DIO + Caixa | ✅ Completo |
 | **Fundamentos de IA Generativa** | DIO + Santander | ✅ Completo |
-| **Engenharia de Eletrônica e Computação** | MBA | ✅ Completo |
 
 </div>
 
