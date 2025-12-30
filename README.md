@@ -386,13 +386,34 @@ Artificial</a>
 
 ---
 
-## 🌍 Idiomas
+## 🌐 Idiomas
 
-🇧🇷 **Português:** Nativo  
-🇺🇸 **Inglês:** Avançado  
-🇪🇸 **Espanhol:** Intermediário
+<div align="center">
 
----
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e7-1f1f7.svg" width="50"/>
+  <br><strong>Português</strong>
+  <br>Nativo
+</td>
+<td align="center" width="33%">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1fa-1f1f8.svg" width="50"/>
+  <br><strong>Inglês</strong>
+  <br>Avançado
+</td>
+<td align="center" width="33%">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ea-1f1f8.svg" width="50"/>
+  <br><strong>Espanhol</strong>
+  <br>Intermediário
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🤝 Vamos Conectar?
 
