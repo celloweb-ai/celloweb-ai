@@ -162,29 +162,90 @@ Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e **
 <details>
 <summary><b>View All 50+ Certifications →</b></summary>
 
-### Altair RapidMiner
-- [Applications & Use Cases Master Certificate](https://ti-user-certificates.s3.amazonaws.com/5733896a-1d71-46e5-b0a3-1ffcf845fe21/08b5924c-e3a8-4508-974e-357949407112-marcus-vasconcellos-b4805178-07da-475b-9c42-0686cd9fc1ab-certificate.pdf)
-- [Machine Learning Master Certificate](https://openbadgefactory.com/v1/assertion/a9859e05680320937c314d732feb494ec330e15b.html)
+### 🥇 Principais Certificações
 
-### DIO (Digital Innovation One)
+#### Google
+- 🌟 [Google AI Essentials Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/T6PWMFQII2Z6)
+- 🌟 [Google Prompting Essentials Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/S4121H4KVLZH) | [Badge](https://www.credly.com/badges/35f4efb5-649a-42eb-8992-56e37594c224/public_url)
+- ✅ [Google AI Essentials](https://www.coursera.org/account/accomplishments/certificate/DB33DNMEB0F2) | [Badge](https://www.credly.com/badges/ab96ced9-3075-4fe5-983d-0b265dd04f33/public_url)
+
+#### AWS
+- 🔵 [AWS GenAI Practitioner Badge](https://aws-brgenai.ontidwit.com/#/badge/c716b58b-0f06-4bef-b2a7-f8ec3105c3c6)
+
+#### Databricks
+- ⚡ [Academy Accreditation - AI Security Fundamentals](https://credentials.databricks.com/2a9f1b53-89ca-4783-9fdb-628749501d3d#acc.Afg0JHUd)
+- ⚡ [Academy Accreditation - Generative AI Fundamentals](https://credentials.databricks.com/1d5150cd-2255-4640-bc4c-1dd43b96a199)
+
+#### IBM
+- 🔷 [AI Literacy Badge](https://www.credly.com/badges/c776e8db-f4c7-488b-8b7e-2e68792e2ce1/linked_in_profile)
+- 🔷 [Artificial Intelligence Fundamentals Certificate](https://openbadgepassport.com/file/4/c/7/3/4c734adda5bc79d12be898256d54aa8473f2dbe7e204320153142b0c43dd42fe.png)
+
+#### NVIDIA
+- 🟢 [AI for All: From Basics to GenAI Practice](https://openbadgepassport.com/file/5/2/0/9/52092221f6c0a037406473b5b3297e3da173813031a720cb97eb11121051e747.png)
+
+#### Huawei
+- 🔴 [Huawei Certified ICT Associate (HCIA) - AI](https://kltstaticcontent.shixizhi.huawei.com/1365189427395223554/certificate/20250919/b1f966041aef4243819259fa4ac63eda_ICT2025091900181311d52dd17e8e42cc9464fbfbe56195ee.png)
+
+#### Politecnico di Milano
+- 🇵 [Artificial Intelligence: an Overview Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/K8JL6UIWTDWN)
+- 🇵 [Ethics of Artificial Intelligence](https://www.coursera.org/account/accomplishments/certificate/H8CON9WLX750)
+
+#### University of Helsinki
+- 🇫🇮 [Elements of AI](https://certificates.mooc.fi/validate/9pva6qfaubp)
+
+<details>
+<summary><b>📜 Ver lista completa de certificações (clique aqui)</b></summary>
+
+### Altair RapidMiner
+- [Applications & Use Cases Master Certificate](https://ti-user-certificates.s3.amazonaws.com/5733896a-1d71-46e5-b0a3-1ffcf845fe21/08b5924c-e3a8-4508-974e-357949407112-marcus-vasconcellos-b4805178-07da-475b-9c42-0686cd9fc1ab-certificate.pdf) | [Badge](https://openbadgefactory.com/v1/assertion/66edcebfb750300e54b919df02146b5a0b1f9f52.html)
+- [Machine Learning Master Certificate](https://openbadgefactory.com/v1/assertion/a9859e05680320937c314d732feb494ec330e15b.html)
+- [Machine Learning Professional Certificate](https://openbadgefactory.com/v1/assertion/fbe96028b03893efeb2f7cdd7a2e2cd40c4fde5f.html)
+
+### Alura
+- [Prompt Engineering: creating effective prompts for Generative AI](https://openbadgepassport.com/file/0/4/5/7/04570c9a0ca0941d141de01eab5c0a6bba7b8294657a032e6a4039b557b1152f.png)
+- [AI: exploring the potential of generative artificial intelligence](https://openbadgepassport.com/file/f/b/0/8/fb08a91d22bf1a11446a86d499d8d88c9114384f5ae4d7091c02cadec7237352.png)
+
+### appliedAI Institute for Europe
+- [AI Essentials: A Comprehensive Introduction](https://openbadgepassport.com/file/f/7/8/8/f7885582dbfcc71d113f338a4a2852ab25dadb6621e5829931e2a23b71403e08.png)
+
+### Cisco
+- [Introduction to Modern AI Certificate](https://openbadgepassport.com/file/9/d/8/e/9d8e6fa30b2f337a91c44fd438b695d7758647e2c268ee77562977d8f78bea45.png) | [Badge](https://www.credly.com/badges/15b479ee-93b7-4946-b86e-8ab22f4d6629/linked_in_profile)
+
+### Digital Innovation One (DIO)
+- [Fundamentos de IA Generativa](https://hermes.dio.me/certificates/cover/8Q8UJGV2.jpg)
+- [Inteligência Artificial na Prática](https://hermes.dio.me/certificates/cover/ZK2BXIQI.jpg)
+- [Fundamentos de IA Generativa com Bedrock](https://hermes.dio.me/certificates/cover/DAWA7T82.jpg)
 - [Formação Fundamentos de Inteligência Artificial](https://hermes.dio.me/certificates/HNCAV8GL.pdf)
 - [Machine Learning e GenAI na Prática](https://hermes.dio.me/certificates/LDQIRRVJ.pdf)
 - [Excel com Inteligência Artificial](https://hermes.dio.me/certificates/9RIYTXMK.pdf)
 
-### Huawei
-- [HCIA-AI Certified](https://kltstaticcontent.shixizhi.huawei.com/1365189427395223554/certificate/20250919/b1f966041aef4243819259fa4ac63eda_ICT2025091900181311d52dd17e8e42cc9464fbfbe56195ee.png)
+### FIAP
+- [Chatbots](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=96b5ba62fb2e00022d10ca512797dc3c&action=view)
+- [Inteligência Artificial e Computacional](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=6f4eccc2703b66fb7862c9ef191b430a&action=view)
+- [Inteligência Artificial Responsável](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=1f9a87feae4a56eeefa505cd457242d5&action=view)
 
-### University of Helsinki
-- [Elements of AI](https://certificates.mooc.fi/validate/9pva6qfaubp)
+### Hewlett-Packard
+- [AI for Beginners](https://www.life-global.org/certificate/ced56931-6c4a-4a3e-91d0-63cf0dd0ad6d)
+
+### Intel
+- [AI Aware Certificate](https://openbadgepassport.com/file/6/c/8/1/6c819aba9da28c125d77916213086fad38c325cfb2e3d2c4646da42a558d9c76.png)
+- [AI Appreciate Certificate](https://openbadgepassport.com/file/6/1/2/4/61246532589ecf0b96066fa4dc5ff0b00b669b81acc7f6f0abe4eeddd66f15bd.png)
+
+### KI-Campus
+- [Foundations of Artificial Intelligence I-VI](https://badgr.com/public/assertions/zdvzJzEhTeSjZH2tTx3fuQ?identity__email=marcus%40vasconcellos.net.br)
+- [Launchpad to AI](https://badgr.com/public/assertions/-WDZ3ISFTMSvJNGvOTCB_g?identity__email=marcus%40vasconcellos.net.br)
 
 ### PMI
 - [Generative AI Overview for Project Managers](https://www.credly.com/badges/f4791a0a-deed-4022-a7d4-dd2886a16b6f/linked_in_profile)
 - [Practical Application of Gen AI for Project Managers](https://www.credly.com/badges/5f319d2e-a159-4526-95da-b53e37616250/linked_in_profile)
+- [Talking to AI: Prompt Engineering for Project Managers](https://www.credly.com/badges/a5f3b699-0c4d-4b35-b1b3-89554cc95a44/linked_in_profile)
 
-### Cisco
-- [Introduction to Modern AI](https://www.credly.com/badges/15b479ee-93b7-4946-b86e-8ab22f4d6629/linked_in_profile)
+### StartSe University
+- [AI Skills](https://lms.startse.com/certificado/v2/646e1585bfaa5a7358dfa411?studentId=686fe4421245ce6fb0defc80)
+- [IA para Todos](https://lms.startse.com/certificado/v2/66d8620a181083001247fa9c?studentId=686fe4421245ce6fb0defc80)
 
-**[View complete certification list](https://github.com/celloweb-ai)**
+### University of Maryland
+- [AI and Career Empowerment](https://openbadgepassport.com/file/e/4/d/4/e4d4ada6ad1822ac4a9e26bc1b5b0bad5255aab75a8967291dce465adf72437d.png)
 
 </details>
 
