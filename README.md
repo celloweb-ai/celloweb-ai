@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:29B6F6&height=200&section=header&text=Marcus%20Vasconcellos&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Automation%20Engineer%20%7C%20AI/ML%20Enthusiast&descAlignY=55&descSize=18"/>
 </div>
 
@@ -301,8 +301,7 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 - <a href="https://hermes.dio.me/certificates/cover/DAWA7T82.jpg" target="_blank" rel="noopener noreferrer">Fundamentos de IA Generativa com Bedrock</a>  
 - <a href="https://hermes.dio.me/certificates/HNCAV8GL.pdf" target="_blank" rel="noopener noreferrer">Formação Fundamentos de Inteligência Artificial</a>  
 - <a href="https://hermes.dio.me/certificates/LDQIRRVJ.pdf" target="_blank" rel="noopener noreferrer">Machine Learning e GenAI na Prática</a>
-- <a href="https://hermes.dio.me/certificates/9RIYTXMK.pdf" target="_blank" rel="noopener noreferrer">Excel com Inteligência
-Artificial</a>
+- <a href="https://hermes.dio.me/certificates/9RIYTXMK.pdf" target="_blank" rel="noopener noreferrer">Excel com Inteligência Artificial</a>
 - <a href="https://hermes.dio.me/certificates/BNWKHWYQ.pdf" target="_blank" rel="noopener noreferrer">EducalA</a>
  
 ### FIAP
@@ -500,4 +499,4 @@ Artificial</a>
   <sub>⭐️ Criado com 💙 e ☕ por <a href="https://github.com/celloweb-ai">Marcus Vasconcellos</a></sub>
   <br>
   <sub>🔄 Última atualização: Dezembro 2025</sub>
-</div>]]>
+</div>
