@@ -52,6 +52,7 @@ Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e ma
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🌟 Projetos em Destaque
 
 ### 🤖 IA Generativa & Automação
 
