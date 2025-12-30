@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Marcus%20Vasconcellos&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Automation%20Engineer%20%7C%20AI/ML%20Enthusiast%20%7C%20Industrial%20Cybersecurity%20Specialist&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Marcus%20Vasconcellos&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Automation%20Engineer%20%7C%20AI/ML%20Enthusiast&descAlignY=55&descSize=18"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=35%2B+anos+de+experi%C3%AAncia+em+Automa%C3%A7%C3%A3o+Industrial;Especialista+em+Fire+%26+Gas+e+ESD+Systems;50%2B+Certifica%C3%A7%C3%B5es+em+AI%2FML;Apaixonado+por+IA+Generativa+e+Data+Science;Transformando+dados+em+solu%C3%A7%C3%B5es+inteligentes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=35%2B+anos+de+experi%C3%AAncia+em+Automa%C3%A7%C3%A3o+Industrial;Especialista+em+Fire+%26+Gas+e+ESD+Systems;50%2B+Certifica%C3%A7%C3%B5es+em+AI/ML;Apaixonado+por+IA+Generativa;Transformando+dados+em+solu%C3%A7%C3%B5es&font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&height=80)](https://github.com/celloweb-ai)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcusvasconcellos">
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Rio_de_Janeiro-Brazil-2BA600?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=celloweb-ai&color=blueviolet&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=celloweb-ai&color=blueviolet&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES" alt="Profile Views"/>
 
 </div>
 
@@ -83,7 +83,7 @@ idiomas:
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=celloweb-ai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=celloweb-ai&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=FF6B6B&currStreakLabel=764ba2" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=celloweb-ai&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=FF6B6B&currStreakLabel=764ba2" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -91,7 +91,7 @@ idiomas:
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=celloweb-ai&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=celloweb-ai&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -158,6 +158,8 @@ idiomas:
 </tr>
 </table>
 
+<br>
+
 <a href="https://github.com/celloweb-ai?tab=repositories">
   <img src="https://img.shields.io/badge/Ver%20Todos%20os%20Projetos-%E2%86%92-667eea?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -177,7 +179,7 @@ idiomas:
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-00A98F?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 </details>
@@ -269,7 +271,7 @@ idiomas:
 <td align="center" width="25%">
   <img src="https://img.icons8.com/fluency/96/000000/diploma.png" width="60"/>
   <br><strong>Bootcamps</strong>
-  <br>DIO + Bradesco, Caixa, Santander
+  <br>DIO, Bradesco, Caixa, Santander
 </td>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/>
@@ -282,95 +284,43 @@ idiomas:
 </div>
 
 <details>
-<summary><b>🎓 Ver todas as Certificações AI/ML (50+)</b></summary>
+<summary><b>🎓 Ver principais Certificações AI/ML (clique para expandir)</b></summary>
 <br>
 
-### 🥇 Principais Certificações
+### 🥇 Certificações em Destaque
 
-#### Google
+#### Google AI
 - 🌟 [Google AI Essentials Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/T6PWMFQII2Z6)
 - 🌟 [Google Prompting Essentials Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/S4121H4KVLZH) | [Badge](https://www.credly.com/badges/35f4efb5-649a-42eb-8992-56e37594c224/public_url)
-- ✅ [Google AI Essentials](https://www.coursera.org/account/accomplishments/certificate/DB33DNMEB0F2) | [Badge](https://www.credly.com/badges/ab96ced9-3075-4fe5-983d-0b265dd04f33/public_url)
+- ✅ [Google AI Essentials](https://www.coursera.org/account/accomplishments/certificate/DB33DNMEB0F2)
 
 #### AWS
 - 🔵 [AWS GenAI Practitioner Badge](https://aws-brgenai.ontidwit.com/#/badge/c716b58b-0f06-4bef-b2a7-f8ec3105c3c6)
 
 #### Databricks
-- ⚡ [Academy Accreditation - AI Security Fundamentals](https://credentials.databricks.com/2a9f1b53-89ca-4783-9fdb-628749501d3d#acc.Afg0JHUd)
-- ⚡ [Academy Accreditation - Generative AI Fundamentals](https://credentials.databricks.com/1d5150cd-2255-4640-bc4c-1dd43b96a199)
+- ⚡ [AI Security Fundamentals](https://credentials.databricks.com/2a9f1b53-89ca-4783-9fdb-628749501d3d)
+- ⚡ [Generative AI Fundamentals](https://credentials.databricks.com/1d5150cd-2255-4640-bc4c-1dd43b96a199)
 
-#### IBM
-- 🔷 [AI Literacy Badge](https://www.credly.com/badges/c776e8db-f4c7-488b-8b7e-2e68792e2ce1/linked_in_profile)
-- 🔷 [Artificial Intelligence Fundamentals Certificate](https://openbadgepassport.com/file/4/c/7/3/4c734adda5bc79d12be898256d54aa8473f2dbe7e204320153142b0c43dd42fe.png)
+#### IBM & Intel
+- 🔷 [IBM AI Literacy Badge](https://www.credly.com/badges/c776e8db-f4c7-488b-8b7e-2e68792e2ce1/linked_in_profile)
+- 🔷 [Intel AI Aware Certificate](https://openbadgepassport.com/file/6/c/8/1/6c819aba9da28c125d77916213086fad38c325cfb2e3d2c4646da42a558d9c76.png)
 
-#### NVIDIA
-- 🟢 [AI for All: From Basics to GenAI Practice](https://openbadgepassport.com/file/5/2/0/9/52092221f6c0a037406473b5b3297e3da173813031a720cb97eb11121051e747.png)
+#### NVIDIA & Huawei
+- 🟢 [NVIDIA AI for All](https://openbadgepassport.com/file/5/2/0/9/52092221f6c0a037406473b5b3297e3da173813031a720cb97eb11121051e747.png)
+- 🔴 [Huawei HCIA-AI](https://kltstaticcontent.shixizhi.huawei.com/1365189427395223554/certificate/20250919/b1f966041aef4243819259fa4ac63eda_ICT2025091900181311d52dd17e8e42cc9464fbfbe56195ee.png)
 
-#### Huawei
-- 🔴 [Huawei Certified ICT Associate (HCIA) - AI](https://kltstaticcontent.shixizhi.huawei.com/1365189427395223554/certificate/20250919/b1f966041aef4243819259fa4ac63eda_ICT2025091900181311d52dd17e8e42cc9464fbfbe56195ee.png)
+#### Universidades
+- 🇵 [Politecnico di Milano - AI Overview](https://www.coursera.org/account/accomplishments/specialization/certificate/K8JL6UIWTDWN)
+- 🇫🇮 [University of Helsinki - Elements of AI](https://certificates.mooc.fi/validate/9pva6qfaubp)
 
-#### Politecnico di Milano
-- 🇵 [Artificial Intelligence: an Overview Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/K8JL6UIWTDWN)
-- 🇵 [Ethics of Artificial Intelligence](https://www.coursera.org/account/accomplishments/certificate/H8CON9WLX750)
+#### Digital Innovation One (DIO)
+- 🎓 [Fundamentos de IA Generativa](https://hermes.dio.me/certificates/cover/8Q8UJGV2.jpg)
+- 🎓 [IA na Prática](https://hermes.dio.me/certificates/cover/ZK2BXIQI.jpg)
+- 🎓 [Machine Learning e GenAI](https://hermes.dio.me/certificates/LDQIRRVJ.pdf)
 
-#### University of Helsinki
-- 🇫🇮 [Elements of AI](https://certificates.mooc.fi/validate/9pva6qfaubp)
+<br>
 
-<details>
-<summary><b>📜 Ver lista completa de certificações (clique aqui)</b></summary>
-
-### Altair RapidMiner
-- [Applications & Use Cases Master Certificate](https://ti-user-certificates.s3.amazonaws.com/5733896a-1d71-46e5-b0a3-1ffcf845fe21/08b5924c-e3a8-4508-974e-357949407112-marcus-vasconcellos-b4805178-07da-475b-9c42-0686cd9fc1ab-certificate.pdf) | [Badge](https://openbadgefactory.com/v1/assertion/66edcebfb750300e54b919df02146b5a0b1f9f52.html)
-- [Machine Learning Master Certificate](https://openbadgefactory.com/v1/assertion/a9859e05680320937c314d732feb494ec330e15b.html)
-- [Machine Learning Professional Certificate](https://openbadgefactory.com/v1/assertion/fbe96028b03893efeb2f7cdd7a2e2cd40c4fde5f.html)
-
-### Alura
-- [Prompt Engineering: creating effective prompts for Generative AI](https://openbadgepassport.com/file/0/4/5/7/04570c9a0ca0941d141de01eab5c0a6bba7b8294657a032e6a4039b557b1152f.png)
-- [AI: exploring the potential of generative artificial intelligence](https://openbadgepassport.com/file/f/b/0/8/fb08a91d22bf1a11446a86d499d8d88c9114384f5ae4d7091c02cadec7237352.png)
-
-### appliedAI Institute for Europe
-- [AI Essentials: A Comprehensive Introduction](https://openbadgepassport.com/file/f/7/8/8/f7885582dbfcc71d113f338a4a2852ab25dadb6621e5829931e2a23b71403e08.png)
-
-### Cisco
-- [Introduction to Modern AI Certificate](https://openbadgepassport.com/file/9/d/8/e/9d8e6fa30b2f337a91c44fd438b695d7758647e2c268ee77562977d8f78bea45.png) | [Badge](https://www.credly.com/badges/15b479ee-93b7-4946-b86e-8ab22f4d6629/linked_in_profile)
-
-### Digital Innovation One (DIO)
-- [Fundamentos de IA Generativa](https://hermes.dio.me/certificates/cover/8Q8UJGV2.jpg)
-- [Inteligência Artificial na Prática](https://hermes.dio.me/certificates/cover/ZK2BXIQI.jpg)
-- [Fundamentos de IA Generativa com Bedrock](https://hermes.dio.me/certificates/cover/DAWA7T82.jpg)
-- [Formação Fundamentos de Inteligência Artificial](https://hermes.dio.me/certificates/HNCAV8GL.pdf)
-- [Machine Learning e GenAI na Prática](https://hermes.dio.me/certificates/LDQIRRVJ.pdf)
-- [Excel com Inteligência Artificial](https://hermes.dio.me/certificates/9RIYTXMK.pdf)
-
-### FIAP
-- [Chatbots](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=96b5ba62fb2e00022d10ca512797dc3c&action=view)
-- [Inteligência Artificial e Computacional](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=6f4eccc2703b66fb7862c9ef191b430a&action=view)
-- [Inteligência Artificial Responsável](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=1f9a87feae4a56eeefa505cd457242d5&action=view)
-
-### Hewlett-Packard
-- [AI for Beginners](https://www.life-global.org/certificate/ced56931-6c4a-4a3e-91d0-63cf0dd0ad6d)
-
-### Intel
-- [AI Aware Certificate](https://openbadgepassport.com/file/6/c/8/1/6c819aba9da28c125d77916213086fad38c325cfb2e3d2c4646da42a558d9c76.png)
-- [AI Appreciate Certificate](https://openbadgepassport.com/file/6/1/2/4/61246532589ecf0b96066fa4dc5ff0b00b669b81acc7f6f0abe4eeddd66f15bd.png)
-
-### KI-Campus
-- [Foundations of Artificial Intelligence I-VI](https://badgr.com/public/assertions/zdvzJzEhTeSjZH2tTx3fuQ?identity__email=marcus%40vasconcellos.net.br)
-- [Launchpad to AI](https://badgr.com/public/assertions/-WDZ3ISFTMSvJNGvOTCB_g?identity__email=marcus%40vasconcellos.net.br)
-
-### PMI
-- [Generative AI Overview for Project Managers](https://www.credly.com/badges/f4791a0a-deed-4022-a7d4-dd2886a16b6f/linked_in_profile)
-- [Practical Application of Gen AI for Project Managers](https://www.credly.com/badges/5f319d2e-a159-4526-95da-b53e37616250/linked_in_profile)
-- [Talking to AI: Prompt Engineering for Project Managers](https://www.credly.com/badges/a5f3b699-0c4d-4b35-b1b3-89554cc95a44/linked_in_profile)
-
-### StartSe University
-- [AI Skills](https://lms.startse.com/certificado/v2/646e1585bfaa5a7358dfa411?studentId=686fe4421245ce6fb0defc80)
-- [IA para Todos](https://lms.startse.com/certificado/v2/66d8620a181083001247fa9c?studentId=686fe4421245ce6fb0defc80)
-
-### University of Maryland
-- [AI and Career Empowerment](https://openbadgepassport.com/file/e/4/d/4/e4d4ada6ad1822ac4a9e26bc1b5b0bad5255aab75a8967291dce465adf72437d.png)
-
-</details>
+**E mais 35+ certificações** de Altair RapidMiner, Alura, Cisco, FIAP, PMI, KI-Campus, StartSe e outras instituições renomadas!
 
 </details>
 
@@ -380,32 +330,12 @@ idiomas:
 
 <div align="center">
 
-```mermaid
-timeline
-    title Jornada Profissional - 35+ Anos de Experiência
-    section 1988-2001 : Início na Automação
-        Altus : Industrial Automation PM
-        : Desenvolvimento de sistemas PLC
-    section 2001-2015 : Expansão e Especialização
-        Dell : Integration Project Manager
-        PETROBRAS : Senior Consultant
-        : Projetos Oil & Gas
-    section 2016-2023 : Liderança Técnica
-        Enaval : Owner Engineering
-        Doris : I&A Job Leader
-        DBR Energies : Senior I&A Engineer
-        Equinor : Principal Automation Engineer
-        : Fire & Gas Specialist
-    section 2023-Presente : Inovação & IA
-        Equinor : Principal Automation Engineer
-        PRIO : Automation Engineer Specialist
-        : Foco em IA e Automação 4.0
-```
+### 🔧 Experiência - 35+ Anos em Automação Industrial
 
 </div>
 
 <details>
-<summary><b>👨‍💼 Ver detalhes da experiência profissional</b></summary>
+<summary><b>👨‍💼 Ver detalhes completos da carreira</b></summary>
 <br>
 
 ### 🛢️ **Automation Engineer Specialist @ PRIO**
@@ -426,22 +356,16 @@ timeline
 ### 🏗️ **Senior I&A Engineer @ DBR Energies**
 📅 **Julho 2022 - Abril 2023** | Rio de Janeiro, Brasil  
 🔧 Projetos de automação para PETROBRAS (ATAPU 2, SÉPIA 2, GASLUB)
-- Desenvolvimento de projetos de instrumentação e automação
-- Especificação técnica de equipamentos
-- Revisão de desenhos e documentação técnica
 
 ---
 
 ### 🚀 **Commissioning Lead System Engineer @ Equinor**
 📅 **Dezembro 2019 - Julho 2022** | Campos Basin, Brasil  
 🔧 Liderança de comissionamento de sistemas F&G e ESD
-- Coordenação de equipes de comissionamento offshore
-- Execução de testes de aceitação de fábrica (FAT)
-- Suporte técnico durante startup de plataformas
 
 ---
 
-### 💼 **Outras Experiências Relevantes**
+### 💼 **Experiências Anteriores (1988-2019)**
 - **Senior I&C Engineer** @ KERUI PETROLEUM (2019)
 - **I&A Job Leader** @ DORIS Engenharia (2018-2019)
 - **Technical Contract Manager** @ Intertechne (2018)
@@ -459,7 +383,7 @@ timeline
 <div align="center">
 
 | Grau | Instituição | Curso | Ano |
-|------|-------------|-------|-----|
+|:----:|:-----------:|:-----:|:---:|
 | 🎓 **MBA** | FGV | Gestão de Projetos - Oil & Gas | 2008 |
 | 🎓 **Especialização** | UFRGS | Engenharia de Computação | 2001 |
 | 🎓 **Pós-Graduação** | UFRGS | Automação Industrial | 1998 |
@@ -473,25 +397,9 @@ timeline
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e7-1f1f7.svg" width="50"/>
-  <br><strong>Português</strong>
-  <br>Nativo
-</td>
-<td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1fa-1f1f8.svg" width="50"/>
-  <br><strong>Inglês</strong>
-  <br>Avançado
-</td>
-<td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ea-1f1f8.svg" width="50"/>
-  <br><strong>Espanhol</strong>
-  <br>Intermediário
-</td>
-</tr>
-</table>
+| 🇧🇷 **Português** | 🇺🇸 **Inglês** | 🇪🇸 **Espanhol** |
+|:------------------:|:--------------:|:-------------------:|
+| Nativo | Avançado | Intermediário |
 
 </div>
 
@@ -515,9 +423,9 @@ timeline
 
 <br><br>
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-<img src="https://forthebadge.com/images/badges/makes-people-smile.svg"/>
+<img src="https://img.shields.io/badge/Built_with-❤️-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Powered_by-☕-brown?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_to-Opportunities-brightgreen?style=for-the-badge"/>
 
 </div>
 
