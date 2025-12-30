@@ -250,12 +250,12 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 - <a href="https://hermes.dio.me/certificates/cover/ZK2BXIQI.jpg" target="_blank" rel="noopener noreferrer">Inteligência Artificial na Prática</a>  
 - <a href="https://hermes.dio.me/certificates/cover/DAWA7T82.jpg" target="_blank" rel="noopener noreferrer">Fundamentos de IA Generativa com Bedrock</a>  
 - <a href="https://hermes.dio.me/certificates/HNCAV8GL.pdf" target="_blank" rel="noopener noreferrer">Formação Fundamentos de Inteligência Artificial</a>  
-- <a href="https://hermes.dio.me/certificates/LDQIRRVJ.pdf" target="_blank" rel="noopener noreferrer">Machine Learning e GenAI na Prática</a>  
-
+- <a href="https://hermes.dio.me/certificates/LDQIRRVJ.pdf" target="_blank" rel="noopener noreferrer">Machine Learning e GenAI na Prática</a>
+- <a href="https://hermes.dio.me/certificates/BNWKHWYQ.pdf" target="_blank" rel="noopener noreferrer">EducalA</a>
+- 
 ### FIAP
 - <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=96b5ba62fb2e00022d10ca512797dc3c&action=view" target="_blank" rel="noopener noreferrer">Chatbots</a>  
-- <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=6f4eccc2703b66fb7862c9ef191b430a&action=view" target="_blank" rel="noopener noreferrer">Inteligência Artificial e Computacional</a>  
-- <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=1f9a87feae4a56eeefa505cd457242d5&action=view" target="_blank" rel="noopener noreferrer">Inteligência Artificial Responsável</a>
+- <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=6f4eccc2703b66fb7862c9ef191b430a&action=view" target="_blank" rel="noopener noreferrer">Inteligência Artificial e Computacional</a> - <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=1f9a87feae4a56eeefa505cd457242d5&action=view" target="_blank" rel="noopener noreferrer">Inteligência Artificial Responsável</a>
 
 ### Google
 - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/T6PWMFQII2Z6" target="_blank" rel="noopener noreferrer">Google AI Essentials Specialization</a>  
