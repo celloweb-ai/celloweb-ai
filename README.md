@@ -253,7 +253,7 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 - <a href="https://hermes.dio.me/certificates/9RIYTXMK.pdf" target="_blank" rel="noopener noreferrer">Excel com Inteligência
 Artificial</a>
 - <a href="https://hermes.dio.me/certificates/BNWKHWYQ.pdf" target="_blank" rel="noopener noreferrer">EducalA</a>
-- 
+ 
 ### FIAP
 - <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=96b5ba62fb2e00022d10ca512797dc3c&action=view" target="_blank" rel="noopener noreferrer">Chatbots</a>  
 - <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=6f4eccc2703b66fb7862c9ef191b430a&action=view" target="_blank" rel="noopener noreferrer">Inteligência Artificial e Computacional</a> - <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=1f9a87feae4a56eeefa505cd457242d5&action=view" target="_blank" rel="noopener noreferrer">Inteligência Artificial Responsável</a>
