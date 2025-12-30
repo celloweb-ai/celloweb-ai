@@ -52,67 +52,122 @@ Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e ma
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🔥 Projetos em Destaque
 
-<div align="center">
+### 🤖 IA Generativa & Automação
 
 <table>
 <tr>
-<td width="50%" align="center">
-  <a href="https://github.com/celloweb-ai/Assistente_Financeiro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=celloweb-ai&repo=Assistente_Financeiro&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2" alt="Assistente Financeiro"/>
-  </a>
-  <br><br>
-  <p><strong>🤖 Assistente Financeiro Inteligente</strong></p>
-  <p>Chatbot financeiro com IA generativa, FAQs inteligentes e calculadoras.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  </p>
+<td width="50%">
+
+#### 🤖 [Assistente Financeiro Inteligente](https://github.com/celloweb-ai/Assistente_Financeiro)
+
+Chatbot financeiro com IA generativa, FAQs inteligentes e calculadoras.
+
+**Tech:** Python • OpenAI • Streamlit • LangChain
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
 </td>
-<td width="50%" align="center">
-  <a href="https://github.com/celloweb-ai/Chatgpt_Voice_Conversation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=celloweb-ai&repo=Chatgpt_Voice_Conversation&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2" alt="ChatGPT Voice"/>
-  </a>
-  <br><br>
-  <p><strong>🗣️ ChatGPT Voice Conversation</strong></p>
-  <p>Conversação por voz com ChatGPT usando Whisper e gTTS.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
-    <img src="https://img.shields.io/badge/gTTS-4285F4?style=flat-square&logo=google&logoColor=white"/>
-  </p>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/celloweb-ai/Organizador_Declaracao_Imposto_Renda">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=celloweb-ai&repo=Organizador_Declaracao_Imposto_Renda&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2" alt="Organizador IR"/>
-  </a>
-  <br><br>
-  <p><strong>🧾 Organizador Declaração IR 2025</strong></p>
-  <p>Ferramenta Excel completa com dashboard, validações e cálculos automáticos.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VBA-512BD4?style=flat-square&logo=visualstudio&logoColor=white"/>
-  </p>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/celloweb-ai/Lab_AWS_Sagemaker_Canvas_Estoque">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=celloweb-ai&repo=Lab_AWS_Sagemaker_Canvas_Estoque&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2" alt="AWS SageMaker"/>
-  </a>
-  <br><br>
-  <p><strong>📦 AWS SageMaker Canvas - Estoque</strong></p>
-  <p>Previsão de Estoque Inteligente usando AWS SageMaker Canvas.</p>
-  <p>
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SageMaker-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  </p>
+<td width="50%">
+
+#### 🗣️ [ChatGPT Voice Conversation](https://github.com/celloweb-ai/Chatgpt_Voice_Conversation)
+
+Conversação por voz com ChatGPT usando Whisper (OpenAI) e gTTS.
+
+**Tech:** Python • Whisper • gTTS • OpenAI API
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
 </td>
 </tr>
 </table>
+
+### 📊 Excel & VBA Solutions
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🧾[Organizador Declaração IR 2025](https://github.com/celloweb-ai/Organizador_Declaracao_Imposto_Renda)
+
+Ferramenta Excel completa para organização de declaração de imposto de renda com dashboard, validações e cálculos automáticos.
+
+**Tech:** Excel • VBA • Fórmulas Avançadas
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-512BD4?style=flat&logo=visualstudio&logoColor=white)
+
+</td>
+<td width="50%">
+
+#### 📈 [Dashboard Vendas Xbox Game Pass](https://github.com/celloweb-ai/Dashboard_Vendas_Xbox_Game_Pass)
+
+Dashboard analítico de vendas desenvolvido em Excel com visualizações interativas.
+
+**Tech:** Excel • Power Query • Charts
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🏢 [Simulador Investimentos FIIs](https://github.com/celloweb-ai/Simulador_Investimentos_FIIs)
+
+Ferramenta de controle e simulação de investimentos em Fundos Imobiliários.
+
+**Tech:** Excel • Financial Modeling
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+</td>
+<td width="50%">
+
+#### 📚 [NotebookLM Educação Financeira](https://github.com/celloweb-ai/NotebookLM_Educacao_Financeira)
+
+Caderno temático sobre educação financeira usando NotebookLM com curadoria de fontes.
+
+**Tech:** NotebookLM • Prompt Engineering
+
+![AI](https://img.shields.io/badge/AI-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+### ☁️ Cloud & Machine Learning
+
+<table>
+<tr>
+<td width="50%">
+
+#### 📦 [AWS SageMaker Canvas - Estoque](https://github.com/celloweb-ai/Lab_AWS_Sagemaker_Canvas_Estoque)
+
+Previsão de Estoque Inteligente usando AWS SageMaker Canvas.
+
+**Tech:** AWS • SageMaker • ML
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+</td>
+<td width="50%">
+
+#### 🎯 [Plano de Aula IA Personalizado](https://github.com/celloweb-ai/Plano_Aula_IA_Personalizado)
+
+Plano de aula interativo e personalizado usando ecossistema de IA.
+
+**Tech:** AI Tools • Educational Tech
+
+![AI](https://img.shields.io/badge/GenAI-412991?style=flat&logo=openai&logoColor=white)
+
+</td>
+</tr>
+</table>
+
 
 <a href="https://github.com/celloweb-ai?tab=repositories">
   <img src="https://img.shields.io/badge/Ver%20Todos%20os%20Projetos-%E2%86%92-667eea?style=for-the-badge&logo=github&logoColor=white"/>
