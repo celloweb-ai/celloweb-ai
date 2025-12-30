@@ -57,7 +57,7 @@ Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e ma
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Projetos em Destaque
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> IA Generativa & Automação
+### 🤖 IA Generativa & Automação
 
 <table>
 <tr>
@@ -88,13 +88,13 @@ Conversação por voz com ChatGPT usando Whisper (OpenAI) e gTTS.
 </tr>
 </table>
 
-### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25"> Excel & VBA Solutions
+### 📊 Excel & VBA Solutions
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🧧[Organizador Declaração IR 2025](https://github.com/celloweb-ai/Organizador_Declaracao_Imposto_Renda)
+#### 🧧 [Organizador Declaração IR 2025](https://github.com/celloweb-ai/Organizador_Declaracao_Imposto_Renda)
 
 Ferramenta Excel completa para organização de declaração de imposto de renda com dashboard, validações e cálculos automáticos.
 
@@ -142,7 +142,7 @@ Caderno temático sobre educação financeira usando NotebookLM com curadoria de
 </tr>
 </table>
 
-### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25"> Cloud & Machine Learning
+### ☁️ Cloud & Machine Learning
 
 <table>
 <tr>
@@ -182,10 +182,10 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" /> Stack Tecnológico
 
 <details open>
-<summary><b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> Inteligência Artificial & Machine Learning</b></summary>
+<summary><b>🤖 Inteligência Artificial & Machine Learning</b></summary>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -199,7 +199,7 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 </details>
 
 <details>
-<summary><b><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="20"> Linguagens de Programação</b></summary>
+<summary><b>💻 Linguagens de Programação</b></summary>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -212,7 +212,7 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 </details>
 
 <details>
-<summary><b><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="20"> Data Science & Analytics</b></summary>
+<summary><b>📊 Data Science & Analytics</b></summary>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -226,7 +226,7 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 </details>
 
 <details>
-<summary><b><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="20"> Cloud & DevOps</b></summary>
+<summary><b>☁️ Cloud & DevOps</b></summary>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -239,7 +239,7 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 </details>
 
 <details>
-<summary><b><img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="20"> Automação Industrial & Sistemas de Controle</b></summary>
+<summary><b>🏭 Automação Industrial & Sistemas de Controle</b></summary>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/ABB_800xA-FF0000?style=for-the-badge&logo=abb&logoColor=white"/>
@@ -253,7 +253,7 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 </details>
 
 <details>
-<summary><b><img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="20"> Cybersecurity OT/ICS</b></summary>
+<summary><b>🔒 Cybersecurity OT/ICS</b></summary>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/ICS_Security-DC143C?style=for-the-badge&logoColor=white"/>
