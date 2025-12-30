@@ -55,7 +55,7 @@ Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e ma
 
 ---
 
-## 💼 Projetos em Destaque
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> Projetos em Destaque
 
 ### 🤖 IA Generativa & Automação
 
@@ -332,7 +332,7 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 - <a href="https://openbadgepassport.com/file/4/c/7/3/4c734adda5bc79d12be898256d54aa8473f2dbe7e204320153142b0c43dd42fe.png" target="_blank" rel="noopener noreferrer">Artificial Intelligence Fundamentals Certificate</a> &nbsp;&nbsp; <a href="https://ai-for-all.in/#/badge?id=U2FsdGVkX1962tygFO7nXPWO1oivL1ksFjHXGbn6Zd8K2FlbSOWpjUxv9Q9PEZ2m" target="_blank" rel="noopener noreferrer">[Badge]</a>  
 
 ### Intel
-- <a href="https://openbadgepassport.com/file/6/c/8/1/6c819aba9da28c125d77916213086fad38c325cfb2e3d2c4646da42a558d9c76.png" target="_blank" rel="noopener noreferrer">AI Aware Certificate</a> &nbsp;&nbsp; <a href="https://ai-for-all.in/#/badge?id=U2FsdGVkX1962tygFO7nXPWO1oivL1ksFjHXGbn6Zd8K2FlbSOWpjUxv9Q9PEZ2m" target="_blank" rel="noopener noreferrer">[Badge]</a>  
+- <a href="https://openbadgepassport.com/file/5/2/0/9/52092221f6c0a037406473b5b3297e3da173813031a720cb97eb11121051e747.png" target="_blank" rel="noopener noreferrer">AI Aware Certificate</a> &nbsp;&nbsp; <a href="https://ai-for-all.in/#/badge?id=U2FsdGVkX1962tygFO7nXPWO1oivL1ksFjHXGbn6Zd8K2FlbSOWpjUxv9Q9PEZ2m" target="_blank" rel="noopener noreferrer">[Badge]</a>  
 - <a href="https://openbadgepassport.com/file/6/1/2/4/61246532589ecf0b96066fa4dc5ff0b00b669b81acc7f6f0abe4eeddd66f15bd.png" target="_blank" rel="noopener noreferrer">AI Appreciate Certificate</a> &nbsp;&nbsp; <a href="https://ai-for-all.in/#/badge?id=U2FsdGVkX1s1L2a3S4hEzpo2cPOO443xNsSCHcbgYtzs8CFleBfFXtn0aktcWOPQXjFFxjh8" target="_blank" rel="noopener noreferrer">[Badge]</a>
 
 ### KI-Campus
