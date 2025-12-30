@@ -38,7 +38,10 @@ Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e ma
 
 ---
 
-## 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+
 
 <div align="center">
   <img width="90%" src="https://github-readme-streak-stats-eight.vercel.app?user=celloweb-ai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
