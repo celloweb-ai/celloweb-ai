@@ -212,9 +212,9 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 | **Fundamentos de IA Generativa** | DIO + Santander | ✅ Completo | [Ver Certificado](https://hermes.dio.me/certificates/cover/DAWA7T82.jpg) |
 | **Fundamentos de IA Generativa com Bedrock** | DIO + AWS | ✅ Completo | [Ver Certificado](https://hermes.dio.me/certificates/cover/DAWA7T82.jpg) |
 | **Formação Fundamentos de Inteligência Artificial** | DIO | ✅ Completo | [Ver Certificado](https://hermes.dio.me/certificates/HNCAV8GL.pdf) |
-| **Machine Learning e GenAI na Prática** | DIO + Caixa | ✅ Completo | [Ver Certificado](https://hermes.dio.me/certificates/LDQIRRVJ.pdf) |
-| **Excel com Inteligência Artificial** | DIO + Caixa | ✅ Completo | [Ver Certificado](https://hermes.dio.me/certificates/9RIYTXMK.pdf) |
-| **EducalA** | DIO + Caixa | ✅ Completo | [Ver Certificado](https://hermes.dio.me/certificates/BNWKHWYQ.pdf) |
+| **Machine Learning e GenAI na Prática** | DIO + AWS | ✅ Completo | [Ver Certificado](https://hermes.dio.me/certificates/LDQIRRVJ.pdf) |
+| **Excel com Inteligência Artificial** | DIO + Santander | ✅ Completo | [Ver Certificado](https://hermes.dio.me/certificates/9RIYTXMK.pdf) |
+| **EducalA** | DIO + Santander | ✅ Completo | [Ver Certificado](https://hermes.dio.me/certificates/BNWKHWYQ.pdf) |
 
 </div>
 
