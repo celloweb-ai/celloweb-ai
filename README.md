@@ -215,7 +215,7 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏅 Certificações AI/ML (50+)
 
@@ -324,7 +324,7 @@ Artificial</a>
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💼 Experiência Profissional
 
@@ -353,7 +353,7 @@ Artificial</a>
 - Integration Project Manager @ Dell (2001-2006)
 - Industrial Automation PM @ Altus (1988-2001)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Áreas de Especialização
 
@@ -389,7 +389,7 @@ Artificial</a>
 🎓 **Pós-Graduação em Automação Industrial** | UFRGS (1998)  
 🎓 **Bacharelado em Engenharia Eletrônica** | PUCRS (1992)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Idiomas
 
