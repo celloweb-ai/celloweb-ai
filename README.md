@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Marcus%20Vasconcellos&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Automation%20Engineer%20%7C%20AI/ML%20Enthusiast&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:29B6F6&height=200&section=header&text=Marcus%20Vasconcellos&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Automation%20Engineer%20%7C%20AI/ML%20Enthusiast&descAlignY=55&descSize=18"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=35%2B+anos+de+experi%C3%AAncia+em+Automa%C3%A7%C3%A3o+Industrial;Especialista+em+Fire+%26+Gas+e+ESD+Systems;50%2B+Certifica%C3%A7%C3%B5es+em+AI/ML;Apaixonado+por+IA+Generativa;Transformando+dados+em+solu%C3%A7%C3%B5es&font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&height=80)](https://github.com/celloweb-ai)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=35%2B+anos+de+experi%C3%AAncia+em+Automa%C3%A7%C3%A3o+Industrial;Especialista+em+Fire+%26+Gas+e+ESD+Systems;50%2B+Certifica%C3%A7%C3%B5es+em+AI/ML;Apaixonado+por+IA+Generativa;Transformando+dados+em+solu%C3%A7%C3%B5es&font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=29B6F6&center=true&vCenter=true&width=800&height=80)](https://github.com/celloweb-ai)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcusvasconcellos">
@@ -91,7 +91,7 @@ Conversação por voz com ChatGPT usando Whisper (OpenAI) e gTTS.
 <tr>
 <td width="50%">
 
-#### 🧾[Organizador Declaração IR 2025](https://github.com/celloweb-ai/Organizador_Declaracao_Imposto_Renda)
+#### 🧧[Organizador Declaração IR 2025](https://github.com/celloweb-ai/Organizador_Declaracao_Imposto_Renda)
 
 Ferramenta Excel completa para organização de declaração de imposto de renda com dashboard, validações e cálculos automáticos.
 
@@ -171,7 +171,7 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 
 <p align="center">
 <a href="https://github.com/celloweb-ai?tab=repositories">
-  <img src="https://img.shields.io/badge/Ver%20Todos%20os%20Projetos-%E2%86%92-667eea?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ver%20Todos%20os%20Projetos-%E2%86%92-29B6F6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -494,15 +494,11 @@ Artificial</a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=footer&text=Obrigado%20pela%20visita!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:29B6F6&height=150&section=footer&text=Obrigado%20pela%20visita!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
 </div>
 
 <div align="center">
   <sub>⭐️ Criado com 💙 e ☕ por <a href="https://github.com/celloweb-ai">Marcus Vasconcellos</a></sub>
   <br>
-  <sub>🔄 Última atualização: Dezembro 2025</sub>
-</div>
-
-  <sub>⭐️ Criado com 💙 por <a href="https://github.com/celloweb-ai">Marcus Vasconcellos</a></sub><br>
   <sub>🔄 Última atualização: Dezembro 2025</sub>
 </div>
