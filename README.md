@@ -205,11 +205,16 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 
 <div align="center">
 
-| Bootcamp | Instituição | Status |
-|----------|-------------|--------|
-| **GenAI & Dados - Assistente Financeiro** | DIO + Bradesco | ✅ Completo |
-| **Inteligência Artificial na Prática** | DIO + Caixa | ✅ Completo |
-| **Fundamentos de IA Generativa** | DIO + Santander | ✅ Completo |
+| Bootcamp | Instituição | Status | Link |
+|----------|-------------|--------|------|
+| **GenAI & Dados - Assistente Financeiro** | DIO + Bradesco | ✅ Completo | [Ver Certificado](https://hermes.dio.me/certificates/cover/8Q8UJGV2.jpg) |
+| **Inteligência Artificial na Prática** | DIO + Caixa | ✅ Completo | [Ver Certificado](https://hermes.dio.me/certificates/cover/ZK2BXIQI.jpg) |
+| **Fundamentos de IA Generativa** | DIO + Santander | ✅ Completo | [Ver Certificado](https://hermes.dio.me/certificates/cover/DAWA7T82.jpg) |
+| **Fundamentos de IA Generativa com Bedrock** | DIO + AWS | ✅ Completo | [Ver Certificado](https://hermes.dio.me/certificates/cover/DAWA7T82.jpg) |
+| **Formação Fundamentos de Inteligência Artificial** | DIO | ✅ Completo | [Ver Certificado](https://hermes.dio.me/certificates/HNCAV8GL.pdf) |
+| **Machine Learning e GenAI na Prática** | DIO + Caixa | ✅ Completo | [Ver Certificado](https://hermes.dio.me/certificates/LDQIRRVJ.pdf) |
+| **Excel com Inteligência Artificial** | DIO + Caixa | ✅ Completo | [Ver Certificado](https://hermes.dio.me/certificates/9RIYTXMK.pdf) |
+| **EducalA** | DIO + Caixa | ✅ Completo | [Ver Certificado](https://hermes.dio.me/certificates/BNWKHWYQ.pdf) |
 
 </div>
 
