@@ -138,7 +138,7 @@ Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e **
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=celloweb-ai&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=celloweb-ai&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=celloweb-ai&theme=tokyo-night&hide_border=true&area=true)
 
