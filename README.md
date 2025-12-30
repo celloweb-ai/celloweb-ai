@@ -283,7 +283,7 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 - <a href="https://openbadgepassport.com/file/f/b/0/8/fb08a91d22bf1a11446a86d499d8d88c9114384f5ae4d7091c02cadec7237352.png" target="_blank" rel="noopener noreferrer">AI: exploring the potential of generative artificial intelligence</a>  
 
 ### appliedAI Institute for Europe
-- <a href="https://openbadgepassport.com/file/f/7/8/8/f7885582dbfcc71d113f338a4a2852ab25dadb6621e5829931e2a23b71403e08.png" target="_blank" rel="noopener noreferrer">AI Essentials: A Comprehensive Introduction</a>  
+- <a href="https://openbadgepassport.com/file/f/7/8/8/f7885582dbfcc71d113f338a4a2852ab25dadb6621e5e829931e2a23b71403e08.png" target="_blank" rel="noopener noreferrer">AI Essentials: A Comprehensive Introduction</a>  
 
 ### AWS / TIDWIT
 - <a href="https://aws-brgenai.ontidwit.com/#/badge/c716b58b-0f06-4bef-b2a7-f8ec3105c3c6" target="_blank" rel="noopener noreferrer">AWS GenAI Practitioner Badge</a>  
