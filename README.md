@@ -1,22 +1,31 @@
-<p align="center">
-  <h1>👋 Marcus Vasconcellos</h1>
-  <strong>Senior Automation Engineer | AI/ML Enthusiast | Industrial Cybersecurity Specialist</strong>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Marcus%20Vasconcellos&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Automation%20Engineer%20%7C%20AI/ML%20Enthusiast&descAlignY=55&descSize=18"/>
+</div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusvasconcellos)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcus@vasconcellos.net.br)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celloweb-ai)
-[![Location](https://img.shields.io/badge/Rio_de_Janeiro-Brazil-2BA600?style=for-the-badge&logo=google-maps&logoColor=white)](https://goo.gl/maps/riodejaneiro)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=35%2B+anos+de+experi%C3%AAncia+em+Automa%C3%A7%C3%A3o+Industrial;Especialista+em+Fire+%26+Gas+e+ESD+Systems;50%2B+Certifica%C3%A7%C3%B5es+em+AI/ML;Apaixonado+por+IA+Generativa;Transformando+dados+em+solu%C3%A7%C3%B5es&font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&height=80)](https://github.com/celloweb-ai)
 
-![Profile Views](https://komarev.com/ghpvc/?username=celloweb-ai&color=blue&style=for-the-badge)
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcusvasconcellos">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:marcus@vasconcellos.net.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/celloweb-ai">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Rio_de_Janeiro-Brazil-2BA600?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=celloweb-ai&color=blueviolet&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES" alt="Profile Views"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Sobre Mim
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Sobre Mim
 
 Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e mais de **35 anos de experiência** em automação industrial, sistemas de controle e cibersegurança OT/ICS no setor de Oil & Gas.
 
