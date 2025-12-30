@@ -181,43 +181,88 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 
 ## 🛠️ Stack Tecnológico
 
-### Automação Industrial
-<p align="left">
-  <img src="https://img.shields.io/badge/ABB_800xA-FF0000?style=for-the-badge&logo=abb&logoColor=white" alt="ABB 800xA"/>
-  <img src="https://img.shields.io/badge/PLC_Programming-0066CC?style=for-the-badge" alt="PLC"/>
-  <img src="https://img.shields.io/badge/SCADA-00AA00?style=for-the-badge" alt="SCADA"/>
-  <img src="https://img.shields.io/badge/Fire_%26_Gas-CC0000?style=for-the-badge" alt="Fire & Gas"/>
-  <img src="https://img.shields.io/badge/ESD_Systems-FF6600?style=for-the-badge" alt="ESD Systems"/>
+<details open>
+<summary><b>🤖 Inteligência Artificial & Machine Learning</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-00A98F?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
+</details>
 
-### Desenvolvimento & IA
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel VBA"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<details>
+<summary><b>💻 Linguagens de Programação</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ladder_Logic-0066CC?style=for-the-badge&logo=siemens&logoColor=white"/>
 </p>
+</details>
 
-### Data Science & ML
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<details>
+<summary><b>📈 Data Science & Analytics</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
+</details>
 
-### Ferramentas & Plataformas
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+</details>
+
+<details>
+<summary><b>⚙️ Automação Industrial & Sistemas de Controle</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/ABB_800xA-FF0000?style=for-the-badge&logo=abb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCADA-00AA00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PLC_Programming-0066CC?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fire_%26_Gas-CC0000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESD_Systems-FF6600?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HMI_Design-1E90FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Safety_Systems-8B0000?style=for-the-badge&logoColor=white"/>
+</p>
+</details>
+
+<details>
+<summary><b>🔒 Cybersecurity OT/ICS</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/ICS_Security-DC143C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network_Security-4B0082?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Risk_Assessment-FF4500?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Threat_Analysis-8B008B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Compliance-228B22?style=for-the-badge&logoColor=white"/>
+</p>
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🏅 Certificações AI/ML (50+)
 
