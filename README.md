@@ -148,21 +148,7 @@ Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e **
 
 ## 🎓 Certifications (50+)
 
-<div align="center">
-
-| Provider | Certification | Badge |
-|----------|--------------|-------|
-| **Google** | [Google AI Essentials Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/T6PWMFQII2Z6) | [![Badge](https://img.shields.io/badge/View-Credential-blue?style=flat-square)](https://www.credly.com/badges/ab96ced9-3075-4fe5-983d-0b265dd04f33/public_url) |
-| **Google** | [Google Prompting Essentials Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/S4121H4KVLZH) | [![Badge](https://img.shields.io/badge/View-Credential-blue?style=flat-square)](https://www.credly.com/badges/35f4efb5-649a-42eb-8992-56e37594c224/public_url) |
-| **IBM** | [AI Literacy](https://www.credly.com/badges/c776e8db-f4c7-488b-8b7e-2e68792e2ce1/linked_in_profile) | [![Badge](https://img.shields.io/badge/View-Credential-blue?style=flat-square)](https://www.credly.com/badges/c776e8db-f4c7-488b-8b7e-2e68792e2ce1/linked_in_profile) |
-| **Databricks** | [Generative AI Fundamentals](https://credentials.databricks.com/1d5150cd-2255-4640-bc4c-1dd43b96a199) | [![Badge](https://img.shields.io/badge/View-Credential-blue?style=flat-square)](https://credentials.databricks.com/1d5150cd-2255-4640-bc4c-1dd43b96a199) |
-| **AWS** | [AWS GenAI Practitioner](https://aws-brgenai.ontidwit.com/#/badge/c716b58b-0f06-4bef-b2a7-f8ec3105c3c6) | [![Badge](https://img.shields.io/badge/View-Credential-blue?style=flat-square)](https://aws-brgenai.ontidwit.com/#/badge/c716b58b-0f06-4bef-b2a7-f8ec3105c3c6) |
-| **NVIDIA** | [AI for All: From Basics to GenAI Practice](https://certificates.nvidia.com/) | [![Badge](https://img.shields.io/badge/View-Credential-blue?style=flat-square)](#) |
-
-<details>
 <summary><b>View All 50+ Certifications →</b></summary>
-
-### 🥇 Principais Certificações
 
 #### Google
 - 🌟 [Google AI Essentials Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/T6PWMFQII2Z6)
@@ -246,10 +232,6 @@ Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e **
 
 ### University of Maryland
 - [AI and Career Empowerment](https://openbadgepassport.com/file/e/4/d/4/e4d4ada6ad1822ac4a9e26bc1b5b0bad5255aab75a8967291dce465adf72437d.png)
-
-</details>
-
-</div>
 
 ---
 
