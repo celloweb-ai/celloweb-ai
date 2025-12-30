@@ -415,25 +415,42 @@ Artificial</a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## 🤝 Vamos Conectar?
-
-Estou sempre aberto a colaborações, consultorias e networking! Entre em contato:
+## 🔗 Conecte-se Comigo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusvasconcellos)
-[![Email](https://img.shields.io/badge/Email-marcus@vasconcellos.net.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcus@vasconcellos.net.br)
-[![GitHub](https://img.shields.io/badge/GitHub-Siga--me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celloweb-ai)
+<p>Estou sempre aberto a colaborações, consultorias e networking!</p>
+
+<a href="https://www.linkedin.com/in/marcusvasconcellos" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:marcus@vasconcellos.net.br" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Entre_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/celloweb-ai" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Siga--me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+<img src="https://forthebadge.com/images/badges/makes-people-smile.svg"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=footer&text=Obrigado%20pela%20visita!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
 </div>
 
 <div align="center">
+  <sub>⭐️ Criado com 💙 e ☕ por <a href="https://github.com/celloweb-ai">Marcus Vasconcellos</a></sub>
+  <br>
+  <sub>🔄 Última atualização: Dezembro 2025</sub>
+</div>
+
   <sub>⭐️ Criado com 💙 por <a href="https://github.com/celloweb-ai">Marcus Vasconcellos</a></sub><br>
   <sub>🔄 Última atualização: Dezembro 2025</sub>
 </div>
