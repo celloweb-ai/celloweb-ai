@@ -1,37 +1,22 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:29B6F6&height=200&section=header&text=Marcus%20Vasconcellos&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Automation%20Engineer%20%7C%20AI/ML%20Enthusiast&descAlignY=55&descSize=18"/>
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=35%2B+anos+de+experi%C3%AAncia+em+Automa%C3%A7%C3%A3o+Industrial;Especialista+em+Fire+%26+Gas+e+ESD+Systems;50%2B+Certifica%C3%A7%C3%B5es+em+AI/ML;Apaixonado+por+IA+Generativa;Transformando+dados+em+solu%C3%A7%C3%B5es&font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=29B6F6&center=true&vCenter=true&width=800&height=80)](https://github.com/celloweb-ai)
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcusvasconcellos">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:marcus@vasconcellos.net.br">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/celloweb-ai">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/Rio_de_Janeiro-Brazil-2BA600?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+  <h1>👋 Marcus Vasconcellos</h1>
+  <strong>Senior Automation Engineer | AI/ML Enthusiast | Industrial Cybersecurity Specialist</strong>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=celloweb-ai&color=blueviolet&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES" alt="Profile Views"/>
-
-</div>
-
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="animation: fadeIn 2s ease-in;">
-</picture>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusvasconcellos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcus@vasconcellos.net.br)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celloweb-ai)
+[![Location](https://img.shields.io/badge/Rio_de_Janeiro-Brazil-2BA600?style=for-the-badge&logo=google-maps&logoColor=white)](https://goo.gl/maps/riodejaneiro)
+
+![Profile Views](https://komarev.com/ghpvc/?username=celloweb-ai&color=blue&style=for-the-badge)
+
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Sobre Mim
+---
+
+## 🚀 Sobre Mim
 
 Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e mais de **35 anos de experiência** em automação industrial, sistemas de controle e cibersegurança OT/ICS no setor de Oil & Gas.
 
@@ -44,8 +29,7 @@ Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e ma
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
-
+## 📊 GitHub Stats
 
 <div align="center">
   <img width="90%" src="https://github-readme-streak-stats-eight.vercel.app?user=celloweb-ai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -57,218 +41,121 @@ Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e ma
 
 ---
 
-## 💼 Projetos em Destaque
+## 🏆 Projetos em Destaque
 
-### 🤖 IA Generativa & Automação
+### 💰 [Assistente Financeiro Inteligente](https://github.com/celloweb-ai/Assistente_Financeiro)
+Assistente financeiro completo com IA generativa para análise de dados, chatbot e calculadoras financeiras.
+- **Tech Stack:** Python, OpenAI API, Streamlit, Pandas
+- **Features:** Chatbot inteligente, FAQs automáticas, análise de gastos
+- **Bootcamp:** DIO + Bradesco - GenAI & Dados
 
-<table>
-<tr>
-<td width="50%">
+### 🤖 [ChatGPT Voice Conversation](https://github.com/celloweb-ai/Chatgpt_Voice_Conversation)
+Sistema de conversação por voz integrando Whisper (OpenAI) para transcrição e gTTS para síntese de voz.
+- **Tech Stack:** Python, OpenAI Whisper, gTTS, SpeechRecognition
+- **Features:** Transcrição de áudio, síntese de voz, conversa natural
+- **Bootcamp:** DIO + Bradesco - GenAI & Dados
 
-#### 🤖 [Assistente Financeiro Inteligente](https://github.com/celloweb-ai/Assistente_Financeiro)
+### 📊 [Dashboard Xbox Game Pass](https://github.com/celloweb-ai/Dashboard_Vendas_Xbox_Game_Pass)
+Dashboard interativo para análise de vendas e performance do Xbox Game Pass.
+- **Tech Stack:** Excel, Power Query, VBA, Pivot Tables
+- **Features:** KPIs dinâmicos, visualizações interativas, análise de tendências
+- **Bootcamp:** DIO + Santander
 
-Chatbot financeiro com IA generativa, FAQs inteligentes e calculadoras.
+### 📈 [Simulador de Investimentos FIIs](https://github.com/celloweb-ai/Simulador_Investimentos_FIIs)
+Ferramenta completa para controle e simulação de investimentos em Fundos Imobiliários.
+- **Tech Stack:** Excel, VBA, Fórmulas Avançadas
+- **Features:** Controle de carteira, cálculo de dividendos, análise de rentabilidade
+- **Bootcamp:** DIO + Santander
 
-**Tech:** Python • OpenAI • Streamlit • LangChain
+### 📚 [NotebookLM - Educação Financeira](https://github.com/celloweb-ai/NotebookLM_Educacao_Financeira)
+Caderno temático sobre educação financeira usando NotebookLM com curadoria de fontes e prompts estratégicos.
+- **Tech Stack:** NotebookLM, Prompt Engineering
+- **Features:** Guia de estudos estruturado, FAQs temáticas, conteúdo curado
+- **Bootcamp:** DIO + Bradesco - GenAI & Dados
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+### 🔮 [Previsão de Estoque AWS](https://github.com/celloweb-ai/Lab_AWS_Sagemaker_Canvas_Estoque)
+Modelo de Machine Learning para previsão inteligente de estoque usando AWS SageMaker Canvas.
+- **Tech Stack:** AWS SageMaker Canvas, Machine Learning
+- **Features:** Previsão automatizada, análise preditiva, visualização de dados
+- **Bootcamp:** DIO + AWS
 
-</td>
-<td width="50%">
-
-#### 🗣️ [ChatGPT Voice Conversation](https://github.com/celloweb-ai/Chatgpt_Voice_Conversation)
-
-Conversação por voz com ChatGPT usando Whisper (OpenAI) e gTTS.
-
-**Tech:** Python • Whisper • gTTS • OpenAI API
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-### 📊 Excel & VBA Solutions
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🧧 [Organizador Declaração IR 2025](https://github.com/celloweb-ai/Organizador_Declaracao_Imposto_Renda)
-
-Ferramenta Excel completa para organização de declaração de imposto de renda com dashboard, validações e cálculos automáticos.
-
-**Tech:** Excel • VBA • Fórmulas Avançadas
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-512BD4?style=flat&logo=visualstudio&logoColor=white)
-
-</td>
-<td width="50%">
-
-#### 📈 [Dashboard Vendas Xbox Game Pass](https://github.com/celloweb-ai/Dashboard_Vendas_Xbox_Game_Pass)
-
-Dashboard analítico de vendas desenvolvido em Excel com visualizações interativas.
-
-**Tech:** Excel • Power Query • Charts
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🏢 [Simulador Investimentos FIIs](https://github.com/celloweb-ai/Simulador_Investimentos_FIIs)
-
-Ferramenta de controle e simulação de investimentos em Fundos Imobiliários.
-
-**Tech:** Excel • Financial Modeling
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-</td>
-<td width="50%">
-
-#### 📚 [NotebookLM Educação Financeira](https://github.com/celloweb-ai/NotebookLM_Educacao_Financeira)
-
-Caderno temático sobre educação financeira usando NotebookLM com curadoria de fontes.
-
-**Tech:** NotebookLM • Prompt Engineering
-
-![AI](https://img.shields.io/badge/AI-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-### ☁️ Cloud & Machine Learning
-
-<table>
-<tr>
-<td width="50%">
-
-#### 📦 [AWS SageMaker Canvas - Estoque](https://github.com/celloweb-ai/Lab_AWS_Sagemaker_Canvas_Estoque)
-
-Previsão de Estoque Inteligente usando AWS SageMaker Canvas.
-
-**Tech:** AWS • SageMaker • ML
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-</td>
-<td width="50%">
-
-#### 🎯 [Plano de Aula IA Personalizado](https://github.com/celloweb-ai/Plano_Aula_IA_Personalizado)
-
-Plano de aula interativo e personalizado usando ecossistema de IA.
-
-**Tech:** AI Tools • Educational Tech
-
-![AI](https://img.shields.io/badge/GenAI-412991?style=flat&logo=openai&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-<a href="https://github.com/celloweb-ai?tab=repositories">
-  <img src="https://img.shields.io/badge/Ver%20Todos%20os%20Projetos-%E2%86%92-29B6F6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</div>
+### 🧾 [Organizador de Declaração de IR](https://github.com/celloweb-ai/Organizador_Declaracao_Imposto_Renda)
+Organizador completo para Declaração de Imposto de Renda com validações automáticas.
+- **Tech Stack:** Python, Excel, Automação
+- **Features:** Validações automáticas, menus de navegação, organização de dados
+- **Bootcamp:** DIO + Santander
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" /> Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
-<details open>
-<summary><b>🤖 Inteligência Artificial & Machine Learning</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-00A98F?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+### Automação Industrial
+<p align="left">
+  <img src="https://img.shields.io/badge/ABB_800xA-FF0000?style=for-the-badge&logo=abb&logoColor=white" alt="ABB 800xA"/>
+  <img src="https://img.shields.io/badge/PLC_Programming-0066CC?style=for-the-badge" alt="PLC"/>
+  <img src="https://img.shields.io/badge/SCADA-00AA00?style=for-the-badge" alt="SCADA"/>
+  <img src="https://img.shields.io/badge/Fire_%26_Gas-CC0000?style=for-the-badge" alt="Fire & Gas"/>
+  <img src="https://img.shields.io/badge/ESD_Systems-FF6600?style=for-the-badge" alt="ESD Systems"/>
 </p>
-</details>
 
-<details>
-<summary><b>💻 Linguagens de Programação</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ladder_Logic-0066CC?style=for-the-badge&logo=siemens&logoColor=white"/>
+### Desenvolvimento & IA
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel VBA"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
-</details>
 
-<details>
-<summary><b>📊 Data Science & Analytics</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+### Data Science & ML
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
-</details>
 
-<details>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+### Ferramentas & Plataformas
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </p>
-</details>
-
-<details>
-<summary><b>🏭 Automação Industrial & Sistemas de Controle</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/ABB_800xA-FF0000?style=for-the-badge&logo=abb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SCADA-00AA00?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PLC_Programming-0066CC?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fire_%26_Gas-CC0000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESD_Systems-FF6600?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HMI_Design-1E90FF?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Safety_Systems-8B0000?style=for-the-badge&logoColor=white"/>
-</p>
-</details>
-
-<details>
-<summary><b>🔒 Cybersecurity OT/ICS</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/ICS_Security-DC143C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Network_Security-4B0082?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Risk_Assessment-FF4500?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Threat_Analysis-8B008B?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Compliance-228B22?style=for-the-badge&logoColor=white"/>
-</p>
-</details>
 
 ---
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> Certificações AI/ML (50+)
+## 🎓 Bootcamps & Formações DIO
+
+### ✅ Bootcamps Concluídos
+
+#### 🏦 **Bradesco - GenAI & Dados**
+- Assistente Financeiro com IA Generativa
+- ChatGPT Voice Conversation
+- NotebookLM para Educação Financeira
+- Fundamentos de IA Generativa
+
+#### 🏦 **Caixa - Inteligência Artificial na Prática**
+- Machine Learning e GenAI
+- Fundamentos de IA
+- Aplicações Práticas de IA
+
+#### 🏦 **Santander - Fundamentos de IA**
+- Dashboard de Vendas Xbox
+- Simulador de Investimentos
+- Organizador de IR
+- Excel Avançado com IA
+
+#### ☁️ **AWS Academy**
+- Previsão de Estoque com SageMaker Canvas
+- Fundamentos de Machine Learning
+- AWS GenAI Practitioner
+
+---
+
+## 🏅 Certificações AI/ML (50+)
 
 <details>
 <summary>🔽 Clique para ver todas as certificações com links</summary>
@@ -285,7 +172,7 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 - <a href="https://openbadgepassport.com/file/f/b/0/8/fb08a91d22bf1a11446a86d499d8d88c9114384f5ae4d7091c02cadec7237352.png" target="_blank" rel="noopener noreferrer">AI: exploring the potential of generative artificial intelligence</a>  
 
 ### appliedAI Institute for Europe
-- <a href="https://openbadgepassport.com/file/f/7/8/8/f7885582dbfcc71d113f338a4a2852ab25dadb6621e5e829931e2a23b71403e08.png" target="_blank" rel="noopener noreferrer">AI Essentials: A Comprehensive Introduction</a>  
+- <a href="https://openbadgepassport.com/file/f/7/8/8/f7885582dbfcc71d113f338a4a2852ab25dadb6621e5829931e2a23b71403e08.png" target="_blank" rel="noopener noreferrer">AI Essentials: A Comprehensive Introduction</a>  
 
 ### AWS / TIDWIT
 - <a href="https://aws-brgenai.ontidwit.com/#/badge/c716b58b-0f06-4bef-b2a7-f8ec3105c3c6" target="_blank" rel="noopener noreferrer">AWS GenAI Practitioner Badge</a>  
@@ -302,13 +189,12 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 - <a href="https://hermes.dio.me/certificates/cover/ZK2BXIQI.jpg" target="_blank" rel="noopener noreferrer">Inteligência Artificial na Prática</a>  
 - <a href="https://hermes.dio.me/certificates/cover/DAWA7T82.jpg" target="_blank" rel="noopener noreferrer">Fundamentos de IA Generativa com Bedrock</a>  
 - <a href="https://hermes.dio.me/certificates/HNCAV8GL.pdf" target="_blank" rel="noopener noreferrer">Formação Fundamentos de Inteligência Artificial</a>  
-- <a href="https://hermes.dio.me/certificates/LDQIRRVJ.pdf" target="_blank" rel="noopener noreferrer">Machine Learning e GenAI na Prática</a>
-- <a href="https://hermes.dio.me/certificates/9RIYTXMK.pdf" target="_blank" rel="noopener noreferrer">Excel com Inteligência Artificial</a>
-- <a href="https://hermes.dio.me/certificates/BNWKHWYQ.pdf" target="_blank" rel="noopener noreferrer">EducalA</a>
- 
+- <a href="https://hermes.dio.me/certificates/LDQIRRVJ.pdf" target="_blank" rel="noopener noreferrer">Machine Learning e GenAI na Prática</a>  
+
 ### FIAP
 - <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=96b5ba62fb2e00022d10ca512797dc3c&action=view" target="_blank" rel="noopener noreferrer">Chatbots</a>  
-- <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=6f4eccc2703b66fb7862c9ef191b430a&action=view" target="_blank" rel="noopener noreferrer">Inteligência Artificial e Computacional</a> - <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=1f9a87feae4a56eeefa505cd457242d5&action=view" target="_blank" rel="noopener noreferrer">Inteligência Artificial Responsável</a>
+- <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=6f4eccc2703b66fb7862c9ef191b430a&action=view" target="_blank" rel="noopener noreferrer">Inteligência Artificial e Computacional</a>  
+- <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=1f9a87feae4a56eeefa505cd457242d5&action=view" target="_blank" rel="noopener noreferrer">Inteligência Artificial Responsável</a>
 
 ### Google
 - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/T6PWMFQII2Z6" target="_blank" rel="noopener noreferrer">Google AI Essentials Specialization</a>  
@@ -376,7 +262,7 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 
 ---
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Experiência Profissional
+## 💼 Experiência Profissional
 
 ### 🛢️ **Automation Engineer Specialist @ PRIO**
 📅 Novembro 2025 - Presente | Rio de Janeiro  
@@ -405,7 +291,7 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Áreas de Especialização
+## 🎯 Áreas de Especialização
 
 ### Automação Industrial
 - ✅ ABB 800xA Control Systems
@@ -432,7 +318,7 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 
 ---
 
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Formação Acadêmica
+## 🎓 Formação Acadêmica
 
 🎓 **MBA em Gestão de Projetos - Oil & Gas** | FGV (2008)  
 🎓 **Especialização em Engenharia de Computação** | UFRGS (2001)  
@@ -441,64 +327,33 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 
 ---
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> Idiomas
+## 🌍 Idiomas
+
+🇧🇷 **Português:** Nativo  
+🇺🇸 **Inglês:** Avançado  
+🇪🇸 **Espanhol:** Intermediário
+
+---
+
+## 🤝 Vamos Conectar?
+
+Estou sempre aberto a colaborações, consultorias e networking! Entre em contato:
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e7-1f1f7.svg" width="50"/>
-  <br><strong>Português</strong>
-  <br>Nativo
-</td>
-<td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1fa-1f1f8.svg" width="50"/>
-  <br><strong>Inglês</strong>
-  <br>Avançado
-</td>
-<td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ea-1f1f8.svg" width="50"/>
-  <br><strong>Espanhol</strong>
-  <br>Intermediário
-</td>
-</tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusvasconcellos)
+[![Email](https://img.shields.io/badge/Email-marcus@vasconcellos.net.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcus@vasconcellos.net.br)
+[![GitHub](https://img.shields.io/badge/GitHub-Siga--me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celloweb-ai)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Conecte-se Comigo
-
 <div align="center">
-
-<p>Estou sempre aberto a colaborações, consultorias e networking!</p>
-
-<a href="https://www.linkedin.com/in/marcusvasconcellos" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:marcus@vasconcellos.net.br" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Entre_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/celloweb-ai" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Siga--me-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-<img src="https://forthebadge.com/images/badges/makes-people-smile.svg"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:29B6F6&height=150&section=footer&text=Obrigado%20pela%20visita!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
-</div>
-
-<div align="center">
-  <sub>⭐️ Criado com 💙 e ☕ por <a href="https://github.com/celloweb-ai">Marcus Vasconcellos</a></sub>
-  <br>
+  <sub>⭐️ Criado com 💙 por <a href="https://github.com/celloweb-ai">Marcus Vasconcellos</a></sub><br>
   <sub>🔄 Última atualização: Dezembro 2025</sub>
 </div>
