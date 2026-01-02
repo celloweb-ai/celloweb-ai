@@ -127,34 +127,6 @@ Organizador completo para Declaração de Imposto de Renda com validações auto
 
 ---
 
-## 🎓 Bootcamps & Formações DIO
-
-### ✅ Bootcamps Concluídos
-
-#### 🏦 **Bradesco - GenAI & Dados**
-- Assistente Financeiro com IA Generativa
-- ChatGPT Voice Conversation
-- NotebookLM para Educação Financeira
-- Fundamentos de IA Generativa
-
-#### 🏦 **Caixa - Inteligência Artificial na Prática**
-- Machine Learning e GenAI
-- Fundamentos de IA
-- Aplicações Práticas de IA
-
-#### 🏦 **Santander - Fundamentos de IA**
-- Dashboard de Vendas Xbox
-- Simulador de Investimentos
-- Organizador de IR
-- Excel Avançado com IA
-
-#### ☁️ **AWS Academy**
-- Previsão de Estoque com SageMaker Canvas
-- Fundamentos de Machine Learning
-- AWS GenAI Practitioner
-
----
-
 ## 🏅 Certificações AI/ML (50+)
 
 <details>
