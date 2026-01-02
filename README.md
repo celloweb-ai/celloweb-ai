@@ -1,7 +1,7 @@
-<p align="center">
+<div align="center">
   <h1>👋 Marcus Vasconcellos</h1>
   <strong>Senior Automation Engineer | AI/ML Enthusiast | Industrial Cybersecurity Specialist</strong>
-</p>
+</div>
 
 <div align="center">
 
