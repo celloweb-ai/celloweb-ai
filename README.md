@@ -1,12 +1,14 @@
 <div align="center">
   
   <h1>👋 Marcus Vasconcellos</h1>
+  
   <strong>Senior Automation Engineer | AI/ML Enthusiast | Industrial Cybersecurity Specialist</strong>
   
 </div>
 
 
 <div align="center">
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusvasconcellos)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcus@vasconcellos.net.br)
