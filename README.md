@@ -242,6 +242,7 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 - <a href="https://hermes.dio.me/certificates/LDQIRRVJ.pdf" target="_blank" rel="noopener noreferrer">Machine Learning e GenAI na Prática</a>
 - <a href="https://hermes.dio.me/certificates/9RIYTXMK.pdf" target="_blank" rel="noopener noreferrer">Excel com Inteligência Artificial</a>
 - <a href="https://hermes.dio.me/certificates/BNWKHWYQ.pdf" target="_blank" rel="noopener noreferrer">EducalA</a>
+- <a href="https://hermes.dio.me/certificates/UQ59CIZX.pdf" target="_blank" rel="noopener noreferrer">GenAI & Dados</a>
 
 ### FIAP
 - <a href="https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=96b5ba62fb2e00022d10ca512797dc3c&action=view" target="_blank" rel="noopener noreferrer">Chatbots</a>  
