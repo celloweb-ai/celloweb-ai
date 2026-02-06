@@ -34,7 +34,7 @@ Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e ma
 
 ---
 
-## ⭐ Projetos em Destaque
+## 🌟 Projetos em Destaque
 
 <div align="center">
 
@@ -46,59 +46,72 @@ Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e ma
 <tr>
 <td width="50%" valign="top">
 
-### 🛢️ [Offshore Maintenance Pro](https://github.com/celloweb-ai/Offshore_Maintenance_Pro)
+<div align="center">
+
+### 🛢️ **Offshore Maintenance Pro**
+
+[![Offshore Maintenance Pro](https://img.shields.io/badge/🌐_ACESSAR_APLICAÇÃO-4285F4?style=for-the-badge&logoColor=white)](https://aistudio.google.com/apps/drive/18KPSVp7PAgfUf6wSw_1qem7ch3VArNkz?showPreview=true&showAssistant=true&fullscreenApplet=true)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celloweb-ai/Offshore_Maintenance_Pro)
 
 <a href="https://github.com/celloweb-ai/Offshore_Maintenance_Pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=celloweb-ai&repo=Offshore_Maintenance_Pro&theme=tokyonight&hide_border=true" alt="Offshore Maintenance Pro" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=celloweb-ai&repo=Offshore_Maintenance_Pro&theme=react&bg_color=1F222E&title_color=70A5FD&icon_color=F8D866&hide_border=true&show_icons=false" alt="Offshore Maintenance Pro" width="100%"/>
 </a>
 
-**Sistema Inteligente de Geração de Planos de Manutenção Offshore com IA**
+</div>
 
-Automatize a criação de documentação técnica para plataformas FPSO e fixas com inteligência artificial Google Gemini 3 Pro.
+**🚀 Sistema Inteligente de Geração de Planos de Manutenção Offshore**
 
-**✨ Destaques:**
-- 🤖 IA Generativa para planos técnicos
-- 📄 Conformidade com normas BR/Internacional
-- 📊 Dashboard gerencial em tempo real
-- 🔧 Suporte a 8 categorias de instrumentos
-- ⚡ Exportação instantânea para PDF
+Automatize a criação de documentação técnica para plataformas FPSO e fixas com **Google Gemini 3 Pro AI**.
 
-**Tech Stack:**
+#### ✨ Recursos Principais
 
-![React](https://img.shields.io/badge/React-19.2-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat&logo=typescript&logoColor=white)
-![Google AI](https://img.shields.io/badge/Gemini_3-4285F4?style=flat&logo=google&logoColor=white)
+🤖 **IA Generativa** - Planos técnicos automatizados  
+📄 **Conformidade Total** - Normas BR e Internacionais  
+📊 **Dashboard Real-Time** - Métricas ao vivo  
+🔧 **8 Categorias** - Instrumentos completos  
+⚡ **Export PDF** - Instantâneo
 
-🌐 **[Acessar Aplicação](https://aistudio.google.com/apps/drive/18KPSVp7PAgfUf6wSw_1qem7ch3VArNkz?showPreview=true&showAssistant=true&fullscreenApplet=true)**
+#### 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React_19.2-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript_5.8-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Google AI](https://img.shields.io/badge/Gemini_3_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [MOC Studio](https://github.com/celloweb-ai/MocStudio)
+<div align="center">
+
+### ⚡ **MOC Studio**
+
+[![MOC Studio Demo](https://img.shields.io/badge/🌐_DEMO_AO_VIVO-3ECF8E?style=for-the-badge&logoColor=white)](https://mocstudio.lovable.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celloweb-ai/MocStudio)
 
 <a href="https://github.com/celloweb-ai/MocStudio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=celloweb-ai&repo=MocStudio&theme=tokyonight&hide_border=true" alt="MOC Studio" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=celloweb-ai&repo=MocStudio&theme=react&bg_color=1F222E&title_color=70A5FD&icon_color=F8D866&hide_border=true&show_icons=false" alt="MOC Studio" width="100%"/>
 </a>
 
-**Production-Ready React TypeScript Starter com Supabase Backend**
+</div>
 
-Starter enterprise-grade para desenvolvimento full-stack moderno com componentes UI profissionais e developer experience excepcional.
+**🚀 Production-Ready React TypeScript Starter**
 
-**✨ Destaques:**
-- 🎨 Shadcn UI + Radix UI components
-- 🔒 Supabase backend integrado
-- 🌙 Dark mode nativo
-- 📋 Form validation com Zod
-- 📈 Data visualization com Recharts
+Starter **enterprise-grade** para desenvolvimento full-stack moderno com componentes UI profissionais e **developer experience** excepcional.
 
-**Tech Stack:**
+#### ✨ Recursos Principais
 
-![React](https://img.shields.io/badge/React-18.3-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?style=flat&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-2.95-3ECF8E?style=flat&logo=supabase&logoColor=white)
+🎨 **Shadcn UI** - Componentes profissionais  
+🔒 **Supabase Backend** - Completo e integrado  
+🌙 **Dark Mode** - Nativo e elegante  
+📋 **Zod Validation** - Formulários robustos  
+📈 **Recharts** - Visualização de dados
 
-🌐 **[Demo ao Vivo](https://mocstudio.lovable.app/)**
+#### 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React_18.3-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript_5.8-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite_5.4-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase_2.95-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </td>
 </tr>
@@ -163,7 +176,7 @@ Conversação por voz com ChatGPT usando Whisper (OpenAI) e gTTS.
 <tr>
 <td width="50%">
 
-#### 🧾e[Organizador Declaração IR 2025](https://github.com/celloweb-ai/Organizador_Declaracao_Imposto_Renda)
+#### 🧾e [Organizador Declaração IR 2025](https://github.com/celloweb-ai/Organizador_Declaracao_Imposto_Renda)
 
 Ferramenta Excel completa para organização de declaração de imposto de renda com dashboard, validações e cálculos automáticos.
 
