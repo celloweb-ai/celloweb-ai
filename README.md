@@ -53,7 +53,7 @@ Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e ma
 [![Offshore Maintenance Pro](https://img.shields.io/badge/🌐_ACESSAR_APLICAÇÃO-4285F4?style=for-the-badge&logoColor=white)](https://aistudio.google.com/apps/drive/18KPSVp7PAgfUf6wSw_1qem7ch3VArNkz?showPreview=true&showAssistant=true&fullscreenApplet=true)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celloweb-ai/Offshore_Maintenance_Pro)
 
-<a href="https://github.com/celloweb-ai/Offshore_Maintenance_Pro">
+<a href="https://aistudio.google.com/apps/drive/18KPSVp7PAgfUf6wSw_1qem7ch3VArNkz?showPreview=true&showAssistant=true&fullscreenApplet=true">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=celloweb-ai&repo=Offshore_Maintenance_Pro&theme=react&bg_color=1F222E&title_color=70A5FD&icon_color=F8D866&hide_border=true&show_icons=false" alt="Offshore Maintenance Pro" width="100%"/>
 </a>
 
@@ -88,7 +88,7 @@ Automatize a criação de documentação técnica para plataformas FPSO e fixas 
 [![MOC Studio Demo](https://img.shields.io/badge/🌐_DEMO_AO_VIVO-3ECF8E?style=for-the-badge&logoColor=white)](https://mocstudio.lovable.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celloweb-ai/MocStudio)
 
-<a href="https://github.com/celloweb-ai/MocStudio">
+<a href="https://mocstudio.lovable.app/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=celloweb-ai&repo=MocStudio&theme=react&bg_color=1F222E&title_color=70A5FD&icon_color=F8D866&hide_border=true&show_icons=false" alt="MOC Studio" width="100%"/>
 </a>
 
