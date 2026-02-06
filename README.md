@@ -54,7 +54,7 @@ Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e ma
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celloweb-ai/Offshore_Maintenance_Pro)
 
 <a href="https://aistudio.google.com/apps/drive/18KPSVp7PAgfUf6wSw_1qem7ch3VArNkz?showPreview=true&showAssistant=true&fullscreenApplet=true">
-  <img src="https://www.freepik.com/icon/link_282100" alt="Offshore Maintenance Pro" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=celloweb-ai&repo=Offshore_Maintenance_Pro&theme=react&bg_color=1F222E&title_color=70A5FD&icon_color=F8D866&hide_border=true&show_icons=false" alt="Offshore Maintenance Pro" width="100%"/>
 </a>
 
 </div>
