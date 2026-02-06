@@ -34,6 +34,84 @@ Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e ma
 
 ---
 
+## ⭐ Projetos em Destaque
+
+<div align="center">
+
+### 💡 Principais Projetos
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛢️ [Offshore Maintenance Pro](https://github.com/celloweb-ai/Offshore_Maintenance_Pro)
+
+<a href="https://github.com/celloweb-ai/Offshore_Maintenance_Pro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=celloweb-ai&repo=Offshore_Maintenance_Pro&theme=tokyonight&hide_border=true" alt="Offshore Maintenance Pro" width="100%"/>
+</a>
+
+**Sistema Inteligente de Geração de Planos de Manutenção Offshore com IA**
+
+Automatize a criação de documentação técnica para plataformas FPSO e fixas com inteligência artificial Google Gemini 3 Pro.
+
+**✨ Destaques:**
+- 🤖 IA Generativa para planos técnicos
+- 📄 Conformidade com normas BR/Internacional
+- 📊 Dashboard gerencial em tempo real
+- 🔧 Suporte a 8 categorias de instrumentos
+- ⚡ Exportação instantânea para PDF
+
+**Tech Stack:**
+
+![React](https://img.shields.io/badge/React-19.2-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat&logo=typescript&logoColor=white)
+![Google AI](https://img.shields.io/badge/Gemini_3-4285F4?style=flat&logo=google&logoColor=white)
+
+🌐 **[Acessar Aplicação](https://aistudio.google.com/apps/drive/18KPSVp7PAgfUf6wSw_1qem7ch3VArNkz?showPreview=true&showAssistant=true&fullscreenApplet=true)**
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [MOC Studio](https://github.com/celloweb-ai/MocStudio)
+
+<a href="https://github.com/celloweb-ai/MocStudio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=celloweb-ai&repo=MocStudio&theme=tokyonight&hide_border=true" alt="MOC Studio" width="100%"/>
+</a>
+
+**Production-Ready React TypeScript Starter com Supabase Backend**
+
+Starter enterprise-grade para desenvolvimento full-stack moderno com componentes UI profissionais e developer experience excepcional.
+
+**✨ Destaques:**
+- 🎨 Shadcn UI + Radix UI components
+- 🔒 Supabase backend integrado
+- 🌙 Dark mode nativo
+- 📋 Form validation com Zod
+- 📈 Data visualization com Recharts
+
+**Tech Stack:**
+
+![React](https://img.shields.io/badge/React-18.3-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?style=flat&logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-2.95-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+🌐 **[Demo ao Vivo](https://mocstudio.lovable.app/)**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 👉 [Ver Todos os Projetos](https://github.com/celloweb-ai?tab=repositories)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -46,7 +124,7 @@ Engenheiro de Eletrônica e Computação com **MBA em Gestão de Projetos** e ma
 
 ---
 
-## 🌟 Projetos em Destaque
+## 🌟 Outros Projetos Notáveis
 
 ### 🤖 IA Generativa & Automação
 
@@ -85,7 +163,7 @@ Conversação por voz com ChatGPT usando Whisper (OpenAI) e gTTS.
 <tr>
 <td width="50%">
 
-#### 🧾[Organizador Declaração IR 2025](https://github.com/celloweb-ai/Organizador_Declaracao_Imposto_Renda)
+#### 🧾e[Organizador Declaração IR 2025](https://github.com/celloweb-ai/Organizador_Declaracao_Imposto_Renda)
 
 Ferramenta Excel completa para organização de declaração de imposto de renda com dashboard, validações e cálculos automáticos.
 
@@ -180,6 +258,8 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel VBA"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
@@ -200,6 +280,8 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </p>
 
@@ -326,7 +408,7 @@ Plano de aula interativo e personalizado usando ecossistema de IA.
 📅 Abril 2023 - Novembro 2025 | Rio de Janeiro  
 🔧 Focal point de Fire & Gas e automação para Peregrino FPSO e 3 plataformas wellhead
 
-### 🏗️ **Senior I&A Engineer @ DBR Energies**
+### 🏭 **Senior I&A Engineer @ DBR Energies**
 📅 Julho 2022 - Abril 2023 | Rio de Janeiro  
 🔧 Projetos de automação para PETROBRAS (ATAPU 2, SÉPIA 2, GASLUB)
 
@@ -429,5 +511,5 @@ Estou sempre aberto a colaborações, consultorias e networking! Entre em contat
 
 <div align="center">
   <sub>⭐️ Criado com 💙 por <a href="https://github.com/celloweb-ai">Marcus Vasconcellos</a></sub><br>
-  <sub>🔄 Última atualização: Dezembro 2025</sub>
+  <sub>🔄 Última atualização: Fevereiro 2026</sub>
 </div>
